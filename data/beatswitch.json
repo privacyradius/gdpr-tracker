@@ -1,0 +1,29 @@
+{
+  "id": "beatswitch",
+  "name": "Beatswitch",
+  "description": "The world's leading music event and festival management software",
+  "categories": [
+    "Event Management", 
+    "Festival Planning"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
+  "website": "https://www.beatswitch.com",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.beatswitch.com/privacy",
+  "dsarFormUrl": "https://bs.gdprform.io",
+  "dpaUrl": "",
+  "dataCenters": ["EU"],
+  "hostingPartners": ["AWS"],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Thomas Ghys",
+      "email": "thomas@ghys-projects.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": []
+}
