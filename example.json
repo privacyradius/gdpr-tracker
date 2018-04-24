@@ -1,0 +1,49 @@
+{
+  "id": "acme",
+  "name": "Acme",
+  "description": "CRM & Customer platform for SMBs",
+  "categories": [
+    "CRM", 
+    "Customer Support"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
+  "website": "https://www.acmesaas.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.acmesaas.com/privacy",
+  "dsarFormUrl": "https://bs.gdprform.io",
+  "dpaUrl": "https://www.acmesaas.com/dpa",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS", 
+    "Digital Ocean"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "John Doe",
+      "email": "john@dpo.com",
+      "region": "EU"
+    }, 
+    {
+      "type": "DPO",
+      "name": "Tim Doe",
+      "email": "tim@dpo.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [
+    "ISO27k", 
+    "HIPAA"
+  ],
+  "dataBreaches": [{
+    "date": "10/12/2017",
+    "url": "https://www.beatswtich.com/breach"
+  }],
+  "articles": [{
+    "date": "02/12/2018",
+    "url": "https://www.beatswtich.com/gdpr"
+  }]
+}

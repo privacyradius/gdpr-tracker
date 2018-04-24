@@ -1,0 +1,145 @@
+{
+  "title": "Service",
+  "type": "object",
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "id": "",
+  "required": [
+    "id",
+    "name",
+    "description",
+    "categories",
+    "iconUrl",
+    "countryHQ",
+    "website",
+    "gdprReadyStatus"
+  ],
+  "properties": { 
+    "id": { 
+      "type": "string", 
+      "description": "Unique indentifier for the product",
+      "examples": ["acme"]
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the product",
+      "examples": ["Acme"]
+    },
+    "description": {
+      "type": "string",
+      "description": "A description what the service does",
+      "examples": ["CRM & Customer platform for SMBs"]
+    },
+    "categories": {
+      "type": "array",
+      "description": "What category does this service belong to?",
+      "examples": ["CRM", "Customer Support"]
+    },
+    "iconUrl": {
+      "type": "string",
+      "description": "URL to the icon of the product (recommended size 400x400)",
+      "examples": ["https://camo.githubusercontent.com/60c99424ef78e45661021dd0c5896277ff846150/68747470733a2f2f73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f6d61726b6574696e672d6769746875622f69636f6e2e706e67"]
+    },
+    "countryHQ": {
+      "type": "string",
+      "description": "Country (ISO ALPHA-2 code) of HQ",
+      "examples": ["US"]
+    },
+    "website": {
+      "type": "string",
+      "examples": ["https://www.acme.com/"]
+    },
+    "gdprReadyStatus": {
+      "enum": [ "inProgress", "ready", "nonCompliant", "unknown" ],
+      "examples": ["inProgress"]
+    },
+    "privacyUrl": {
+      "type": "string",
+      "description": "Link to privacy policy",
+      "examples": ["https://www.acme.com/privacy"]
+    },
+    "dsarFormUrl": {
+      "description": "Data Subject Access Rights Form URL",
+      "type": "string"
+    },
+    "dpaUrl": {
+      "description": "Data Processing Agreement URL",
+      "type": "string"
+    },
+    "dataCenters": {
+      "type": "array",
+      "description": "Locations where data is hosted"
+    },
+    "hostingProviders": {
+      "type": "array",
+      "description": "Hosting providers"
+    },
+    "contacts" : {
+      "type": "array",
+      "description": "Appointed DPOs or privacy officers per region",
+      "items": {
+        "type": "object",
+        "required": [
+          "type",
+          "name",
+          "email"
+        ],
+        "properties": {
+          "type": {
+            "enum": [ "DPO", "Privacy Officer", "Other" ],
+            "description": "Function",
+            "examples": ["DPO"]
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of DPO",
+            "examples": ["John Doe"]
+          }, 
+          "email": {
+            "type": "string",
+            "description": "Email of DPO",
+            "format": "email"
+          },
+          "Region": {
+            "type": "string",
+            "description": "Region where the contact is responsible",
+            "examples": ["Global"]
+          }
+        }
+      }
+    },
+    "certifications": {
+      "type": "array",
+      "items": {
+        "enum": [
+          "ISO27k",
+          "PCI DSS",
+          "SOC 2 Type I",
+          "SOC 2 Type II",
+          "HIPAA",
+          "HITECH",
+          "RESO"
+        ]
+      } 
+    },
+    "dataBreaches": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "articles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    }
+  }
+}
