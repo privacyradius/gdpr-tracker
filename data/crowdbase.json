@@ -1,0 +1,34 @@
+{
+  "id": "crowdbase",
+  "name": "Crowdbase",
+  "description": "CRM & Customer platform for SMBs",
+  "categories": [
+    "Data Management",
+    "CRM"
+  ],
+  "iconUrl": "https://www.crowdbase.co/favicons/android-chrome-512x512.png",
+  "website": "https://www.crowdbase.co",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.crowdbase.co/privacy",
+  "dsarFormUrl": "https://crowdbase.gdprform.io",
+  "dpaUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS", 
+    "MongoDB"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Thomas Van Orshaegen",
+      "email": "thomas@crowdbase.co",
+      "region": "EU"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": []
+}
