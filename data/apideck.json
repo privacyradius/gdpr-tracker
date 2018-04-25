@@ -4,9 +4,8 @@
   "description": "Hosted platform solution for SaaS companies to build their own integrations & marketplace.",
   "categories": [
     "Data Integration",
-    "PaaS",
-    "IaaS",
-    "SaaS"
+    "API",
+    "iPaaS",
   ],
   "iconUrl": "https://www.apideck.com/static/logo.5a11ed6f.svg",
   "website": "https://www.apideck.com",
