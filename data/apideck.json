@@ -7,11 +7,12 @@
     "API",
     "iPaaS"
   ],
-  "iconUrl": "https://www.apideck.com/static/logo.5a11ed6f.svg",
+  "iconUrl": "https://pbs.twimg.com/profile_images/909337638091542529/R3I5vIsh.jpg",
   "website": "https://www.apideck.com",
   "countryHQ": "BE",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.iubenda.com/privacy-policy/66303286",
+  "dsarFormUrl": "https://apideck.gdprform.io/",
   "dpaUrl": "",
   "dataCenters": [
     "EU"
