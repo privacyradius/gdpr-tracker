@@ -1,0 +1,30 @@
+{
+  "id": "laravelio",
+  "name": "Laravel.io",
+  "description": "The Laravel Community Portal",
+  "categories": [
+    "Community", 
+    "Forum",
+    "Web Development"
+  ],
+  "iconUrl": "https://image.ibb.co/kNDbpH/laravelio_small.png",
+  "website": "https://laravel.io",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://laravel.io/privacy",
+  "dsarFormUrl": "https://laravelio.gdprform.io",
+  "dpaUrl": "",
+  "dataCenters": ["EU"],
+  "hostingPartners": ["Digital Ocean"],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Dries Vints",
+      "email": "dries.vints@gmail.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": []
+}
