@@ -5,7 +5,7 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
 
 - Fork the repo and create your branch with the name of the service you want to add from `master`.
 - Add a file with the service name to the data folder.
-- Make sure your data follows the following [schema](https://github.com/privacyradius/gdpr-tracker-data/blob/master/schema.json). Please look into the following [example](https://github.com/privacyradius/gdpr-tracker-data/blob/master/example.json) for more info
+- Make sure your data follows the following [schema](https://github.com/privacyradius/gdpr-tracker/blob/master/schema.json). Please look into the following [example](https://github.com/privacyradius/gdpr-tracker/blob/master/example.json) for more info
 - If you're unsure about certain data points leave them out our check with the company offering the service.
 -  Use [signed commits](https://help.github.com/articles/signing-commits-with-gpg/). We enforce signed commits to verify the identity of contributors.
 - Ensure the test suite passes.
@@ -81,9 +81,9 @@ We use github to host our data, code, to track issues and feature requests, as w
 
 In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues](https://github.com/privacyradius/gdpr-tracker-data/issues)
+## Report bugs using Github's [issues](https://github.com/privacyradius/gdpr-tracker/issues)
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/privacyradius/gdpr-tracker-data/issues); it's that easy!
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/privacyradius/gdpr-tracker/issues); it's that easy!
 
 ## License
 
