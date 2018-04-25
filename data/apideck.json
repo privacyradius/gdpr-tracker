@@ -1,0 +1,33 @@
+{
+  "id": "apideck",
+  "name": "Apideck",
+  "description": "Hosted platform solution for SaaS companies to build their own integrations & marketplace.",
+  "categories": [
+    "Data Integration",
+    "API",
+    "iPaaS"
+  ],
+  "iconUrl": "https://www.apideck.com/static/logo.5a11ed6f.svg",
+  "website": "https://www.apideck.com",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.iubenda.com/privacy-policy/66303286",
+  "dpaUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Michiel De Wilde",
+      "email": "michiel@apideck.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": []
+}
