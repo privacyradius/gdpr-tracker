@@ -1,0 +1,37 @@
+{
+  "id": "salesflare",
+  "name": "Salesflare",
+  "description": "Simply powerful CRM that automates your data to build better relationships and make more sales.",
+  "categories": [
+    "CRM"
+  ],
+  "iconUrl": "https://drive.google.com/file/d/0B6VdqSC9zJn0T3RfaVJqN2gydWc/view?usp=sharing",
+  "website": "https://www.salesflare.com",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://salesflare.com/privacy.html",
+  "dsarFormUrl": "https://salesflare.gdprform.io",
+  "dpaUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "Google Cloud"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Jeroen Corthout",
+      "email": "privacy@salesflare.com",
+      "region": "Europe"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "March 13, 2018",
+      "link": "https://blog.salesflare.com/your-crm-and-gdpr-769120282357"
+    }
+  ]
+}
