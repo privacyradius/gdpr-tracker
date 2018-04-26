@@ -12,26 +12,27 @@ You can add a service by following the [contribution guidelines](https://github.
 
 ## Format
 
-We use JSON Schema to validate the data and to maintain a high level of data quality.
+We use JSON Schema to validate the data and to maintain a high level of data quality. Please find the schema at the [following location](https://github.com/privacyradius/gdpr-tracker/blob/master/schema.json).
 
-| Field            	| Type   	| Format           	| Required 	| Description                                                	| Options                                                           	|
-|------------------	|--------	|------------------	|----------	|------------------------------------------------------------	|-------------------------------------------------------------------	|
-| id               	| string 	|                  	| *        	| Unique id to identify the company                          	|                                                                   	|
-| name             	| string 	|                  	| *        	| Name of the company                                        	|                                                                   	|
-| description      	| string 	|                  	| *        	| Description of the service                                 	|                                                                   	|
-| categories       	| array  	|                  	| *        	| Categories that the service belongs to                     	|                                                                   	|
-| iconUrl          	| string 	| url              	| *        	| URL to the icon of the service (recommended size 400x400)- 	|                                                                   	|
-| countryHQ        	| string 	| ISO ALPHA-2 code 	| *        	| Country of HQ                                              	|                                                                   	|
-| gdprReadyStatus  	| enum   	|                  	| *        	| GDPR readiness status of this service                      	| unknown, inProgress, ready, nonCompliant                          	|
-| privacyUrl       	| string 	| url              	|          	| Link to privacy policy                                     	|                                                                   	|
-| dsarFormUrl      	| string 	| url              	|          	| Data Subject Access Rights Form URL                        	|                                                                   	|
-| dpaUrl           	| string 	| url              	|          	| Data Processing Agreement URL                              	|                                                                   	|
-| dataCenters      	| array  	|                  	|          	| Locations where data is hosted                             	|                                                                   	|
-| hostingProviders 	| array  	|                  	|          	| Hosting providers                                          	|                                                                   	|
-| contacts         	| array  	|                  	|          	| Appointed DPOs or privacy officers per region              	|                                                                   	|
-| certifications   	| array  	|                  	|          	| Certifications                                             	| ISO27k, PCI DSS, SOC 2 Type I, SOC 2 Type II, HIPAA, HITECH, RESO 	|
-| dataBreaches     	| array  	|                  	|          	| Reported data breaches                                     	|                                                                   	|
-| articles         	| array  	|                  	|          	| GDPR & privacy related articles                            	|                                                                   	|
+| Field            	| Type   	| Format           	| Required 	| Description                                               	| Options                                                                             	|
+|------------------	|--------	|------------------	|----------	|-----------------------------------------------------------	|-------------------------------------------------------------------------------------	|
+| id               	| string 	|                  	| *        	| Unique id to identify the company                         	|                                                                                     	|
+| name             	| string 	|                  	| *        	| Name of the company                                       	|                                                                                     	|
+| description      	| string 	|                  	| *        	| Description of the service                                	|                                                                                     	|
+| categories       	| array  	|                  	| *        	| Categories that the service belongs to                    	|                                                                                     	|
+| iconUrl          	| string 	| url              	| *        	| URL to the icon of the service (recommended size 400x400) 	|                                                                                     	|
+| countryHQ        	| string 	| ISO ALPHA-2 code 	| *        	| Country of HQ                                             	|                                                                                     	|
+| gdprReadyStatus  	| enum   	|                  	| *        	| GDPR readiness status of this service                     	| unknown<br> inProgress<br> ready<br> nonCompliant                                   	|
+| privacyUrl       	| string 	| url              	|          	| Link to privacy policy                                    	|                                                                                     	|
+| dsarFormUrl      	| string 	| url              	|          	| Data Subject Access Rights Form URL                       	|                                                                                     	|
+| dpaUrl           	| string 	| url              	|          	| Data Processing Agreement URL                             	|                                                                                     	|
+| dataCenters      	| array  	|                  	|          	| Locations where data is hosted                            	|                                                                                     	|
+| hostingProviders 	| array  	|                  	|          	| Hosting providers                                         	|                                                                                     	|
+| contacts         	| array  	|                  	|          	| Appointed DPOs or privacy officers per region             	|                                                                                     	|
+| certifications   	| enum   	|                  	|          	| Certifications                                            	| ISO27k<br> PCI DSS<br> SOC 2 Type I<br> SOC 2 Type II<br> HIPAA<br> HITECH<br> RESO 	|
+| dataBreaches     	| array  	|                  	|          	| Reported data breaches                                    	|                                                                                     	|
+| articles         	| array  	|                  	|          	| GDPR & privacy related articles                           	|                                                                                     	|
+
 ### [Example](https://github.com/privacyradius/gdpr-tracker/blob/master/schema.json)
 
 ```
@@ -106,6 +107,7 @@ The GDPR Tracker is created by Privacy Radius. Privacy Radius is a European prov
 
 ## Links
 
-* [GDPR Tracker](https://www.gdprtracker.io/)
-* [GDPR Checklist](https://www.gdprchecklist.io/)
+* [GDPR Tracker](https://www.gdprtracker.io)
+* [GDPR Checklist](https://www.gdprchecklist.io)
+* [GDPR Form](https://www.gdprform.io)
 * [Twitter](https://twitter.com/privacyradius)
