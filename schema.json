@@ -49,6 +49,7 @@
       "examples": ["https://www.acme.com/"]
     },
     "gdprReadyStatus": {
+      "description": "GDPR readiness status of this service",
       "enum": [ "inProgress", "ready", "nonCompliant", "unknown" ],
       "examples": ["inProgress"]
     },
