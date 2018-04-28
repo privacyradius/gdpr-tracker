@@ -1,0 +1,43 @@
+{
+  "id": "intuo",
+  "name": "Intuo",
+  "description": "Coaching and talent enablement platform",
+  "categories": [
+    "Human Resources", 
+    "Performance Management"
+  ],
+  "iconUrl": "https://s3.eu-central-1.amazonaws.com/intuo-marketing-assets/intuo_icon_app_200x200_blue_grad.png",
+  "website": "https://www.intuo.io",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.intuo.io/terms-conditions",
+  "dsarFormUrl": "",
+  "dpaUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Fé Zenner",
+      "email": "fe@intuo.io",
+      "region": "EU"
+    }, 
+    {
+      "type": "DPO",
+      "name": "Philip De Smedt",
+      "email": "philip@intuo.io",
+      "region": "EU"
+    }
+  ],
+  "certifications": [
+    "ISO27k"
+  ],
+  "articles": [{
+    "date": "01/03/2018",
+    "url": "https://www.intuo.io/security"
+  }]
+}
