@@ -29,7 +29,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
 | dataCenters      	| array  	|                  	|          	| Locations where data is hosted                            	|                                                                                     	|
 | hostingProviders 	| array  	|                  	|          	| Hosting providers                                         	|                                                                                     	|
 | contacts         	| array  	|                  	|          	| Appointed DPOs or privacy officers per region             	|                                                                                     	|
-| certifications   	| enum   	|                  	|          	| Certifications                                            	| ISO27k<br> PCI DSS<br> SOC 2 Type I<br> SOC 2 Type II<br> HIPAA<br> HITECH<br> RESO 	|
+| certifications   	| enum   	|                  	|          	| Certifications                                            	| ISO 27001<br> PCI DSS<br> SOC 2 Type I<br> SOC 2 Type II<br> HIPAA<br> HITECH<br> RESO 	|
 | dataBreaches     	| array  	|                  	|          	| Reported data breaches                                    	|                                                                                     	|
 | articles         	| array  	|                  	|          	| GDPR & privacy related articles                           	|                                                                                     	|
 
