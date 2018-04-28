@@ -73,7 +73,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
     }
   ],
   "certifications": [
-    "ISO27k", 
+    "ISO 27001", 
     "HIPAA"
   ],
   "dataBreaches": [
