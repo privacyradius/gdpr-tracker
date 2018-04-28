@@ -112,7 +112,7 @@
       "type": "array",
       "items": {
         "enum": [
-          "ISO27k",
+          "ISO 27001",
           "PCI DSS",
           "SOC 2 Type I",
           "SOC 2 Type II",
