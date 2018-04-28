@@ -51,7 +51,7 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
     }
   ],
   "certifications": [
-    "ISO27k", 
+    "ISO 27001", 
     "HIPAA"
   ],
   "dataBreaches": [
