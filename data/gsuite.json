@@ -1,0 +1,39 @@
+{
+  "id": "gsuite",
+  "name": "G Suite",
+  "description": "Gmail, Docs, Drive, Calendar and More for Business",
+  "categories": [
+    "Productivity",
+    "Email",
+    "Collaboration"
+  ],
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
+  "website": "https://gsuite.google.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://policies.google.com/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://gsuite.google.com/terms/dpa_terms.html",
+  "processorsUrl": "https://gsuite.google.com/intl/en/terms/subprocessors.html",
+  "dataCenters": [
+    "Global"
+  ],
+  "hostingPartners": [
+    "Google Cloud"
+  ],
+  "contacts": [],
+  "certifications": [
+    "ISO 27001",
+    "ISO 27017",
+    "ISO 27018",
+    "SOC 2 Type I",
+    "SOC 2 Type II",
+    "SOC 3"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://cloud.google.com/security/gdpr"
+    }
+  ]
+}
