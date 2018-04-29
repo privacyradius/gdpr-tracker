@@ -66,6 +66,10 @@
       "description": "Data Processing Agreement URL",
       "type": "string"
     },
+    "subprocessorsUrl": {
+      "description": "Subprocessors Overview URL",
+      "type": "string"
+    },
     "dataCenters": {
       "type": "array",
       "description": "Locations where data is hosted"
@@ -113,9 +117,14 @@
       "items": {
         "enum": [
           "ISO 27001",
-          "PCI DSS",
+          "ISO 27017",
+          "ISO 27018",
+          "C5",
+          "PCI DSS Level 1",
+          "SOC 1",
           "SOC 2 Type I",
           "SOC 2 Type II",
+          "SOC 3",
           "HIPAA",
           "HITECH",
           "RESO"
@@ -126,6 +135,10 @@
       "type": "array",
       "items": {
         "type": "object",
+        "required": [
+          "date",
+          "url"
+        ],
         "properties": {
           "date": { "type": "string" },
           "url": { "type": "string" }
@@ -136,6 +149,10 @@
       "type": "array",
       "items": {
         "type": "object",
+        "required": [
+          "date",
+          "url"
+        ],
         "properties": {
           "date": { "type": "string" },
           "url": { "type": "string" }
