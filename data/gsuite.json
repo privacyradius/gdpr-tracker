@@ -14,7 +14,7 @@
   "privacyUrl": "https://policies.google.com/privacy",
   "dsarFormUrl": "",
   "dpaUrl": "https://gsuite.google.com/terms/dpa_terms.html",
-  "processorsUrl": "https://gsuite.google.com/intl/en/terms/subprocessors.html",
+  "subprocessorsUrl": "https://gsuite.google.com/intl/en/terms/subprocessors.html",
   "dataCenters": [
     "Global"
   ],
