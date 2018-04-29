@@ -151,7 +151,6 @@
       "items": {
         "type": "object",
         "required": [
-          "date",
           "url"
         ],
         "properties": {
