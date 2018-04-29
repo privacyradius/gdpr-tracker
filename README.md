@@ -52,6 +52,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
   "privacyUrl": "https://www.acmesaas.com/privacy",
   "dsarFormUrl": "https://bs.gdprform.io",
   "dpaUrl": "https://www.acmesaas.com/dpa",
+  "subprocessorsUrl": "https://www.acmesaas.com/subprocessors",
   "dataCenters": [
     "EU"
   ],
