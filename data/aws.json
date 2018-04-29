@@ -13,7 +13,7 @@
   "privacyUrl": "https://aws.amazon.com/privacy",
   "dsarFormUrl": "",
   "dpaUrl": "https://eu-west-1.console.aws.amazon.com/console/dpa",
-  "processorsUrl": "",
+  "subprocessorsUrl": "",
   "dataCenters": [
     "Global"
   ],
