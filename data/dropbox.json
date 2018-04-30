@@ -1,0 +1,46 @@
+{
+  "id": "dropbox",
+  "name": "Dropbox",
+  "description": "Dropbox offers cloud storage, file synchronization, personal cloud, and client software.",
+  "categories": [
+    "Cloud Storage",
+    "Collaboration"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525087974/dropbox-xxl.png",
+  "website": "https://dropbox.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.dropbox.com/en_GB/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://assets.dropbox.com/documents/en/legal/data-processing-agreement-dfb-013118.pdf",
+  "subprocessorsUrl": "https://assets.dropbox.com/documents/en/legal/subprocessors-dfb-013118.pdf",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "ISO 27001",
+    "ISO 27017",
+    "ISO 27018",
+    "SOC 1",
+    "SOC 2 Type II",
+    "SOC 3"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "March 20, 2018",
+      "url": "https://blogs.dropbox.com/business/2018/03/gdpr-accountability-principle/"
+    },
+    {
+      "url": "https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/security/dropbox_gdpr_compliance_journey.pdf"
+    },
+    {
+      "url": "https://aem.dropbox.com/cms/content/dam/dropbox/go/en-us/gdpr-ebook/the-general-data-protection-regulation-ebook.pdf"
+    },
+    {
+      "url": "https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/security/privacy_data_protection_whitepaper.pdf"
+    }
+  ]
+}
