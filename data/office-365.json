@@ -1,0 +1,27 @@
+{
+  "id": "office-365",
+  "name": "Office 365",
+  "description": "Office 365 is the brand name Microsoft uses for a group of subscriptions that provide productivity software and related services (Microsoft Word, PowerPoint, Excel, and OneNote).",
+  "categories": [
+    "Documents",
+    "Collaboration",
+    "Office Suites"
+  ],
+  "iconUrl": "https://camo.githubusercontent.com/62768182bc47a2a35a50d4b65d5a603b9dd7d2cc/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f343732313330392f3636343330362f66373865356161302d643738312d313165322d383766612d3338626635363164656233392e706e67",
+  "website": "https://www.office.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://privacy.microsoft.com/en-us/privacystatement",
+  "dsarFormUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://aka.ms/Online_Serv_Subcontractor_List",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.microsoft.com/en-us/TrustCenter/CloudServices/office365/GDPR"
+    }
+  ]
+}
