@@ -1,0 +1,38 @@
+{
+  "id": "mixpanel",
+  "name": "Mixpanel",
+  "description": "Product Analytics for Mobile, Web, and Beyond",
+  "categories": [
+    "Analytics",
+    "Hosting"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525208708/mixpanel.jpg",
+  "website": "https://mixpanel.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://mixpanel.com/legal/privacy-policy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://mixpanel.com/legal/dpa",
+  "subprocessorsUrl": "https://mixpanel.app.box.com/s/plxlttoykp0zibtr95oldaqyvr1vr49i",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS",
+    "Google Cloud",
+    "Softlayer"
+  ],
+  "contacts": [],
+  "certifications": [
+    "ISO 27001",
+    "SOC 2 Type I",
+    "SOC 2 Type II"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://mixpanel.com/blog/2017/12/21/gdpr-mixpanel-readiness"
+    },
+    {
+      "url": "https://mixpanel.com/legal/security-overview"
+    }
+  ]
+}
