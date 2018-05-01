@@ -1,0 +1,36 @@
+{
+  "id": "okta",
+  "name": "Okta",
+  "description": "Identity Management for the Cloud",
+  "categories": [
+    "Identity Management"
+  ],
+  "iconUrl": "http://res.cloudinary.com/gdprtracker-io/image/upload/v1525201478/okta.png",
+  "website": "https://okta.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.okta.com/privacy-policy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://www.okta.com/sites/default/files/OKTA-Data-Processing-Addendum_09-17.pdf",
+  "subprocessorsUrl": "https://www.okta.com/sites/default/files/SUBPROCESSORS_Public_facing_content_3-16-18_v2.pdf",
+  "dataCenters": [
+    "Global"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "ISO 27001",
+    "ISO 27018",
+    "SOC 2 Type I",
+    "SOC 2 Type II",
+    "HIPAA"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.okta.com/gdpr"
+    }
+  ]
+}
