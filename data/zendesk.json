@@ -1,0 +1,36 @@
+{
+  "id": "zendesk",
+  "name": "Zendesk",
+  "description": "Customer Service Software & Support Ticket System",
+  "categories": [
+    "Customer Support"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525206222/zendesk.png",
+  "website": "https://www.zendesk.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://aws.amazon.com/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://www.zendesk.com/company/policies-procedures/subprocessors-subcontractors",
+  "dataCenters": [
+    "Global"
+  ],
+  "hostingPartners": [
+    "AWS",
+    "Google Cloud"
+  ],
+  "contacts": [],
+  "certifications": [
+    "ISO 27001",
+    "ISO 27018",
+    "SOC 2 Type I",
+    "SOC 2 Type II"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.zendesk.com/company/customers-partners/eu-data-protection"
+    }
+  ]
+}
