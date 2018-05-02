@@ -1,0 +1,39 @@
+{
+  "id": "informatica",
+  "name": "Informatica",
+  "description": "Enterprise Cloud Data Management",
+  "categories": [
+    "Data Integration",
+    "Big Data Analytics"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525299747/informatica.png",
+  "website": "https://www.informatica.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://aws.amazon.com/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://www.informatica.com/content/dam/informatica-com/global/amer/us/docs/legal/online-data-processing-agreement.pdf",
+  "subprocessorsUrl": "https://www.informatica.com/legal/informatica-subprocessors.html",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "ISO 27001",
+    "SOC 2 Type II",
+    "SOC 3",
+    "HIPAA",
+    "HITECH"
+    "CSA"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.informatica.com/solutions/data-governance/gdpr.html"
+    },
+    {
+      "url": "https://www.informatica.com/trust-center.html#fbid=KQBanPhqg7e"
+    },
+  ]
+}
