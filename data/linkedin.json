@@ -1,0 +1,38 @@
+{
+  "id": "linkedin",
+  "name": "LinkedIn",
+  "description": "LinkedIn is a business and employment-oriented service.",
+  "categories": [
+    "Social Network",
+    "Business Network",
+    "Recruiting"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525277084/linkedin.png",
+  "website": "https://www.linkedin.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.linkedin.com/legal/privacy-policy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://legal.linkedin.com/dpa",
+  "subprocessorsUrl": "https://legal.linkedin.com/customer-subprocessors",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [
+    {
+      "date": "June 8, 2012",
+      "url": "https://en.wikipedia.org/wiki/2012_LinkedIn_hack"
+    }
+  ],
+  "articles": [
+    {
+      "url": "https://www.linkedin.com/help/linkedin/answer/87076/linkedin-talent-solutions-and-the-general-data-protection-regulation-gdpr-?lang=en"
+    },
+    {
+      "url": "https://security.linkedin.com/our-security-practices"
+    }
+  ]
+}
