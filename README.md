@@ -103,7 +103,7 @@ MIT License. Please see the [license file](https://github.com/privacyradius/gdpr
 
 ## About
 
-Made in Belgium / Europe
+Made in Belgium 🇧🇪 Europe 🇪🇺
 
 The GDPR Tracker is created by Privacy Radius. Privacy Radius is a European provider of AI-powered data and privacy solutions to help companies create trusted environments to protect consumers' privacy and data rights. 
 
