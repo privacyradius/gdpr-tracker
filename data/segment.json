@@ -1,0 +1,34 @@
+{
+  "id": "segment",
+  "name": "Segment",
+  "description": "Analytics API and Customer Data Platform",
+  "categories": [
+    "Analytics",
+    "Customer Data Platform"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525274617/segment.png",
+  "website": "https://segment.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://segment.com/docs/legal/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://segment.com/docs/guides/best-practices/preparing-for-the-gdpr/#how-to-opt-into-the-data-processing-agreement-and-eu-model-contract-clauses",
+  "subprocessorsUrl": "https://segment.com/docs/legal/subprocessors",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS",
+    "Google Cloud"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "November 16, 2017",
+      "url": "https://segment.com/blog/segment-and-the-gdpr"
+    },
+    {
+      "url": "https://segment.com/product/gdpr"
+    }
+  ]
+}
