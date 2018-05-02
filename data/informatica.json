@@ -24,8 +24,9 @@
     "SOC 2 Type II",
     "SOC 3",
     "HIPAA",
-    "HITECH"
-    "CSA"
+    "HITECH",
+    "CSA",
+    "Privacy Shield"
   ],
   "dataBreaches": [],
   "articles": [
@@ -33,7 +34,7 @@
       "url": "https://www.informatica.com/solutions/data-governance/gdpr.html"
     },
     {
-      "url": "https://www.informatica.com/trust-center.html#fbid=KQBanPhqg7e"
+      "url": "https://www.informatica.com/trust-center.html"
     },
   ]
 }
