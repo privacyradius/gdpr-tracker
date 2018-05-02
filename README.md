@@ -107,6 +107,10 @@ Made in Belgium 🇧🇪 Europe 🇪🇺
 
 The GDPR Tracker is created by Privacy Radius. Privacy Radius is a European provider of AI-powered data and privacy solutions to help companies create trusted environments to protect consumers' privacy and data rights. 
 
+## Disclaimer 
+
+We do our best to ensure that the data we provide is complete, accurate and useful. However, because we do not verify all the data, and because the processing required to make the data useful is complex, we cannot be liable for omissions or inaccuracies.
+
 ## Links
 
 * [GDPR Tracker](https://www.gdprtracker.io)
