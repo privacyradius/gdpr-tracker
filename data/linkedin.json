@@ -10,7 +10,7 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525277084/linkedin.png",
   "website": "https://www.linkedin.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "ready",
+  "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.linkedin.com/legal/privacy-policy",
   "dsarFormUrl": "",
   "dpaUrl": "https://legal.linkedin.com/dpa",
