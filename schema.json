@@ -128,7 +128,9 @@
           "HIPAA",
           "HITECH",
           "RESO",
-          "ISAE 3000"
+          "ISAE 3000",
+          "Privacy Shield",
+          "CSA"
         ]
       } 
     },
