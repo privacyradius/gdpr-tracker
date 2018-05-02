@@ -109,7 +109,7 @@ The GDPR Tracker is created by Privacy Radius. Privacy Radius is a European prov
 
 ## Disclaimer 
 
-We do our best to ensure that the data we release is  complete, accurate and useful. However, because we do not verify all the data, and because the processing required to make the data useful is complex, we cannot be liable for omissions or inaccuracies.
+We do our best to ensure that the data we provide is complete, accurate and useful. However, because we do not verify all the data, and because the processing required to make the data useful is complex, we cannot be liable for omissions or inaccuracies.
 
 ## Links
 
