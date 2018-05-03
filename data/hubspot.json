@@ -1,0 +1,32 @@
+{
+  "id": "hubspot",
+  "name": "Hubspot",
+  "description": "Inbound Marketing & Sales Software",
+  "categories": [
+    "Marketing Automation",
+    "CRM"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525383655/hubspot.png",
+  "website": "https://www.hubspot.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "hhttps://legal.hubspot.com/privacy-policy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://legal.hubspot.com/dpa",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "ISO 27001",
+    "SOC 2 Type II"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.hubspot.com/data-privacy/gdpr"
+    }
+  ]
+}
