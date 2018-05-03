@@ -1,0 +1,30 @@
+{
+  "id": "digital-ocean",
+  "name": "Digital Ocean",
+  "description": "Cloud Computing, Simplicity at Scale",
+  "categories": [
+    "Cloud computing services",
+    "Hosting",
+    "Cloud Infrastructure"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525380143/digital-ocean.png",
+  "website": "https://www.digitalocean.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.digitalocean.com/legal/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [
+    "Digital Ocean"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.digitalocean.com/security/gdpr"
+    }
+  ]
+}
