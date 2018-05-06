@@ -1,0 +1,38 @@
+{
+  "id": "algolia",
+  "name": "Algolia",
+  "description": "Algolia is the most reliable platform for building search into your business",
+  "categories": [
+    "Search",
+    "API"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525644532/algolia.png",
+  "website": "https://www.algolia.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.algolia.com/policies/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://www.algolia.com/pdf/DPA-latest.pdf",
+  "subprocessorsUrl": "https://www.algolia.com/policies/infrastructure-and-sub-processors",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS",
+    "Google Cloud"
+  ],
+  "contacts": [],
+  "certifications": [
+    "SOC 2 Type II",
+    "SOC 3",
+    "CSA"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "27 April, 2018",
+      "url": "https://www.algolia.com/doc/faq/security-privacy/gdpr"
+    }, 
+    {
+      "url": "https://www.algolia.com/security"
+    }
+  ]
+}
