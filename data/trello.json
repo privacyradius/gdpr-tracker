@@ -15,7 +15,6 @@
   "dpaUrl": "",
   "subprocessorsUrl": "https://trello.com/b/QJKvWwqQ/trello-subprocessors",
   "dataCenters": [
-    "EU",
     "US"
   ],
   "hostingPartners": [
@@ -37,6 +36,9 @@
     },
     {
       "url": "https://trello.com/trust"
+    },
+    {
+      "url": "https://trello.com/legal/security"
     }
   ]
 }
