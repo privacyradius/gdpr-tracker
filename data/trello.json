@@ -1,0 +1,42 @@
+{
+  "id": "trello",
+  "name": "Trello",
+  "description": "Trello lets you work more collaboratively and get more done.",
+  "categories": [
+    "Project Management",
+    "Collaboration"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525732643/trello.jpg",
+  "website": "https://www.trello.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://trello.com/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://trello.com/b/QJKvWwqQ/trello-subprocessors",
+  "dataCenters": [
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS",
+    "Google Cloud"
+  ],
+  "contacts": [],
+  "certifications": [
+    "Privacy Shield",
+    "PCI-DSS Level 1"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://help.trello.com/article/1118-trello-and-gdpr-our-commitment-to-data-privacy"
+    }, 
+    {
+      "url": "https://community.atlassian.com/t5/Trello-questions/GDPR-Storing-data-on-Trello/qaq-p/701775"
+    },
+    {
+      "url": "https://trello.com/trust"
+    }
+  ]
+}
