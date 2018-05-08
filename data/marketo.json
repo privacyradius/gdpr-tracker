@@ -1,0 +1,42 @@
+{
+  "id": "marketo",
+  "name": "Marketo",
+  "description": "Best-in-Class Marketing Automation Software",
+  "categories": [
+    "Marketing Automation"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525820600/marketo.png",
+  "website": "https://www.marketo.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://documents.marketo.com/legal/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://nation.marketo.com/servlet/JiveServlet/previewBody/6196-102-1-14135/Marketo%20Data%20Processing%20Addendum%20(April%202018%20v2).pdf",
+  "subprocessorsUrl": "https://documents.marketo.com/legal/sub-processor-list",
+  "dataCenters": [
+    "UK",
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS",
+    "Rackspace",
+    "Macquarie Cloud Services"
+  ],
+  "contacts": [],
+  "certifications": [
+    "Privacy Shield",
+    "SOC 1",
+    "SOC 2 Type I",
+    "SOC 2 Type II",
+    "CSA"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.marketo.com/company/trust/security"
+    }, 
+    {
+      "url": "https://www.marketo.com/company/trust/gdpr"
+    }
+  ]
