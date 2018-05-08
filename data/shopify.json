@@ -1,0 +1,31 @@
+{
+  "id": "shopify",
+  "name": "Shopify",
+  "description": "Shopify is a commerce platform that allows anyone to easily sell online, at a retail location, and everywhere in between.",
+  "categories": [
+    "E-commerce"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525822718/shopify.jpg",
+  "website": "https://www.shopify.com",
+  "countryHQ": "CA",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.shopify.com/legal/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://www.shopify.com/legal/dpa",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+    "PCI DSS Level 1"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://help.shopify.com/manual/your-account/GDPR/GDPR-Shopify"
+    }, 
+    {
+      "url": "https://www.shopify.com/pci-compliant"
+    }
+  ]
+}
