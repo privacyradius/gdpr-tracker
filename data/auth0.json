@@ -33,6 +33,9 @@
   "articles": [
     {
       "url": "https://auth0.com/docs/compliance/gdpr"
+    },
+    {
+      "url": "https://auth0.com/security"
     }
   ]
 }
