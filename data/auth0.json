@@ -1,0 +1,41 @@
+{
+  "id": "auth0",
+  "name": "Auth0",
+  "description": "Single Sign On & Token Based Authentication",
+  "categories": [
+    "Identity Management",
+    "API"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526212990/auth0.png",
+  "website": "https://auth0.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://auth0.com/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://cdn.auth0.com/website/legal/files/Auth0-DPA.pdf",
+  "subprocessorsUrl": "https://cdn.auth0.com/website/legal/files/Auth0-Sub-processors.pdf",
+  "dataCenters": [
+    "US", 
+    "EU", 
+    "AU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "SOC 2 Type II",
+    "HIPAA",
+    "OpenID"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://auth0.com/docs/compliance/gdpr"
+    },
+    {
+      "url": "https://auth0.com/security"
+    }
+  ]
+}
