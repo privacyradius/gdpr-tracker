@@ -25,7 +25,7 @@
   ],
   "contacts": [],
   "certifications": [
-    "Privacy Shield",
+    "EU-U.S. Privacy Shield",
     "SOC 1",
     "SOC 2 Type I",
     "SOC 2 Type II",
@@ -38,6 +38,9 @@
     }, 
     {
       "url": "https://www.marketo.com/company/trust/gdpr"
+    },
+    {
+      "url": "https://documents.marketo.com/legal/privacy-shield/"
     }
   ]
 }
