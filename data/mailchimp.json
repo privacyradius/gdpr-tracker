@@ -1,0 +1,38 @@
+{
+  "id": "mailchimp",
+  "name": "Mailchimp",
+  "description": "Marketing Platform for Small Businesses - Sell More Stuff",
+  "categories": [
+    "Email Marketing"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526250870/mailchimp.png",
+  "website": "https://www.mailchimp.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://mailchimp.com/legal/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "http://ec.europa.eu/dpo-register/download?metaId=1476317",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation"
+    }, 
+    {
+      "url": "https://mailchimp.com/about/security"
+    },
+    {
+      "url": "https://kb.mailchimp.com/binaries/content/assets/mailchimpkb/us/en/pdfs/mailchimp_gdpr_sept2017.pdf"
+    }
+  ],
+  "bugBountyProgram": ""
+}
