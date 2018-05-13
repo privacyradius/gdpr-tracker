@@ -37,7 +37,5 @@
       "url": "https://www.hubspot.com/security"
     }
   ],
-  "bugBountyProgram": [
-    "https://bugcrowd.com/hubspot"
-  ]
+  "bugBountyProgram": "https://bugcrowd.com/hubspot"
 }
