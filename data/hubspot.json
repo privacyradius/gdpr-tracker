@@ -20,13 +20,24 @@
   ],
   "contacts": [],
   "certifications": [
+    "EU-U.S. Privacy Shield",
     "ISO 27001",
-    "SOC 2 Type II"
+    "SOC 2 Type II",
+    "TRUSTe Enterprise Privacy Certification"
   ],
   "dataBreaches": [],
   "articles": [
     {
       "url": "https://www.hubspot.com/data-privacy/gdpr"
+    },
+    {
+      "url": "https://privacy.truste.com/privacy-seal/HubSpot-Inc-/validation?rid=edeef904-c1be-4bf2-9593-e668b3295b73"
+    },
+    {
+      "url": "https://www.hubspot.com/security"
     }
+  ],
+  "bugBountyProgram": [
+    "https://bugcrowd.com/hubspot"
   ]
 }
