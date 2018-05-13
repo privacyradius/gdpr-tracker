@@ -17,6 +17,8 @@
   "hostingPartners": [],
   "contacts": [],
   "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
     "PCI DSS Level 1"
   ],
   "dataBreaches": [],
@@ -26,6 +28,9 @@
     }, 
     {
       "url": "https://www.shopify.com/pci-compliant"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4&status=Active"
     }
   ]
 }

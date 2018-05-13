@@ -20,6 +20,7 @@
   ],
   "contacts": [],
   "certifications": [
+    "EU-U.S. Privacy Shield",
     "ISO 27001",
     "ISO 27017",
     "ISO 27018",
@@ -41,6 +42,9 @@
     },
     {
       "url": "https://aem.dropbox.com/cms/content/dam/dropbox/www/en-us/security/privacy_data_protection_whitepaper.pdf"
+    },
+    {
+      "url": "https://www.dropbox.com/security"
     }
   ]
 }

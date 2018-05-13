@@ -23,6 +23,8 @@
   ],
   "contacts": [],
   "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
     "ISO 27001",
     "ISO 27017",
     "ISO 27018",
@@ -34,6 +36,9 @@
   "articles": [
     {
       "url": "https://cloud.google.com/security/gdpr"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI"
     }
   ]
 }

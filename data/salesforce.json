@@ -25,6 +25,8 @@
   ],
   "contacts": [],
   "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
     "ISO 27001",
     "ISO 27017",
     "ISO 27018",
@@ -42,6 +44,9 @@
     },
     {
       "url": "https://www.salesforce.com/blog/2016/05/salesforce-aws-public-cloud-infrastructure.html"
+    },
+    {
+      "url": "https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Privacy/privacy-shield-notice.pdf"
     }
   ]
 }

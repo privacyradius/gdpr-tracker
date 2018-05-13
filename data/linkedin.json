@@ -20,7 +20,10 @@
     "AWS"
   ],
   "contacts": [],
-  "certifications": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+  ],
   "dataBreaches": [
     {
       "date": "June 8, 2012",
@@ -33,6 +36,9 @@
     },
     {
       "url": "https://security.linkedin.com/our-security-practices"
+    },
+    {
+      "url": "https://www.linkedin.com/help/linkedin/answer/83459/linkedin-s-privacy-shield-statement"
     }
   ]
 }
