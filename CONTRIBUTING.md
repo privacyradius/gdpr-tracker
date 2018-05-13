@@ -66,9 +66,10 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
       "date": "02/12/2018",
       "url": "https://www.beatswtich.com/gdpr"
     }
-  ]
+  ],
+  "bugBountyProgram": "https://www.beatswtich.com/bounty-program"
 }
-``` 
+```
 
 ## Don’t use Github?
 
