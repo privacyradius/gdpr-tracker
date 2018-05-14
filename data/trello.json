@@ -11,7 +11,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://trello.com/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "",
   "subprocessorsUrl": "https://trello.com/b/QJKvWwqQ/trello-subprocessors",
   "dataCenters": [
@@ -42,5 +42,5 @@
       "url": "https://trello.com/legal/security"
     }
   ],
-  "bugBountyProgram": "https://hackerone.com/trello"
+  "bugBountyProgramUrl": "https://hackerone.com/trello"
 }
