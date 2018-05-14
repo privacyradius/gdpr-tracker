@@ -10,7 +10,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.okta.com/privacy-policy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://www.okta.com/sites/default/files/OKTA-Data-Processing-Addendum_09-17.pdf",
   "subprocessorsUrl": "https://www.okta.com/sites/default/files/SUBPROCESSORS_Public_facing_content_3-16-18_v2.pdf",
   "dataCenters": [
@@ -36,5 +36,6 @@
     {
       "url": "https://www.okta.com/sites/default/files/OKTA-Security-Privacy-Documentation_September-15-2017.pdf"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://bugcrowd.com/okta"
 }
