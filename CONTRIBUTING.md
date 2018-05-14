@@ -27,7 +27,7 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.acmesaas.com/privacy",
-  "dsarFormUrl": "https://bs.gdprform.io",
+  "dsarUrl": "https://bs.gdprform.io",
   "dpaUrl": "https://www.acmesaas.com/dpa",
   "subprocessorsUrl": "https://www.acmesaas.com/subprocessors",
   "dataCenters": [
@@ -67,7 +67,7 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
       "url": "https://www.beatswtich.com/gdpr"
     }
   ],
-  "bugBountyProgram": "https://www.beatswtich.com/bounty-program"
+  "bugBountyProgramUrl": "https://www.beatswtich.com/bounty-program"
 }
 ```
 
