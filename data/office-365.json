@@ -18,10 +18,17 @@
   "dataCenters": [],
   "hostingPartners": [],
   "contacts": [],
+  "cetifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+  ],
   "dataBreaches": [],
   "articles": [
     {
       "url": "https://www.microsoft.com/en-us/TrustCenter/CloudServices/office365/GDPR"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK"
     }
   ]
 }

@@ -23,6 +23,8 @@
   ],
   "contacts": [],
   "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
     "ISO 27001",
     "ISO 27018",
     "SOC 2 Type I",
@@ -35,6 +37,9 @@
     {
       "date": "March 26, 2018",
       "url": "https://slack.com/gdpr"
+    },
+    {
+      "url": "https://slack.com/privacy-shield-notice"
     }
   ]
 }

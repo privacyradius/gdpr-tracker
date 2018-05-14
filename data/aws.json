@@ -22,6 +22,7 @@
   ],
   "contacts": [],
   "certifications": [
+    "EU-U.S. Privacy Shield",
     "ISO 27001",
     "ISO 27017",
     "ISO 27018",
@@ -37,6 +38,12 @@
     {
       "date": "March 26, 2018",
       "url": "https://aws.amazon.com/blogs/security/all-aws-services-gdpr-ready"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4"
+    },
+    {
+      "url": "https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/"
     }
   ]
 }

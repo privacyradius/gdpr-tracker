@@ -13,16 +13,25 @@
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.digitalocean.com/legal/privacy",
   "dsarFormUrl": "",
-  "dpaUrl": "",
+  "dpaUrl": "https://www.digitalocean.com/security/gdpr/data-processing-agreement",
   "subprocessorsUrl": "",
   "dataCenters": [],
   "hostingPartners": [
     "Digital Ocean"
   ],
   "contacts": [],
-  "certifications": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+  ],
   "dataBreaches": [],
   "articles": [
+    {
+      "url": "https://www.digitalocean.com/security/gdpr"
+    },
+    {
+      "url": "https://www.digitalocean.com/security/privacy-shield"
+    },
     {
       "url": "https://www.digitalocean.com/security/gdpr"
     }
