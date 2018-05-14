@@ -8,18 +8,18 @@
     "Hosting"
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526317566/azure.png",
-  "website": "https://cloud.google.com",
+  "website": "https://azure.microsoft.com/en-gb/",
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
-  "privacyUrl": "https://policies.google.com/privacy",
+  "privacyUrl": "https://privacy.microsoft.com/en-us/privacystatement",
   "dsarFormUrl": "",
-  "dpaUrl": "https://cloud.google.com/terms/data-processing-terms",
-  "subprocessorsUrl": "https://cloud.google.com/terms/subprocessors",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
   "dataCenters": [
     "Global"
   ],
   "hostingPartners": [
-    "Google Cloud"
+    "Azure"
   ],
   "contacts": [],
   "certifications": [
@@ -28,21 +28,23 @@
     "ISO 27001",
     "ISO 27017",
     "ISO 27018",
-    "SOC 2 Type I",
     "SOC 2 Type II",
-    "SOC 3"
+    "SOC 3",
+    "HIPAA",
+    "HITECH",
+    "CSA"
   ],
   "dataBreaches": [],
   "articles": [
     {
-      "url": "https://cloud.google.com/security/gdpr"
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-azure-leads-the-industry-in-iso-certifications"
     },
     {
-      "url": "https://cloud.google.com/security"
+      "url": "https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx"
     },
     {
-      "url": "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI"
+      "url": "https://www.microsoft.com/en-us/trustcenter/compliance/soc"
     }
   ],
-  "bugBountyProgram": "https://www.google.com/about/appsecurity/reward-program"
+  "bugBountyProgram": "https://technet.microsoft.com/en-us/security/dn800983"
 }
