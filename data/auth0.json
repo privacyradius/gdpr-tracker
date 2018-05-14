@@ -37,5 +37,6 @@
     {
       "url": "https://auth0.com/security"
     }
-  ]
+  ],
+  "bugBountyProgram": "https://auth0.com/whitehat"
 }
