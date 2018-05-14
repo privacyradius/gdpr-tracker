@@ -1,0 +1,50 @@
+{
+  "id": "microsoft-azure",
+  "name": "Microsoft Azure",
+  "description": "Microsoft Azure is an open, flexible, enterprise-grade cloud computing platform.",
+  "categories": [
+    "Infrastructure",
+    "Cloud Computing",
+    "Hosting"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526317566/azure.png",
+  "website": "https://azure.microsoft.com/en-gb/",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://privacy.microsoft.com/en-us/privacystatement",
+  "dsarFormUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "Global"
+  ],
+  "hostingPartners": [
+    "Azure"
+  ],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
+    "ISO 27001",
+    "ISO 27017",
+    "ISO 27018",
+    "SOC 2 Type II",
+    "SOC 3",
+    "HIPAA",
+    "HITECH",
+    "CSA"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://azure.microsoft.com/en-us/blog/microsoft-azure-leads-the-industry-in-iso-certifications"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/trustcenter/compliance/soc"
+    }
+  ],
+  "bugBountyProgram": "https://technet.microsoft.com/en-us/security/dn800983"
+}
