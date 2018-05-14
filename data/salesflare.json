@@ -10,7 +10,7 @@
   "countryHQ": "BE",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://salesflare.com/privacy.html",
-  "dsarFormUrl": "https://salesflare.gdprform.io",
+  "dsarUrl": "https://salesflare.gdprform.io",
   "dpaUrl": "",
   "dataCenters": [
     "EU"
