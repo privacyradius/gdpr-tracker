@@ -45,5 +45,6 @@
     {
       "url": "https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/"
     }
-  ]
+  ],
+  "bugBountyProgram": "https://aws.amazon.com/security/vulnerability-reporting"
 }
