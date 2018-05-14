@@ -12,7 +12,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://policies.google.com/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://cloud.google.com/terms/data-processing-terms",
   "subprocessorsUrl": "https://cloud.google.com/terms/subprocessors",
   "dataCenters": [
