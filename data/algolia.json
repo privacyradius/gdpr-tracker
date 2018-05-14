@@ -11,7 +11,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.algolia.com/policies/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://www.algolia.com/pdf/DPA-latest.pdf",
   "subprocessorsUrl": "https://www.algolia.com/policies/infrastructure-and-sub-processors",
   "dataCenters": [],
@@ -35,5 +35,5 @@
       "url": "https://www.algolia.com/security"
     }
   ],
-  "bugBountyProgram": "https://hackerone.com/algolia"
+  "bugBountyProgramUrl": "https://hackerone.com/algolia"
 }

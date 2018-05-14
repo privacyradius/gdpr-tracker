@@ -12,7 +12,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.digitalocean.com/legal/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://www.digitalocean.com/security/gdpr/data-processing-agreement",
   "subprocessorsUrl": "",
   "dataCenters": [],
@@ -35,5 +35,6 @@
     {
       "url": "https://www.digitalocean.com/security/gdpr"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://bugcrowd.com/digitalocean"
 }

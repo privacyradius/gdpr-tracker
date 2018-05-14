@@ -11,7 +11,7 @@
   "countryHQ": "BE",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.intuo.io/terms-conditions",
-  "dsarFormUrl": "https://intuo.gdprform.io",
+  "dsarUrl": "https://intuo.gdprform.io",
   "dpaUrl": "",
   "dataCenters": [
     "EU"

@@ -10,7 +10,7 @@
   "countryHQ": "CA",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.shopify.com/legal/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://www.shopify.com/legal/dpa",
   "subprocessorsUrl": "",
   "dataCenters": [],
@@ -32,5 +32,6 @@
     {
       "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TNSNAA4&status=Active"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/shopify"
 }

@@ -12,7 +12,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://policies.google.com/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://gsuite.google.com/terms/dpa_terms.html",
   "subprocessorsUrl": "https://gsuite.google.com/intl/en/terms/subprocessors.html",
   "dataCenters": [
@@ -40,5 +40,6 @@
     {
       "url": "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://www.google.com/about/appsecurity/reward-program"
 }

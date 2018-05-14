@@ -11,7 +11,7 @@
   "countryHQ": "BE",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.beatswitch.com/privacy",
-  "dsarFormUrl": "https://bs.gdprform.io",
+  "dsarUrl": "https://bs.gdprform.io",
   "dpaUrl": "",
   "dataCenters": ["EU"],
   "hostingPartners": ["AWS"],

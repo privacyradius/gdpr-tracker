@@ -11,7 +11,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://auth0.com/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://cdn.auth0.com/website/legal/files/Auth0-DPA.pdf",
   "subprocessorsUrl": "https://cdn.auth0.com/website/legal/files/Auth0-Sub-processors.pdf",
   "dataCenters": [
@@ -37,5 +37,6 @@
     {
       "url": "https://auth0.com/security"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://auth0.com/whitehat"
 }

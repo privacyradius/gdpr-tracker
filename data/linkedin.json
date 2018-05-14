@@ -12,7 +12,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.linkedin.com/legal/privacy-policy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://legal.linkedin.com/dpa",
   "subprocessorsUrl": "https://legal.linkedin.com/customer-subprocessors",
   "dataCenters": [],
@@ -40,5 +40,6 @@
     {
       "url": "https://www.linkedin.com/help/linkedin/answer/83459/linkedin-s-privacy-shield-statement"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/linkedin"
 }

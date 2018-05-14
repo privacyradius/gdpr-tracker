@@ -12,7 +12,7 @@
   "countryHQ": "BE",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.iubenda.com/privacy-policy/66303286",
-  "dsarFormUrl": "https://apideck.gdprform.io/",
+  "dsarUrl": "https://apideck.gdprform.io/",
   "dpaUrl": "",
   "dataCenters": [
     "EU"
