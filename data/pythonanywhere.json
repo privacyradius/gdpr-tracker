@@ -1,0 +1,35 @@
+{
+  "id": "pythonanywhere",
+  "name": "PythonAnywhere",
+  "description": "Python platform-as-a-service",
+  "categories": [
+    "Cloud computing services",
+    "Hosting"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/1317006476/logo300x300_400x400.png",
+  "website": "https://www.pythonanywhere.com",
+  "countryHQ": "UK",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.pythonanywhere.com/privacy/",
+  "dpaUrl": "https://www.pythonanywhere.com/terms/#dpa",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Giles Thomas",
+      "email": "support@pythonanywhere.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [
+  ],
+  "dataBreaches": [
+  ],
+  "articles": [
+  ]
+}
