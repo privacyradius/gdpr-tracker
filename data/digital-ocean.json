@@ -36,5 +36,5 @@
       "url": "https://www.digitalocean.com/security/gdpr"
     }
   ],
-  "bugBountyProgram": "https://bugcrowd.com/digitalocean"
+  "bugBountyProgramUrl": "https://bugcrowd.com/digitalocean"
 }
