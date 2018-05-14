@@ -11,7 +11,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.salesforce.com/company/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://www.salesforce.com/content/dam/web/en_us/www/documents/data-processing-addendum.pdf",
   "subprocessorsUrl": "https://www.salesforce.com/content/dam/web/en_us/www/documents/data-processing-addendum.pdf",
   "dataCenters": [
@@ -48,5 +48,6 @@
     {
       "url": "https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Privacy/privacy-shield-notice.pdf"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://trust.salesforce.com/en/#vulnerability"
 }
