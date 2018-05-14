@@ -35,5 +35,5 @@
       "url": "https://www.algolia.com/security"
     }
   ],
-  "bugBountyProgram": "https://hackerone.com/algolia"
+  "bugBountyProgramUrl": "https://hackerone.com/algolia"
 }
