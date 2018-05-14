@@ -41,5 +41,6 @@
     {
       "url": "https://trello.com/legal/security"
     }
-  ]
+  ],
+  "bugBountyProgram": "https://hackerone.com/trello"
 }
