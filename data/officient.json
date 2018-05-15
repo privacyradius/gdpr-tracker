@@ -10,7 +10,7 @@
   "countryHQ": "BE",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.officient.io/privacy-policy",
-  "dsarFormUrl": "https://officient.gdprform.io",
+  "dsarUrl": "https://officient.gdprform.io", 
   "dpaUrl": "",
   "subprocessorsUrl": "",
   "dataCenters": [
