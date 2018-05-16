@@ -1,20 +1,20 @@
 {
-  "id": "gsuite",
-  "name": "G Suite - Google",
-  "description": "Gmail, Docs, Drive, Calendar and More for Business",
+  "id": "google-cloud",
+  "name": "Google Cloud",
+  "description": "Google Cloud provides flexible infrastructure, end-to-security, modern productivity, and intelligent insights engineered to help your business thrive.",
   "categories": [
-    "Productivity",
-    "Email",
-    "Collaboration"
+    "Infrastructure",
+    "Cloud Computing",
+    "Hosting"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
-  "website": "https://gsuite.google.com",
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526315877/google-cloud.png",
+  "website": "https://cloud.google.com",
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://policies.google.com/privacy",
   "dsarUrl": "",
-  "dpaUrl": "https://gsuite.google.com/terms/dpa_terms.html",
-  "subprocessorsUrl": "https://gsuite.google.com/intl/en/terms/subprocessors.html",
+  "dpaUrl": "https://cloud.google.com/terms/data-processing-terms",
+  "subprocessorsUrl": "https://cloud.google.com/terms/subprocessors",
   "dataCenters": [
     "Global"
   ],
@@ -36,6 +36,9 @@
   "articles": [
     {
       "url": "https://cloud.google.com/security/gdpr"
+    },
+    {
+      "url": "https://cloud.google.com/security"
     },
     {
       "url": "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI"

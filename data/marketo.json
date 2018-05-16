@@ -10,7 +10,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://documents.marketo.com/legal/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://nation.marketo.com/servlet/JiveServlet/previewBody/6196-102-1-14135/Marketo%20Data%20Processing%20Addendum%20(April%202018%20v2).pdf",
   "subprocessorsUrl": "https://documents.marketo.com/legal/sub-processor-list",
   "dataCenters": [
@@ -42,5 +42,6 @@
     {
       "url": "https://documents.marketo.com/legal/privacy-shield/"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": ""
 }

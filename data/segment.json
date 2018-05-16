@@ -11,7 +11,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://segment.com/docs/legal/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://segment.com/docs/guides/best-practices/preparing-for-the-gdpr/#how-to-opt-into-the-data-processing-agreement-and-eu-model-contract-clauses",
   "subprocessorsUrl": "https://segment.com/docs/legal/subprocessors",
   "dataCenters": [],
@@ -30,5 +30,6 @@
     {
       "url": "https://segment.com/product/gdpr"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://segment.com/docs/legal/security"
 }

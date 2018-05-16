@@ -11,7 +11,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "hhttps://legal.hubspot.com/privacy-policy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://legal.hubspot.com/dpa",
   "subprocessorsUrl": "",
   "dataCenters": [],
@@ -37,5 +37,5 @@
       "url": "https://www.hubspot.com/security"
     }
   ],
-  "bugBountyProgram": "https://bugcrowd.com/hubspot"
+  "bugBountyProgramUrl": "https://bugcrowd.com/hubspot"
 }

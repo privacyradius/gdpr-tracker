@@ -12,7 +12,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://privacy.microsoft.com/en-us/privacystatement",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "",
   "subprocessorsUrl": "https://aka.ms/Online_Serv_Subcontractor_List",
   "dataCenters": [],
@@ -30,5 +30,6 @@
     {
       "url": "https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://technet.microsoft.com/en-us/security/dn800983"
 }

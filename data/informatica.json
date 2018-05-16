@@ -11,7 +11,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.informatica.com/privacy-policy.html",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://www.informatica.com/content/dam/informatica-com/global/amer/us/docs/legal/online-data-processing-agreement.pdf",
   "subprocessorsUrl": "https://www.informatica.com/legal/informatica-subprocessors.html",
   "dataCenters": [],
@@ -39,5 +39,6 @@
     {
       "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TNoiAAG"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/informatica"
 }

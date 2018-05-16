@@ -1,0 +1,39 @@
+{
+  "id": "facebook",
+  "name": "Facebook",
+  "description": "Facebook is an American online social media and social networking service company.",
+  "categories": [
+    "Social Media",
+    "Social Network"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526342755/facebook.png",
+  "website": "https://www.facebook.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.facebook.com/policy.php",
+  "dsarUrl": "https://www.facebook.com/settings?tab=your_facebook_information",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+  ],
+  "dataBreaches": [
+    {
+      "date": "16 March, 2018",
+      "url": "https://newsroom.fb.com/news/2018/03/suspending-cambridge-analytica"
+    }
+  ],
+  "articles": [
+    {
+      "url": "https://www.facebook.com/business/gdpr"
+    }
+  ],
+  "bugBountyProgramUrl": "https://www.facebook.com/BugBounty"
+}

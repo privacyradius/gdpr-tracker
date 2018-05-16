@@ -10,7 +10,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://mailchimp.com/legal/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "http://ec.europa.eu/dpo-register/download?metaId=1476317",
   "subprocessorsUrl": "",
   "dataCenters": [
@@ -34,5 +34,5 @@
       "url": "https://kb.mailchimp.com/binaries/content/assets/mailchimpkb/us/en/pdfs/mailchimp_gdpr_sept2017.pdf"
     }
   ],
-  "bugBountyProgram": ""
+  "bugBountyProgramUrl": ""
 }

@@ -10,7 +10,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://aws.amazon.com/privacy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "",
   "subprocessorsUrl": "https://www.zendesk.com/company/policies-procedures/subprocessors-subcontractors",
   "dataCenters": [
@@ -37,5 +37,6 @@
     {
       "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/zendesk"
 }

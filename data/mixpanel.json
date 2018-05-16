@@ -11,7 +11,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://mixpanel.com/legal/privacy-policy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://mixpanel.com/legal/dpa",
   "subprocessorsUrl": "https://mixpanel.app.box.com/s/plxlttoykp0zibtr95oldaqyvr1vr49i",
   "dataCenters": [],
@@ -39,5 +39,6 @@
     {
       "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TOacAAG"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": ""
 }

@@ -12,7 +12,7 @@
   "countryHQ": "BE",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://laravel.io/privacy",
-  "dsarFormUrl": "https://laravelio.gdprform.io",
+  "dsarUrl": "https://laravelio.gdprform.io",
   "dpaUrl": "",
   "dataCenters": ["EU"],
   "hostingPartners": ["Digital Ocean"],

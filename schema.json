@@ -58,8 +58,8 @@
       "description": "Link to privacy policy",
       "examples": ["https://www.acme.com/privacy"]
     },
-    "dsarFormUrl": {
-      "description": "Data Subject Access Rights Form URL",
+    "dsarUrl": {
+      "description": "Data Subject Access Rights URL",
       "type": "string"
     },
     "dpaUrl": {
@@ -165,7 +165,7 @@
         }
       }
     },
-    "bugBountyProgram": {
+    "bugBountyProgramUrl": {
       "type": "string",
       "description": "Link to bug bounty program",
       "examples": ["https://hackerone.com/security"]
