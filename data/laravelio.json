@@ -15,7 +15,7 @@
   "dsarUrl": "https://laravelio.gdprform.io",
   "dpaUrl": "",
   "dataCenters": ["EU"],
-  "hostingPartners": ["Digital Ocean"],
+  "hostingPartners": ["AWS", "Digital Ocean"],
   "contacts": [
     {
       "type": "DPO",
