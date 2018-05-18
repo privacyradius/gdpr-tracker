@@ -8,10 +8,10 @@
   "iconUrl": "https://pbs.twimg.com/profile_images/473556186835345408/a0JWz1Tk_400x400.png",
   "website": "https://www.salesflare.com",
   "countryHQ": "BE",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://salesflare.com/privacy.html",
   "dsarUrl": "https://salesflare.gdprform.io",
-  "dpaUrl": "",
+  "dpaUrl": "https://salesfla.re/dpa",
   "dataCenters": [
     "EU"
   ],
@@ -20,7 +20,7 @@
   ],
   "contacts": [
     {
-      "type": "Other",
+      "type": "DPO",
       "name": "Jeroen Corthout",
       "email": "privacy@salesflare.com",
       "region": "Europe"
