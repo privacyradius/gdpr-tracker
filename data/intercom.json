@@ -6,13 +6,13 @@
     "Sales and Marketing",
     "Customer Support"
   ],
-  "iconUrl": "",
-  "website": "https://www.intercom.com/,
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526643923/intercom.svg",
+  "website": "https://www.intercom.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "GDPR Ready",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.intercom.com/terms-and-policies#privacy",
   "dsarFormUrl": "https://docs.intercom.com/faqs-and-troubleshooting/your-users-and-leads-data-in-intercom/how-do-i-delete-users-and-leads-in-intercom",
-  "dpaUrl": "on request for customers",
+  "dpaUrl": "",
   "subprocessorsUrl": "https://www.intercom.com/terms-and-policies#security-third-parties",
   "dataCenters": [
     "US"
@@ -24,31 +24,28 @@
   "contacts": [
     {
       "type": "DPO",
-      "name": "",
+      "name": "DPO",
       "email": "compliance@intercom.io",
       "region": "EU"
-    },
-
+    }
   ],
   "certifications": [
-    "SOC2 type i",
-    "Privacy Shield EU-US,
-    Cloud Security Alliance"
+    "SOC 2 Type I",
+    "EU-U.S. Privacy Shield",
+    "CSA"
   ],
-
-
-  "articles": [{
-    "date": "02/12/2018",
-    "url": "https://www.intercom.com/security"
-  }]
-  [{
-    "date": "02/12/2018",
-    "url": "https://docs.intercom.com/pricing-privacy-and-terms/data-protection/how-were-preparing-for-gdpr"
-  }],
-
-  [{
-    "date": "02/12/2018",
-    "url": "https://blog.intercom.com/why-your-privacy-ecosystem-is-crucial-in-the-of-age-gdpr/"
-  }]
-
+  "articles": [
+    {
+      "date": "02/12/2018",
+      "url": "https://www.intercom.com/security"
+    },
+    {
+      "date": "02/12/2018",
+      "url": "https://docs.intercom.com/pricing-privacy-and-terms/data-protection/how-were-preparing-for-gdpr"
+    },
+    {
+      "date": "02/12/2018",
+      "url": "https://blog.intercom.com/why-your-privacy-ecosystem-is-crucial-in-the-of-age-gdpr/"
+    }
+  ]
 }
