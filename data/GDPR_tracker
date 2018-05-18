@@ -1,0 +1,54 @@
+{
+  "id": "Intercom",
+  "name": "Intercom",
+  "description": "Customer Communication Platform",
+  "categories": [
+    "Sales and Marketing",
+    "Customer Support"
+  ],
+  "iconUrl": "",
+  "website": "https://www.intercom.com/,
+  "countryHQ": "US",
+  "gdprReadyStatus": "GDPR Ready",
+  "privacyUrl": "https://www.intercom.com/terms-and-policies#privacy",
+  "dsarFormUrl": "https://docs.intercom.com/faqs-and-troubleshooting/your-users-and-leads-data-in-intercom/how-do-i-delete-users-and-leads-in-intercom",
+  "dpaUrl": "on request for customers",
+  "subprocessorsUrl": "https://www.intercom.com/terms-and-policies#security-third-parties",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS",
+    "Mongo DB"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "",
+      "email": "compliance@intercom.io",
+      "region": "EU"
+    },
+
+  ],
+  "certifications": [
+    "SOC2 type i",
+    "Privacy Shield EU-US,
+    Cloud Security Alliance"
+  ],
+
+
+  "articles": [{
+    "date": "02/12/2018",
+    "url": "https://www.intercom.com/security"
+  }]
+  [{
+    "date": "02/12/2018",
+    "url": "https://docs.intercom.com/pricing-privacy-and-terms/data-protection/how-were-preparing-for-gdpr"
+  }],
+
+  [{
+    "date": "02/12/2018",
+    "url": "https://blog.intercom.com/why-your-privacy-ecosystem-is-crucial-in-the-of-age-gdpr/"
+  }]
+
+}
