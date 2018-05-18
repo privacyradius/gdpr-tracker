@@ -1,5 +1,5 @@
 {
-  "id": "Intercom",
+  "id": "intercom",
   "name": "Intercom",
   "description": "Customer Communication Platform",
   "categories": [
@@ -47,5 +47,6 @@
       "date": "02/12/2018",
       "url": "https://blog.intercom.com/why-your-privacy-ecosystem-is-crucial-in-the-of-age-gdpr/"
     }
-  ]
+  ],
+  "bugBountyProgramUrl": "https://bugcrowd.com/intercom"
 }
