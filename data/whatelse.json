@@ -17,7 +17,7 @@
   "dataCenters": [
     "EU",
     "US",
-  , "APAC"
+    "APAC"
   ],
   "hostingPartners": [
     "Azure"
