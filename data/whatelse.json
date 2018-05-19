@@ -1,0 +1,43 @@
+{
+  "id": "whatelse",
+  "name": "WhatElse",
+  "description": "Enterprise Productivity Solution",
+  "categories": [
+    "Enterprise Productivity", 
+    "Recruitment"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526748851/whatelse.png",
+  "website": "https://www.whatelse.io",
+  "countryHQ": "IN",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://whatelse.io/privacy.html",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU",
+    "US",
+  , "APAC"
+  ],
+  "hostingPartners": [
+    "Azure"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Priyanka KS",
+      "email": "dpo@whatelse.io",
+      "region": "India"
+    },
+    {
+      "type": "Privacy Officer",
+      "name": "Pooran Prasad Rajanna",
+      "email": "pooran@whatelse.io",
+      "region": ""
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": ""
+}
