@@ -1,0 +1,40 @@
+{
+  "id": "heroku",
+  "name": "Heroku",
+  "description": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud.",
+  "categories": [
+    "Cloud Computing",
+    "Platform as a Service"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526908302/heroku.png",
+  "website": "https://www.heroku.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.heroku.com/policy/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/Agreements/data-processing-addendum.pdf",
+  "subprocessorsUrl": "https://help.salesforce.com/servlet/servlet.FileDownload?file=0150M0000041Ay2QAE",
+  "dataCenters": [
+    "EU",
+    "US",
+    "APAC"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "SOX"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://help.heroku.com/RXPQ7FOV/eu-general-data-protection-regulations-gdpr"
+    },
+    {
+      "url": "https://www.heroku.com/policy/security"
+    }
+  ],
+  "bugBountyProgramUrl": "https://bugcrowd.com/heroku"
+}
