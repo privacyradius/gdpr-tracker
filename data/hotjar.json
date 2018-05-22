@@ -1,0 +1,35 @@
+{
+  "id": "hotjar",
+  "name": "Hotjar",
+  "description": "Hotjar is a new and easy way to truly understand your web and mobile site visitors.",
+  "categories": [
+    "Analytics",
+    "Heatmaps"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527032724/hotjar.png",
+  "website": "https://www.hotjar.com",
+  "countryHQ": "MT",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.hotjar.com/legal/policies/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.hotjar.com/legal/support/dpa",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.hotjar.com/legal/compliance/gdpr-commitment"
+    },
+    {
+      "url": "https://www.hotjar.com/security"
+    }
+  ],
+  "bugBountyProgramUrl": ""
+}
