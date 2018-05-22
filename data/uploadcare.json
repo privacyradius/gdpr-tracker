@@ -1,0 +1,46 @@
+{
+  "id": "uploadcare",
+  "name": "Uploadcare",
+  "description": "File system as a Service",
+  "categories": [
+    "API",
+    "PaaS",
+    "File uploads",
+    "Image processing",
+    "Video processing",
+    "CDN"
+  ],
+  "iconUrl": "https://ucarecdn.com/8c53fe2f-12b5-4b5c-b67e-ddad0bfd644a/circletransparent400.png",
+  "website": "https://uploadcare.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://uploadcare.com/about/privacy_policy/",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://docs.google.com/document/d/1klkhpWGDmjNThQ0mkkJcG3TuMjqOddFY2prcKKFhXQA/",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "privacyshield@uploadcare.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+  ],
+  "articles": [
+    {
+      "date": "1 March, 2018",
+      "url": "https://blog.uploadcare.com/gdpr-for-saas-in-plain-spoken-english-d535253efbdey"
+    }
+  ],
+  "bugBountyProgramUrl": "mailto:bugbounty@uploadcare.com"
+}

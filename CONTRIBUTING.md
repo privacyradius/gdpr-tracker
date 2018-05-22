@@ -6,7 +6,7 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
 - Fork the repo and create your branch with the name of the service you want to add from `master`.
 - Add a file with the service name to the data folder.
 - Make sure your data follows the following [schema](https://github.com/privacyradius/gdpr-tracker/blob/master/schema.json). Please look into the following [example](https://github.com/privacyradius/gdpr-tracker/blob/master/example.json) for more info
-- If you're unsure about certain data points leave them out our check with the company offering the service.
+- If you're unsure about certain data points leave them out or check with the company offering the service.
 -  Use [signed commits](https://help.github.com/articles/signing-commits-with-gpg/). We enforce signed commits to verify the identity of contributors.
 - Ensure the test suite passes.
 - Issue that pull request!
