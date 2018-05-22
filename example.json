@@ -46,5 +46,6 @@
   "articles": [{
     "date": "02/12/2018",
     "url": "https://www.beatswtich.com/gdpr"
-  }]
+  }],
+  "verified": true
 }

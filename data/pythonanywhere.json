@@ -33,5 +33,6 @@
   ],
   "articles": [
   ],
-  "bugBountyProgramUrl": "https://help.pythonanywhere.com/pages/BugBounty/"
+  "bugBountyProgramUrl": "https://help.pythonanywhere.com/pages/BugBounty/",
+  "verified": true
 }

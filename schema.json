@@ -134,7 +134,8 @@
           "Swiss-U.S. Privacy Shield",
           "CSA",
           "OpenID",
-          "TRUSTe Enterprise Privacy Certification"
+          "TRUSTe Enterprise Privacy Certification",
+          "SOX"
         ]
       } 
     },
@@ -169,6 +170,11 @@
       "type": "string",
       "description": "Link to bug bounty program",
       "examples": ["https://hackerone.com/security"]
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "Verified by company representative",
+      "examples": [true]
     }
   }
 }

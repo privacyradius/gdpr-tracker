@@ -48,5 +48,6 @@
       "url": "https://blog.intercom.com/why-your-privacy-ecosystem-is-crucial-in-the-of-age-gdpr/"
     }
   ],
-  "bugBountyProgramUrl": "https://bugcrowd.com/intercom"
+  "bugBountyProgramUrl": "https://bugcrowd.com/intercom",
+  "verified": true
 }

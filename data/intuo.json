@@ -39,5 +39,6 @@
   "articles": [{
     "date": "01/03/2018",
     "url": "https://www.intuo.io/security"
-  }]
+  }],
+  "verified": true
 }
