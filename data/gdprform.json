@@ -1,0 +1,35 @@
+{
+  "id": "gdprform",
+  "name": "GDPR Form",
+  "description": "Simplify Data Subject Access Requests",
+  "categories": [
+    "Legal",
+    "GDPR",
+    "Privacy"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527031983/gdprform.png",
+  "website": "https://gdprform.io",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://gdprform.io/privacy",
+  "dsarUrl": "https://gdprform.io/terms",
+  "dpaUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Thomas Ghys",
+      "email": "thomas@ghys-projects.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [],
+  "verified": true
+}
