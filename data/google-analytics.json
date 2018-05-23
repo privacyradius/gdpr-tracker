@@ -1,0 +1,47 @@
+{
+  "id": "google-analytics",
+  "name": "Google Analytics",
+  "description": "Google Analytics is a free service that generates detailed statistics about the visitors to a website.",
+  "categories": [
+    "Web Analytics"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527033752/google-analytics.png",
+  "website": "https://www.google.com/analytics",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://policies.google.com/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.google.com/analytics/terms/dpa/dataprocessingamendment_20160909.html",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "Global"
+  ],
+  "hostingPartners": [
+    "Google Cloud"
+  ],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
+    "ISO 27001",
+    "ISO 27017",
+    "ISO 27018",
+    "SOC 2 Type I",
+    "SOC 2 Type II",
+    "SOC 3"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://privacy.google.com/businesses/compliance"
+    },
+    {
+      "url": "https://cloud.google.com/security"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI"
+    }
+  ],
+  "bugBountyProgramUrl": "https://www.google.com/about/appsecurity/reward-program",
+  "verified": false
+}
