@@ -1,0 +1,40 @@
+{
+  "id": "sendgrid",
+  "name": "Sendgrid",
+  "description": "Drive engagement and business growth with a customer communication platform that processes 40 billion emails each month.",
+  "categories": [
+    "Email Marketing",
+    "Newsletter",
+    "Transactional Emails"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527034496/sendgrid.png",
+  "website": "https://www.sendgrid.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://sendgrid.com/policies/privacy/services-privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=a02b04f7-fb75-48eb-8fb3-ebcf240daa42",
+  "subprocessorsUrl": "https://sendgrid.com/policies/privacy/sub-processors",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS",
+    "SoftLayer"
+  ],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
+    "SOC 2 Type II"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://sendgrid.com/policies/security"
+    },
+    {
+      "url": "https://sendgrid.com/resource/general-data-protection-regulation"
+    }
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/sendgrid",
+  "verified": false
+}
