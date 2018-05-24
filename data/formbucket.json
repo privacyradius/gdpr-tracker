@@ -1,0 +1,38 @@
+{
+  "id": "formbucket",
+  "name": "Formbucket",
+  "description": "Form processing made easy.",
+  "categories": [
+    "Form Builder",
+    "Forms"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527123478/formbucket.jpg",
+  "website": "https://www.formbucket.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.formbucket.com/privacy",
+  "dsarUrl": "https://www.formbucket.com/contact",
+  "dpaUrl": "https://www.formbucket.com/img/formbucket-data-processing-agreement-executed.pdf",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "James Moresi",
+      "email": "support@formbucket.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.formbucket.com/guides/general-data-protection-regulation"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "verified": true
+}

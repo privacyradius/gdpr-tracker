@@ -1,0 +1,31 @@
+{
+  "id": "apple",
+  "name": "Apple",
+  "description": "Think Different",
+  "categories": [
+    "Consumer Electronics",
+    "Computer Software"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527127926/apple.png",
+  "website": "https://www.apple.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.apple.com/legal/privacy",
+  "dsarUrl": "https://privacy.apple.com",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "Global"
+  ],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://techcrunch.com/2018/05/23/apple-introduces-new-privacy-portal-to-comply-with-gdpr"
+    }
+  ],
+  "bugBountyProgramUrl": "https://developer.apple.com/bug-reporting/",
+  "verfied": false
+}

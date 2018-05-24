@@ -1,17 +1,18 @@
 {
   "id": "sendgrid",
   "name": "Sendgrid",
-  "description": "Drive engagement and business growth with a customer communication platform that processes 40 billion emails each month.",
+  "description": "SendGrid is a leading digital communication platform, enabling businesses to engage with their customers via email reliably, effectively and at scale.",
   "categories": [
     "Email Marketing",
     "Newsletter",
-    "Transactional Emails"
+    "Transactional Emails",
+    "Marketing"
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527034496/sendgrid.png",
   "website": "https://www.sendgrid.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
-  "privacyUrl": "https://sendgrid.com/policies/privacy/services-privacy-policy",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://sendgrid.com/policies/privacy",
   "dsarUrl": "",
   "dpaUrl": "https://www.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=a02b04f7-fb75-48eb-8fb3-ebcf240daa42",
   "subprocessorsUrl": "https://sendgrid.com/policies/privacy/sub-processors",
@@ -20,11 +21,19 @@
     "AWS",
     "SoftLayer"
   ],
-  "contacts": [],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Alexis Kirkman",
+      "email": "dpo@sendgrid.com",
+      "region": "US"
+    }
+  ],
   "certifications": [
     "EU-U.S. Privacy Shield",
     "Swiss-U.S. Privacy Shield",
-    "SOC 2 Type II"
+    "SOC 2 Type II",
+    "PCI DSS Level 4"
   ],
   "dataBreaches": [],
   "articles": [
@@ -33,8 +42,14 @@
     },
     {
       "url": "https://sendgrid.com/resource/general-data-protection-regulation"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TRktAAG&status=Active"
+    },
+    {
+      "url": "https://sendgrid.com/policies/privacy/privacy-shield-certification"
     }
   ],
   "bugBountyProgramUrl": "https://hackerone.com/sendgrid",
-  "verified": false
+  "verified": true
 }
