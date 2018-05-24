@@ -1,0 +1,40 @@
+{
+  "id": "cloudflare",
+  "name": "Cloudflare",
+  "description": "The Web Performance & Security Company",
+  "categories": [
+    "CDN"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527125141/cloudflare.png",
+  "website": "https://www.cloudflare.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.cloudflare.com/security-policy",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.cloudflare.com/media/pdf/cloudflare-customer-dpa-20180402.pdf",
+  "subprocessorsUrl": "https://www.cloudflare.com/gdpr/subprocessors/",
+  "dataCenters": [
+    "Global"
+  ],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
+    "PCI DSS 3.1"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.cloudflare.com/gdpr/introduction"
+    },
+    {
+      "url": "https://www.cloudflare.com/network"
+    },
+    {
+      "url": "hhttps://support.cloudflare.com/hc/en-us/articles/202249734-Cloudflare-and-PCI-Compliance"
+    }
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/cloudflare",
+  "verfied": false
+}
