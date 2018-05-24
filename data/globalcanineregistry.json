@@ -1,0 +1,39 @@
+{
+  "id": "globalcanineregistry",
+  "name": "Global Canine Registry",
+  "description": "Global Canine Registry, all-breed registration service and official home to the popular Supreme Bully canine breed.",
+  "categories": [
+    "Canine Registry"
+  ],
+  "iconUrl": "https://globalcanineregistry.com/images/logo.png",
+  "website": "https://globalcanineregistry.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://globalcanineregistry.com/legal/privacy-policy",
+  "dsarUrl": "https://globalcanineregistry.gdprform.io",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS",
+    "Google Cloud",
+    "GithHub"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Adrian Mejias",
+      "email": "adrian@globalcanineregistry.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [
+    "ISO 27001"
+  ],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "verified": true
+}
