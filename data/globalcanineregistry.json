@@ -19,10 +19,7 @@
   "hostingPartners": [
     "AWS",
     "Google Cloud",
-    "GithHub",
-    "Slack",
-    "Mailchimp",
-    "Stripe"
+    "GithHub"
   ],
   "contacts": [
     {
