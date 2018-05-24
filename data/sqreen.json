@@ -1,0 +1,30 @@
+{
+  "id": "sqreen",
+  "name": "Sqreen",
+  "description": "Application security and monitoring",
+  "categories": [
+    "Security", 
+    "SaaS"
+  ],
+  "iconUrl": "https://s3-eu-west-1.amazonaws.com/sqreen-assets/logos/sqreen-logo.png",
+  "website": "https://www.sqreen.io/",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.sqreen.io/privacy",
+  "dsarUrl": "https://www.sqreen.io/privacy#your_rights",
+  "dpaUrl": "https://www.sqreen.io/pdf/dpa-latest.pdf",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US",
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "https://www.sqreen.io/security#responsible_disclosure",
+  "verified": true
+}
