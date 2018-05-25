@@ -1,0 +1,41 @@
+{
+  "id": "mailgun",
+  "name": "Mailgun",
+  "description": "Mailgun offers APIs that allow users to send, receive and track emails.",
+  "categories": [
+    "API",
+    "Transactional Email"
+  ],
+  "iconUrl": "http://res.cloudinary.com/gdprtracker-io/image/upload/v1527206405/mailgun.png",
+  "website": "https://www.mailgun.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.mailgun.com/privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "https://app.hellosign.com/s/2dc49398",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS",
+    "Rackspace",
+    "SoftLayer"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [
+    {
+      "date": "January 3, 2018",
+      "url": "http://blog.mailgun.com/mailgun-security-incident-and-important-customer-information/"
+    }
+  ],
+  "articles": [
+    {
+      "url": "https://www.mailgun.com/gdpr"
+    },
+    {
+      "url": "https://www.mailgun.com/security-privacy"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "verified": false
+}
