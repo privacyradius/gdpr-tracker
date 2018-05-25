@@ -1,0 +1,31 @@
+{
+  "id": "instapaper",
+  "name": "Instaper",
+  "description": "A simple tool for saving web pages to read later on your iPhone, iPad, Android, computer, or Kindle.",
+  "categories": [
+    "Bookmarking"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527210307/instapaper.png",
+  "website": "https://www.instapaper.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "nonCompliant",
+  "privacyUrl": "https://www.instapaper.com/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.instapaper.com/gdpr"
+    },
+    {
+      "url": "https://techcrunch.com/2018/05/24/instapaper-on-pause-in-europe-to-fix-gdpr-compliance-issue"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "verfied": false
+}
