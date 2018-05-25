@@ -6,7 +6,7 @@
     "API",
     "Transactional Email"
   ],
-  "iconUrl": "http://res.cloudinary.com/gdprtracker-io/image/upload/v1527206405/mailgun.png",
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527206405/mailgun.png",
   "website": "https://www.mailgun.com",
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
