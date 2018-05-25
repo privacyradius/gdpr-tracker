@@ -1,0 +1,34 @@
+{
+  "id": "quaderno",
+  "name": "Quaderno",
+  "description": "Tax management for internet businesses",
+  "categories": [
+    "Taxes", 
+    "Billing"
+  ],
+  "website": "https://quaderno.io",
+  "iconUrl": "https://pbs.twimg.com/profile_images/846726520341221380/6298hw-D_400x400.jpg",
+  "twitter": "quadernoapp",
+  "countryHQ": "ES",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://quaderno.io/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "https://quaderno.typeform.com/to/cisVsK",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "Digital Ocean"
+  ],
+  "contacts": [],
+  "articles": [
+    {
+      "date": "30/04/2018",
+      "url": "https://quaderno.io/blog/how-quaderno-complies-with-gdpr/"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusPage": "http://status.quaderno.io",
+  "verified": true
+}
