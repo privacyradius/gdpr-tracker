@@ -9,12 +9,14 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527036464/github.png",
   "website": "https://www.github.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://help.github.com/articles/github-privacy-statement",
-  "dsarUrl": "",
+  "dsarUrl": "https://github.com/contact/privacy",
   "dpaUrl": "",
-  "subprocessorsUrl": "",
-  "dataCenters": [],
+  "subprocessorsUrl": "https://help.github.com/articles/github-subprocessors-and-cookies/",
+  "dataCenters": [
+    "US"
+  ],
   "hostingPartners": [],
   "contacts": [],
   "certifications": [
