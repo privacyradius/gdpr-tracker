@@ -1,0 +1,42 @@
+{
+  "id": "bugsnag",
+  "name": "Bugsnag",
+  "description": "Bugsnag monitors apps for errors that impact customers & reports all diagnostic data.",
+  "categories": [
+    "Error Monitoring",
+    "Bug Reporting"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527208239/bugsnag.png",
+  "website": "https://www.bugsnag.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://docs.bugsnag.com/legal/privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "https://docs.bugsnag.com/legal/dpa",
+  "subprocessorsUrl": "https://docs.bugsnag.com/legal/subprocessors",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS",
+    "Google Cloud"
+  ],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "ISO 27001",
+    "ISO 27017",
+    "ISO 27018",
+    "CSA",
+    "HIPAA"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.bugsnag.com/security"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TSeVAAW"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "verfied": false
+}
