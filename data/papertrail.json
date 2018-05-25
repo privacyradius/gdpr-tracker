@@ -1,0 +1,35 @@
+{
+  "id": "papertrail",
+  "name": "Papertrail",
+  "description": "Frustration-free log management. Seamlessly manage logs from apps, servers, and cloud services.",
+  "categories": [
+    "Log Management"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527211447/papertrail.jpg",
+  "website": "https://www.papertrailapp.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.solarwinds.com/legal/privacy",
+  "dsarUrl": "https://www.solarwinds.com/legal/personal-data-request",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
+    "SOC 2 Type II"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.solarwinds.com/general-data-protection-regulation-cloud"
+    }, 
+    {
+      "url": "https://www.solarwinds.com/security/security-statement"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "verified": false
+}
