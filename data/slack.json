@@ -1,46 +1,39 @@
 {
-  "id": "slack",
-  "name": "Slack",
-  "description": "Slack is a cloud-based set of proprietary team collaboration tools and services",
+  "id": "globalcanineregistry",
+  "name": "Global Canine Registry",
+  "description": "Global Canine Registry, all-breed registration service and official home to the popular Supreme Bully canine breed.",
   "categories": [
-    "Team messaging",
-    "Chat"
+    "Canine Registry"
   ],
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png",
-  "website": "https://slack.com",
+  "iconUrl": "https://globalcanineregistry.com/images/logo.png",
+  "website": "https://globalcanineregistry.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
-  "privacyUrl": "https://slack.com/privacy-policy",
-  "dsarUrl": "",
-  "dpaUrl": "https://a.slack-edge.com/bed7/marketing/img/legal/pdf/slack_data_processing_addendum.pdf",
-  "subprocessorsUrl": "https://slack.com/slack-subprocessors",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://globalcanineregistry.com/legal/privacy-policy",
+  "dsarUrl": "https://globalcanineregistry.gdprform.io",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
   "dataCenters": [
-    "Global"
+    "US"
   ],
   "hostingPartners": [
     "AWS",
-    "Google Cloud"
+    "Google Cloud",
+    "GithHub"
   ],
-  "contacts": [],
-  "certifications": [
-    "EU-U.S. Privacy Shield",
-    "Swiss-U.S. Privacy Shield",
-    "ISO 27001",
-    "ISO 27018",
-    "SOC 2 Type I",
-    "SOC 2 Type II",
-    "SOC 3",
-    "ISAE 3000"
-  ],
-  "dataBreaches": [],
-  "articles": [
+  "contacts": [
     {
-      "date": "March 26, 2018",
-      "url": "https://slack.com/gdpr"
-    },
-    {
-      "url": "https://slack.com/privacy-shield-notice"
+      "type": "DPO",
+      "name": "Adrian Mejias",
+      "email": "adrian@globalcanineregistry.com",
+      "region": "Global"
     }
   ],
-  "bugBountyProgramUrl": "https://slack.com/security"
+  "certifications": [
+    "ISO 27001"
+  ],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "verified": true
 }

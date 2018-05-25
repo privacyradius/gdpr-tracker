@@ -9,7 +9,7 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527127926/apple.png",
   "website": "https://www.apple.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.apple.com/legal/privacy",
   "dsarUrl": "https://privacy.apple.com",
   "dpaUrl": "",

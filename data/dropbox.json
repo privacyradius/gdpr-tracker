@@ -9,7 +9,7 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525087974/dropbox-xxl.png",
   "website": "https://dropbox.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.dropbox.com/en_GB/privacy",
   "dsarUrl": "",
   "dpaUrl": "https://assets.dropbox.com/documents/en/legal/data-processing-agreement-dfb-013118.pdf",

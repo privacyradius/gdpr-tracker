@@ -10,7 +10,7 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526315877/google-cloud.png",
   "website": "https://cloud.google.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://policies.google.com/privacy",
   "dsarUrl": "",
   "dpaUrl": "https://cloud.google.com/terms/data-processing-terms",

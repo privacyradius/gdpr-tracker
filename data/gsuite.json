@@ -10,7 +10,7 @@
   "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg",
   "website": "https://gsuite.google.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://policies.google.com/privacy",
   "dsarUrl": "",
   "dpaUrl": "https://gsuite.google.com/terms/dpa_terms.html",
