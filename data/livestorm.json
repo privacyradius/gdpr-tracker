@@ -1,0 +1,42 @@
+{
+  "id": "livestorm",
+  "name": "Livestorm",
+  "description": "Livestorm is a better Web Conferencing Solution to host webinars, remote meetings and more directly from a browser.",
+  "categories": [
+    "Web Conferencing",
+    "Webinar Software"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/739798467795640320/8umwE8F8_400x400.jpg",
+  "website": "https://livestorm.co",
+  "countryHQ": "FR",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://livestorm.co/privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    {
+    "AWS"
+    }
+  ],
+  "contacts": [
+      {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "privacy@livestorm.co",
+      "region": "EU"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://livestorm.co/blog/important-gdpr-notice/"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "verified": false
+}
