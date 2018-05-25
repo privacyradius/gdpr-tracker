@@ -14,7 +14,9 @@
   "dsarUrl": "",
   "dpaUrl": "https://www.algolia.com/pdf/DPA-latest.pdf",
   "subprocessorsUrl": "https://www.algolia.com/policies/infrastructure-and-sub-processors",
-  "dataCenters": [],
+  "dataCenters": [
+    "Global"
+  ],
   "hostingPartners": [
     "AWS",
     "Google Cloud"
