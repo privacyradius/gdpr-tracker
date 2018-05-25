@@ -48,6 +48,11 @@
       "type": "string",
       "examples": ["https://www.acme.com/"]
     },
+    "twitter": {
+      "type": "string",
+      "description": "Twitter handle",
+      "examples": ["acme"]
+    },
     "gdprReadyStatus": {
       "description": "GDPR readiness status of this service",
       "enum": [ "inProgress", "ready", "nonCompliant", "unknown" ],
@@ -172,6 +177,11 @@
       "type": "string",
       "description": "Link to bug bounty program",
       "examples": ["https://hackerone.com/security"]
+    },
+    "statusUrl": {
+      "type": "string",
+      "description": "Link to bug bounty program",
+      "examples": ["https://acme.com/status"]
     },
     "verified": {
       "type": "boolean",
