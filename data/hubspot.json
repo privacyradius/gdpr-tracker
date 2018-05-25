@@ -9,7 +9,7 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525383655/hubspot.png",
   "website": "https://www.hubspot.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "hhttps://legal.hubspot.com/privacy-policy",
   "dsarUrl": "",
   "dpaUrl": "https://legal.hubspot.com/dpa",

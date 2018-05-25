@@ -9,7 +9,7 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526212990/auth0.png",
   "website": "https://auth0.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://auth0.com/privacy",
   "dsarUrl": "",
   "dpaUrl": "https://cdn.auth0.com/website/legal/files/Auth0-DPA.pdf",

@@ -9,7 +9,7 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526342755/facebook.png",
   "website": "https://www.facebook.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.facebook.com/policy.php",
   "dsarUrl": "https://www.facebook.com/settings?tab=your_facebook_information",
   "dpaUrl": "",

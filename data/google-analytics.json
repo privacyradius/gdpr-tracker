@@ -8,7 +8,7 @@
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527033752/google-analytics.png",
   "website": "https://www.google.com/analytics",
   "countryHQ": "US",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://policies.google.com/privacy",
   "dsarUrl": "",
   "dpaUrl": "https://www.google.com/analytics/terms/dpa/dataprocessingamendment_20160909.html",
