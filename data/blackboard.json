@@ -1,0 +1,25 @@
+{
+  "id": "blackboard",
+  "name": "Blackboard",
+  "description": "Blackboard focuses on technology and services to help students learn, not just one way, but their own way.",
+  "categories": [
+    "Education"
+  ],
+  "iconUrl": "https://i.imgur.com/bP5blUd.jpg",
+  "website": "https://blackboard.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "http://www.blackboard.com/legal/privacy-center.html",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S Privacy Shield"
+  ],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "http://www.blackboard.com/legal/security-policy.html"
+}
