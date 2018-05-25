@@ -1,0 +1,42 @@
+{
+  "id": "combell",
+  "name": "Combell",
+  "description": "Infrastructure for websites & applications",
+  "categories": [
+    "Infrastructure",
+    "Hosting"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527259167/combell.png",
+  "website": "https://www.combell.com",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.combell.com/en/about-combell/privacy-policy",
+  "dsarUrl": "https://www.combell.com/en/about-combell/contact",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "Combell"
+  ],
+  "contacts": [
+    {
+      "type": "Privacy Officer",
+      "name": "Data Protection Team",
+      "email": "data.protection@combellgroup.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [
+    "ISO27001"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.combell.com/en/blog/gdpr-what-you-should-know-as-a-combell-customer"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "verified": true
+}
