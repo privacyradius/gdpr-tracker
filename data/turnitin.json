@@ -15,7 +15,9 @@
   "dataCenters": [],
   "hostingPartners": [],
   "contacts": [],
-  "certifications": ["TRUSTe Certified Privacy","EU-U.S. Privacy Shield","Swiss-U.S. Privacy Shield","Student Privacy Pledge",""],
+  "certifications": [
+    "TRUSTe Certified Privacy","EU-U.S. Privacy Shield","Swiss-U.S. Privacy Shield","Student Privacy Pledge"
+  ],
   "dataBreaches": [],
   "articles": [],
   "verified": false
