@@ -13,8 +13,12 @@
   "dsarUrl": "https://tallguysfree.gdprform.io",
   "dpaUrl": "",
   "subprocessorsUrl": "",
-  "dataCenters": ["CA"],
-  "hostingPartners": ["OVH"],
+  "dataCenters": [
+    "CA"
+  ],
+  "hostingPartners": [
+    "OVH"
+  ],
   "contacts": [
     {
       "type": "Main Contact",
