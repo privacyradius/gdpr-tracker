@@ -1,0 +1,22 @@
+{
+  "id": "turnitin",
+  "name": "Turnitin",
+  "description": "Leading academic plagiarism checker technology for teachers and students. Online plagiarism detection, grammar check, grading tools.",
+  "categories": [
+    "Education",
+  ],
+  "iconUrl": "https://i.imgur.com/KeXAoNJ.png",
+  "website": "https://turnitin.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://guides.turnitin.com/Privacy_and_Security",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": ["TRUSTe Certified Privacy","EU-U.S. Privacy Shield","Swiss-U.S. Privacy Shield","Student Privacy Pledge",""],
+  "dataBreaches": [],
+  "articles": [],
+  "verified": false
+}
