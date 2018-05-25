@@ -1,0 +1,40 @@
+{
+  "id": "emailoctopus",
+  "name": "EmailOctopus",
+  "description": "An email marketing platform focused on affordability and usablity.",
+  "categories": [
+    "Email Marketing"
+  ],
+  "iconUrl": "https://emailoctopus.com/bundles/emailoctopuswebsite/images/logo.svg",
+  "website": "https://emailoctopus.com",
+  "countryHQ": "UK",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://emailoctopus.com/legal/privacy",
+  "dsarUrl": "https://support.emailoctopus.com/hc/en-us/requests/new",
+  "dpaUrl": "https://wordpress-media.emailoctopus.com/blog/uploads/2018/05/EmailOctopus-DPA-Final-09-May.pdf",
+  "subprocessorsUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSjAnGYQME6C5_-sLM2e6L3dhVXXJWM17P7QfXzcmaMnRu2zwirJ7vG1kkGbgvfTF0-mAwWWl20ZYK8/pubhtml#",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Jonathan Bull",
+      "email": "jonathan@emailoctopus.com",
+      "region": "EU"
+    }
+  ],
+  "articles": [
+    {
+      "date": "25/05/2018",
+      "url": "https://emailoctopus.com/legal/gdpr"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "bugBountyProgramUrl": "",
+  "verified": true
+}
