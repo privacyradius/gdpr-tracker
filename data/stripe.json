@@ -1,0 +1,39 @@
+{
+  "id": "stripe",
+  "name": "Stripe",
+  "description": "Online payment processing for internet businesses",
+  "categories": [
+    "Payments",
+    "API"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527260562/stripe.png",
+  "website": "https://www.stripe.com",
+  "twitter": "stripe",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://stripe.com/us/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://stripe.com/sub-processors/legal",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "PCI DSS Level 1"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "27 April, 2018",
+      "url": "https://stripe.com/guides/general-data-protection-regulation"
+    }, 
+    {
+      "url": "https://stripe.com/docs/security/stripe"
+    }
+  ],
+  "bugBountyProgramUrl": "https://stripe.com/docs/security",
+  "statusUrl": "https://status.stripe.com/",
+  "verified": false
+}
