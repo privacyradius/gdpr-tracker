@@ -1,7 +1,7 @@
 {
   "id": "emailoctopus",
   "name": "EmailOctopus",
-  "description": "EmailOctopus is an email marketing platform focused on affordability and usablity.",
+  "description": "An email marketing platform focused on affordability and usablity.",
   "categories": [
     "Email Marketing"
   ],
@@ -27,8 +27,14 @@
       "region": "EU"
     }
   ],
+  "articles": [
+    {
+      "date": "25/05/2018",
+      "url": "https://emailoctopus.com/legal/gdpr"
+    }
+  ],
   "certifications": [],
   "dataBreaches": [],
-  "articles": [],
-  "bugBountyProgramUrl": ""
+  "bugBountyProgramUrl": "",
+  "verified": true
 }
