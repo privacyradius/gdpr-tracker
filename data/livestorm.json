@@ -18,9 +18,7 @@
     "EU"
   ],
   "hostingPartners": [
-    {
     "AWS"
-    }
   ],
   "contacts": [
       {
@@ -38,5 +36,5 @@
     }
   ],
   "bugBountyProgramUrl": "",
-  "verified": false
+  "verified": true
 }
