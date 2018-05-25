@@ -16,12 +16,12 @@
   "properties": { 
     "id": { 
       "type": "string", 
-      "description": "Unique indentifier for the product",
+      "description": "Unique indentifier for the service",
       "examples": ["acme"]
     },
     "name": {
       "type": "string",
-      "description": "Name of the product",
+      "description": "Name of the service",
       "examples": ["Acme"]
     },
     "description": {
@@ -36,7 +36,7 @@
     },
     "iconUrl": {
       "type": "string",
-      "description": "URL to the icon of the product (recommended size 400x400)",
+      "description": "URL to the icon of the service (recommended size 400x400)",
       "examples": ["https://camo.githubusercontent.com/60c99424ef78e45661021dd0c5896277ff846150/68747470733a2f2f73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f6d61726b6574696e672d6769746875622f69636f6e2e706e67"]
     },
     "countryHQ": {
@@ -47,6 +47,11 @@
     "website": {
       "type": "string",
       "examples": ["https://www.acme.com/"]
+    },
+    "twitter": {
+      "type": "string",
+      "description": "Twitter handle",
+      "examples": ["acme"]
     },
     "gdprReadyStatus": {
       "description": "GDPR readiness status of this service",
@@ -172,6 +177,11 @@
       "type": "string",
       "description": "Link to bug bounty program",
       "examples": ["https://hackerone.com/security"]
+    },
+    "statusUrl": {
+      "type": "string",
+      "description": "Link to bug bounty program",
+      "examples": ["https://acme.com/status"]
     },
     "verified": {
       "type": "boolean",
