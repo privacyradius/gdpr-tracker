@@ -1,0 +1,46 @@
+{
+  "id": "mailjet",
+  "name": "Mailjet",
+  "description": "All-in-one ESP to send transactional & marketing emails.",
+  "categories": [
+    "Email Marketing",
+    "Newsletter",
+    "Transactional Emails",
+    "Marketing"
+  ],
+  "iconUrl": "https://i.imgur.com/WxRLixZ.png",
+  "website": "https://www.mailjet.com/",
+  "countryHQ": "FR",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.mailjet.com/security-privacy/",
+  "dsarUrl": "",
+  "dpaUrl": "https://hello.mailjet.com/dpa-download-en/",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "UK",
+    "DE",
+    "FR",
+    "BE"
+  ],
+  "hostingPartners": [
+      "Google Cloud Platform",
+      "OVH"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Darine Fayed",
+      "email": "privacy@mailjet.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [
+      "ISO 27001", 
+      "CSA"
+  ],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusPage": "",
+  "verified": false
+}
