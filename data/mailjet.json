@@ -8,8 +8,9 @@
     "Transactional Emails",
     "Marketing"
   ],
-  "iconUrl": "https://i.imgur.com/WxRLixZ.png",
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527334568/mailjet.png",
   "website": "https://www.mailjet.com/",
+  "twitter": "mailjet",
   "countryHQ": "FR",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.mailjet.com/security-privacy/",
@@ -17,20 +18,16 @@
   "dpaUrl": "https://hello.mailjet.com/dpa-download-en/",
   "subprocessorsUrl": "",
   "dataCenters": [
-    "UK",
-    "DE",
-    "FR",
-    "BE"
+    "EU"
   ],
   "hostingPartners": [
-      "Google Cloud Platform",
-      "OVH"
+    "Google Cloud"
   ],
   "contacts": [
     {
       "type": "DPO",
       "name": "Darine Fayed",
-      "email": "privacy@mailjet.com",
+      "email": "dfayed@mailjet.com",
       "region": "Global"
     }
   ],
@@ -39,8 +36,17 @@
       "CSA"
   ],
   "dataBreaches": [],
-  "articles": [],
+  "articles": [
+    {
+      "date": "Nov 28, 2017",
+      "url": "https://www.mailjet.com/gdpr/mailjet-first-esp-iso-27001-and-gdpr-certified"
+    },
+    {
+      "date": "Nov 28, 2017",
+      "url": "https://www.mailjet.com/gdpr/mailjet-gdpr-compliance"
+    }
+  ],
   "bugBountyProgramUrl": "",
-  "statusPage": "",
-  "verified": false
+  "statusPage": "https://mailjet.statuspage.io",
+  "verified": true
 }
