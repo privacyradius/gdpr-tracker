@@ -1,12 +1,12 @@
 {
   "id": "formbucket",
-  "name": "Formbucket",
+  "name": "FormBucket",
   "description": "Form processing made easy.",
   "categories": [
     "Form Builder",
     "Forms"
   ],
-  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527123478/formbucket.jpg",
+  "iconUrl": "https://i.imgur.com/FPY17M7.png",
   "website": "https://www.formbucket.com",
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
