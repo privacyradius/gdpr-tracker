@@ -22,8 +22,8 @@
   ],
   "contacts": [
     {
-      "type": "Main Contact",
-      "name": "",
+      "type": "DPO",
+      "name": "DPO",
       "email": "contact@tallguysfree.com",
       "region": "Global"
     }
