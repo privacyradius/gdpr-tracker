@@ -1,12 +1,13 @@
 {
   "id": "tallguysfree",
   "name": "Tall Guys Free",
-  "description": "The ultimate tall men website.",
+  "description": "The ultimate tall men website and promotion platform.",
   "categories": [
     "Marketing"
   ],
   "iconUrl": "https://tallguysfree.com/assets/128-Tall_Guys_Free_logo.png",
   "website": "https://tallguysfree.com",
+  "twitter": "tallguysfree",
   "countryHQ": "CA",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://tallguysfree.com/privacy",
