@@ -1,0 +1,23 @@
+{
+  "id": "siftery",
+  "name": "Siftery",
+  "description": "Share products your company uses and get personalized recommendations.",
+  "categories": [],
+  "iconUrl": "https://pbs.twimg.com/profile_images/774378268950605824/9q92Ct1P_400x400.jpg",
+  "website": "https://www.acmesaas.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "nonCompliant",
+  "privacyUrl": "https://siftery.com/privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [""],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusPage": "",
+  "verified": false
+}
