@@ -1,0 +1,27 @@
+{
+  "id": "twitter",
+  "name": "Twitter",
+  "description": "Online news and social networking service.",
+  "categories": [
+    "Social Media",
+    "Social Network"
+  ],
+  "iconUrl": "https://i.imgur.com/Oj69POl.png",
+  "website": "https://twitter.com/",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://twitter.com/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "https://gdpr.twitter.com/en/dpa.html",
+  "subprocessorsUrl": "https://gdpr.twitter.com/en/subprocessors.html",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+  ],
+  "dataBreaches": [],
+  "articles": [],
+  "verified": false
+}
