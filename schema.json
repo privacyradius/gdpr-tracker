@@ -32,7 +32,9 @@
     "categories": {
       "type": "array",
       "description": "What category does this service belong to?",
-      "examples": ["CRM", "Customer Support"]
+      "examples": ["CRM", "Customer Support"],
+      "maxItems": 3,
+      "uniqueItems": true
     },
     "iconUrl": {
       "type": "string",
@@ -180,8 +182,13 @@
     },
     "statusUrl": {
       "type": "string",
-      "description": "Link to bug bounty program",
+      "description": "Link to status page",
       "examples": ["https://acme.com/status"]
+    },
+    "statusTwitter": {
+      "type": "string",
+      "description": "Twitter handle that communicates about service status & uptime",
+      "examples": ["acmestatus"]
     },
     "verified": {
       "type": "boolean",

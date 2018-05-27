@@ -69,7 +69,8 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
     }
   ],
   "bugBountyProgramUrl": "https://www.beatswtich.com/bounty-program",
-  "statusPage": "https://www.beatswtich.com/status",
+  "statusUrl": "https://www.beatswtich.com/status",
+  "statusTwitter": "beatswitchstatus",
   "verified": true
 }
 ```
