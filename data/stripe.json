@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527260562/stripe.png",
   "website": "https://www.stripe.com",
+  "applicationUrl": "https://dashboard.stripe.com/login",  
   "twitter": "stripe",
   "countryHQ": "US",
   "gdprReadyStatus": "ready",

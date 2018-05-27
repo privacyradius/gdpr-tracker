@@ -9,6 +9,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527034496/sendgrid.png",
   "website": "https://www.sendgrid.com",
+  "applicationUrl": "https://app.sendgrid.com/login",   
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://sendgrid.com/policies/privacy",

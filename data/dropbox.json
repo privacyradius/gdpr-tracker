@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525087974/dropbox-xxl.png",
   "website": "https://dropbox.com",
+  "applicationUrl": "https://www.dropbox.com/login",        
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.dropbox.com/en_GB/privacy",

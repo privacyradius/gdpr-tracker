@@ -9,6 +9,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527334568/mailjet.png",
   "website": "https://www.mailjet.com/",
+  "applicationUrl": "https://app.mailjet.com/signin",
   "twitter": "mailjet",
   "countryHQ": "FR",
   "gdprReadyStatus": "ready",

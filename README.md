@@ -20,6 +20,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
 | name | string |  | * |  | Name of the company |
 | description | string |  | * |  | Description of the service |
 | website | string | url | * |  | Website of the service |
+| applicationUrl | string | url | * |  | Application of the service |
 | categories | array |  | * |  | Categories that the service belongs to |
 | iconUrl | string | url | * |  | URL to the icon of the service (recommended size 400x400px). Must be HTTPS |
 | countryHQ | string | ISO ALPHA-2 code | * |  | Country of HQ |
@@ -36,7 +37,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
 | articles | array |  |  |  | GDPR & privacy related articles |
 | bugBountyProgramUrl | string | url |  |  | Link to bug bounty program |
 | statusUrl | string | url |  |  | Link to status page |
-| statusTwitter | string |  |  |  | Twitter handle that communicates about service status & uptime |
+| statusTwitter | string |  |  |  | Twitter account that communicates about service status & uptime |
 | verified | boolean |  |  |  | Verified by company representative |
 
 ### [Example](https://github.com/privacyradius/gdpr-tracker/blob/master/schema.json)
@@ -52,6 +53,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
   ],
   "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
   "website": "https://www.acmesaas.com",
+  "applicationUrl": "https://app.acmesaas.com",    
   "twitter": "acme",
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",

@@ -24,6 +24,7 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
   ],
   "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
   "website": "https://www.acmesaas.com",
+  "applicationUrl": "https://app.acmesaas.com",    
   "twitter": "acme",
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",

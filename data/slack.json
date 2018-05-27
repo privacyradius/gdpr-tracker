@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png",
   "website": "https://slack.com",
+  "applicationUrl": "https://slack.com/signin",  
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://slack.com/privacy-policy",

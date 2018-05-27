@@ -7,6 +7,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527125141/cloudflare.png",
   "website": "https://www.cloudflare.com",
+  "applicationUrl": "https://dash.cloudflare.com/login",    
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.cloudflare.com/security-policy",

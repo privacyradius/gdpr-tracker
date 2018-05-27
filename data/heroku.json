@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526908302/heroku.png",
   "website": "https://www.heroku.com",
+  "applicationUrl": "https://id.heroku.com/login",    
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.heroku.com/policy/privacy",

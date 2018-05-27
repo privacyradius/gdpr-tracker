@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://blog.storagemadeeasy.com/wp-content/uploads/2017/10/s3.png",
   "website": "https://aws.amazon.com/",
+  "applicationUrl": "https://auth0.auth0.com",
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://aws.amazon.com/privacy",

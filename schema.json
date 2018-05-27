@@ -11,7 +11,9 @@
     "iconUrl",
     "countryHQ",
     "website",
-    "gdprReadyStatus"
+    "applicationUrl",
+    "gdprReadyStatus",
+    "privacyUrl"
   ],
   "properties": { 
     "id": { 
@@ -39,6 +41,8 @@
     },
     "iconUrl": {
       "type": "string",
+      "format": "uri",
+      "pattern": "^(https?|http?)://",
       "description": "URL to the icon of the service (recommended size 400x400)",
       "examples": ["https://camo.githubusercontent.com/60c99424ef78e45661021dd0c5896277ff846150/68747470733a2f2f73332e65752d63656e7472616c2d312e616d617a6f6e6177732e636f6d2f6d61726b6574696e672d6769746875622f69636f6e2e706e67"]
     },
@@ -49,7 +53,17 @@
     },
     "website": {
       "type": "string",
+      "format": "uri",
+      "pattern": "^(https?|http?)://",
+      "description": "Website of the cloud service",
       "examples": ["https://www.acme.com/"]
+    },
+    "applicationUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^(https?|http?)://",
+      "description": "Aplication url of the cloud service",
+      "examples": ["https://app.acme.com/"]
     },
     "twitter": {
       "type": "string",
@@ -58,25 +72,32 @@
     },
     "gdprReadyStatus": {
       "description": "GDPR readiness status of this service",
-      "enum": [ "inProgress", "ready", "nonCompliant", "unknown" ],
+      "enum": [ 
+        "inProgress", 
+        "ready", 
+        "nonCompliant", 
+        "unknown" 
+      ],
       "examples": ["inProgress"]
     },
     "privacyUrl": {
       "type": "string",
+      "format": "uri",
+      "pattern": "^(https?|http?)://",
       "description": "Link to privacy policy",
       "examples": ["https://www.acme.com/privacy"]
     },
     "dsarUrl": {
-      "description": "Data Subject Access Rights URL",
-      "type": "string"
+      "type": "string",
+      "description": "Data Subject Access Rights URL"
     },
     "dpaUrl": {
-      "description": "Data Processing Agreement URL",
-      "type": "string"
+      "type": "string",
+      "description": "Data Processing Agreement URL"
     },
     "subprocessorsUrl": {
-      "description": "Subprocessors Overview URL",
-      "type": "string"
+      "type": "string",
+      "description": "Subprocessors Overview URL"
     },
     "dataCenters": {
       "type": "array",

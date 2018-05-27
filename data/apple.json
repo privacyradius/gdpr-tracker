@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527127926/apple.png",
   "website": "https://www.apple.com",
+  "applicationUrl": "https://itunesconnect.apple.com/login",
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.apple.com/legal/privacy",

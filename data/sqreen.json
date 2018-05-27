@@ -7,7 +7,8 @@
     "SaaS"
   ],
   "iconUrl": "https://s3-eu-west-1.amazonaws.com/sqreen-assets/logos/sqreen-logo.png",
-  "website": "https://www.sqreen.io/",
+  "website": "https://www.sqreen.io",
+  "applicationUrl": "https://my.sqreen.io/login",
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.sqreen.io/privacy",

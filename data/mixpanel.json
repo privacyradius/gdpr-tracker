@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525208708/mixpanel.jpg",
   "website": "https://mixpanel.com",
+  "applicationUrl": "https://mixpanel.com/login/",  
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://mixpanel.com/legal/privacy-policy",

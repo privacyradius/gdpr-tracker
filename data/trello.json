@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525732643/trello.jpg",
   "website": "https://www.trello.com",
+  "applicationUrl": "https://trello.com/login",  
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://trello.com/privacy",

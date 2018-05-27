@@ -9,6 +9,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525380143/digital-ocean.png",
   "website": "https://www.digitalocean.com",
+  "applicationUrl": "https://cloud.digitalocean.com/login",      
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.digitalocean.com/legal/privacy",

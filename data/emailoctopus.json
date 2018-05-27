@@ -7,6 +7,7 @@
   ],
   "iconUrl": "https://emailoctopus.com/bundles/emailoctopuswebsite/images/logo.svg",
   "website": "https://emailoctopus.com",
+  "applicationUrl": "https://emailoctopus.com/account/sign-in",          
   "countryHQ": "GB",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://emailoctopus.com/legal/privacy",

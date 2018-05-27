@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525644532/algolia.png",
   "website": "https://www.algolia.com",
+  "applicationUrl": "https://www.algolia.com/users/sign_in",
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.algolia.com/policies/privacy",
