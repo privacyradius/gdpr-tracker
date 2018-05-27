@@ -5,8 +5,7 @@
   "categories": [
     "Email Marketing",
     "Newsletter",
-    "Transactional Emails",
-    "Marketing"
+    "Transactional Emails"
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527034496/sendgrid.png",
   "website": "https://www.sendgrid.com",
@@ -51,5 +50,7 @@
     }
   ],
   "bugBountyProgramUrl": "https://hackerone.com/sendgrid",
+  "statusUrl": "http://status.sendgrid.com/",
+  "statusTwitter": "sendgrid_ops",
   "verified": true
 }

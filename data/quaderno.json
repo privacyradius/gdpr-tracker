@@ -29,6 +29,6 @@
     }
   ],
   "bugBountyProgramUrl": "",
-  "statusPage": "http://status.quaderno.io",
+  "statusUrl": "http://status.quaderno.io",
   "verified": true
 }

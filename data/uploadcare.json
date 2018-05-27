@@ -4,10 +4,7 @@
   "description": "File system as a Service",
   "categories": [
     "API",
-    "PaaS",
     "File uploads",
-    "Image processing",
-    "Video processing",
     "CDN"
   ],
   "iconUrl": "https://ucarecdn.com/8c53fe2f-12b5-4b5c-b67e-ddad0bfd644a/circletransparent400.png",

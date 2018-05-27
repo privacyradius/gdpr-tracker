@@ -26,6 +26,6 @@
       "url": "https://guides.turnitin.com/Privacy_and_Security#EU_Data_Protection_and_GDPR_Compliance"
     }
   ],
-  "statusPageUrl": "http://www.turnitin.com/self-service/system-status.html",
+  "statusUrl": "http://www.turnitin.com/self-service/system-status.html",
   "verified": false
 }
