@@ -1,0 +1,43 @@
+{
+  "id": "obieai",
+  "name": "Obie.ai",
+  "description": "Obie is an AI platform that brings all of your knowledge and documentation into one spot so that your team can focus less on finding information and more on reaching their goals.",
+  "categories": [
+    "Productivity",
+    "Knowledge Management",
+    "Bot",
+    "Tools",
+    "Document Management",
+    "Search",
+    "AI"
+  ],
+  "iconUrl": "https://obie.ai/img/obie-dyecut.png",
+  "website": "https://obie.ai",
+  "twitter": "askobie",
+  "countryHQ": "CA",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://obie.ai/about/privacypolicy",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [ 
+    "Microsoft Azure",
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Alex Sopinka",
+      "email": "alex@sopinka.com",
+      "region": "Global"
+    },
+    {
+      "type": "Privacy Officer",
+      "name": "Alex Sopinka",
+      "email": "alex@obie.ai",
+      "region": "Global"
+    }
+  ],
+  "statusPage": "https://status.obie.ai",
+  "verified": true
+}
