@@ -38,5 +38,6 @@
     }
   ],
   "bugBountyProgramUrl": "",
+  "statusPageUrl": "https://status.bugsnag.com/",
   "verfied": false
 }
