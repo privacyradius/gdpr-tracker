@@ -34,6 +34,6 @@
       "region": "Global"
     }
   ],
-  "statusPage": "https://status.obie.ai",
+  "statusPageUrl": "https://status.obie.ai",
   "verified": true
 }
