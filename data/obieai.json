@@ -4,17 +4,13 @@
   "description": "Obie is an AI platform that brings all of your knowledge and documentation into one spot so that your team can focus less on finding information and more on reaching their goals.",
   "categories": [
     "Productivity",
-    "Knowledge Management",
     "Bot",
-    "Tools",
-    "Document Management",
-    "Search",
     "AI"
   ],
   "iconUrl": "https://obie.ai/img/obie-dyecut.png",
   "website": "https://obie.ai",
   "twitter": "askobie",
-  "countryHQ": "CA",
+  "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://obie.ai/about/privacypolicy",
   "dataCenters": [
