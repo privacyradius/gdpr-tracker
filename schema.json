@@ -16,6 +16,7 @@
   "properties": { 
     "id": { 
       "type": "string", 
+      "pattern": "[a-z0-9-]*$",
       "description": "Unique indentifier for the service",
       "examples": ["acme"]
     },
