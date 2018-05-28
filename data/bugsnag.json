@@ -8,7 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527208239/bugsnag.png",
   "website": "https://www.bugsnag.com",
-  "applicationUrl": "https://app.bugsnag.com/user/sign_in/",    
+  "applicationUrl": "https://app.bugsnag.com/user/sign_in",    
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://docs.bugsnag.com/legal/privacy-policy/",
@@ -41,5 +41,5 @@
   "bugBountyProgramUrl": "",
   "statusUrl": "https://status.bugsnag.com/",
   "statusTwitter": "bugsnagstatus",
-  "verfied": false
+  "verified": false
 }
