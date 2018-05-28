@@ -7,6 +7,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527211447/papertrail.jpg",
   "website": "https://www.papertrailapp.com",
+  "applicationUrl": "https://papertrailapp.com/login",  
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.solarwinds.com/legal/privacy",

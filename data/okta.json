@@ -7,6 +7,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525201478/okta.png",
   "website": "https://okta.com",
+  "applicationUrl": "https://login.okta.com",
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.okta.com/privacy-policy",

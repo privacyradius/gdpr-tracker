@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526212990/auth0.png",
   "website": "https://auth0.com",
+  "applicationUrl": "https://auth0.auth0.com",
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://auth0.com/privacy",

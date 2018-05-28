@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://s3.eu-central-1.amazonaws.com/intuo-marketing-assets/intuo_icon_app_200x200_blue_grad.png",
   "website": "https://www.intuo.io",
+  "applicationUrl": "https://www.intuo.io/login",      
   "countryHQ": "BE",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.intuo.io/terms-conditions",

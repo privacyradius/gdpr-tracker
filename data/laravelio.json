@@ -9,6 +9,7 @@
   ],
   "iconUrl": "https://image.ibb.co/kNDbpH/laravelio_small.png",
   "website": "https://laravel.io",
+  "applicationUrl": "https://laravel.io/login",        
   "countryHQ": "BE",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://laravel.io/privacy",

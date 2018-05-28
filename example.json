@@ -8,10 +8,12 @@
   ],
   "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
   "website": "https://www.acmesaas.com",
+  "applicationUrl": "https://app.acmesaas.com",  
+  "twitter": "acmesaas",
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.acmesaas.com/privacy",
-  "dsarFormUrl": "https://bs.gdprform.io",
+  "dsarFormUrl": "https://acme.gdprform.io",
   "dpaUrl": "https://www.acmesaas.com/dpa",
   "subprocessorsUrl": "https://www.acmesaas.com/subprocessors",
   "dataCenters": [
@@ -41,11 +43,13 @@
   ],
   "dataBreaches": [{
     "date": "10/12/2017",
-    "url": "https://www.beatswtich.com/breach"
+    "url": "https://www.acmesaas.com/breach"
   }],
   "articles": [{
     "date": "02/12/2018",
-    "url": "https://www.beatswtich.com/gdpr"
+    "url": "https://www.acmesaas.com/gdpr"
   }],
+  "statusUrl": "https://www.acmesaas.com/status",
+  "statusTwitter": "statusacmesaas",
   "verified": true
 }

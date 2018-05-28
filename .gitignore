@@ -9,6 +9,7 @@ yarn-error.log*
 
 .serverless
 
+test.json
 scripts/upload.js
 
 # Runtime data

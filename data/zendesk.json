@@ -7,6 +7,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525206222/zendesk.png",
   "website": "https://www.zendesk.com",
+  "applicationUrl": "https://www.zendesk.com/login",  
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.zendesk.com/company/customers-partners/privacy-policy/",

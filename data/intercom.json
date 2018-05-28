@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526643923/intercom.svg",
   "website": "https://www.intercom.com",
+  "applicationUrl": "https://app.intercom.io/admins/sign_in",    
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.intercom.com/terms-and-policies#privacy",

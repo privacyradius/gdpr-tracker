@@ -7,6 +7,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526250870/mailchimp.png",
   "website": "https://www.mailchimp.com",
+  "applicationUrl": "https://login.mailchimp.com",
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://mailchimp.com/legal/privacy",

@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525274617/segment.png",
   "website": "https://segment.com",
+  "applicationUrl": "https://app.segment.com/login", 
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://segment.com/docs/legal/privacy",

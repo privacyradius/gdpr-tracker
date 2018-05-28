@@ -9,6 +9,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527031983/gdprform.png",
   "website": "https://gdprform.io",
+  "applicationUrl": "https://app.gdprform.io/login",                
   "countryHQ": "BE",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.gdprform.io/privacy-policy/",

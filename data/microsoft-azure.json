@@ -9,6 +9,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1526317566/azure.png",
   "website": "https://azure.microsoft.com/en-gb/",
+  "applicationUrl": "https://login.microsoftonline.com",  
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://privacy.microsoft.com/en-us/privacystatement",

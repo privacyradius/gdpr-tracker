@@ -7,6 +7,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527036106/salesflare.png",
   "website": "https://www.salesflare.com",
+  "applicationUrl": "https://app.salesflare.com/#/login",
   "countryHQ": "BE",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://salesflare.com/privacy.html",

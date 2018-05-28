@@ -1,5 +1,5 @@
 {
-  "id": "unroll.me",
+  "id": "unrollme",
   "name": "Unroll.me",
   "description": "Clean up your inbox",
   "categories": [
@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1525643722/unroll.png",
   "website": "https://unroll.me",
+  "applicationUrl": "https://unroll.me/a/login", 
   "countryHQ": "US",
   "gdprReadyStatus": "nonCompliant",
   "privacyUrl": "https://unroll.me/legal/privacy",
