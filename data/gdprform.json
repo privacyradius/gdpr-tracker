@@ -11,7 +11,7 @@
   "website": "https://gdprform.io",
   "applicationUrl": "https://app.gdprform.io/login",                
   "countryHQ": "BE",
-  "gdprReadyStatus": "inProgress",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.gdprform.io/privacy-policy/",
   "dsarUrl": "https://gdprform.gdprform.io",
   "dpaUrl": "",
