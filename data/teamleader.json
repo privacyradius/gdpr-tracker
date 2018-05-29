@@ -16,7 +16,7 @@
     }],
     "verified": true,
     "countryHQ": "BE",
-    "statusUrl": null,
+    "statusUrl": "http://status.teamleader.eu/",
     "categories": [
         "CRM, invoicing, project planning, ticketing, time tracking"
     ],
