@@ -1,0 +1,37 @@
+{
+    "id": "polydone",
+    "name": "Polydone",
+    "dpaUrl": "https://www.polydone.com/privacy",
+    "dsarUrl": "",
+    "iconUrl": "https://www.polydone.com/assets/img/logos/logo-polydone-logotype-portrait-brand.png",
+    "twitter": "polydonehq",
+    "website": "https://www.polydone.com",
+    "articles": [
+      {
+        "url": "https://www.polydone.com/security"
+      }
+    ],
+    "contacts": [],
+    "verified": true,
+    "countryHQ": "GB",
+    "statusUrl": "",
+    "categories": [
+        "Project Management",
+         "Productivity",
+         "Enterprise"
+    ],
+    "privacyUrl": "https://www.polydone.com/privacy",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "The Enterprise Productivity Platform",
+    "dataBreaches": [],
+    "applicationUrl": "https://new.polydone.com/login",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
