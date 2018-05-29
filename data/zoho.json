@@ -1,0 +1,40 @@
+{
+  "id": "zoho",
+  "name": "Zoho",
+  "description": "Online productivity tools and SaaS applications.",
+  "categories": [
+    "Collaboration",
+    "Office Suites",
+    "CRM"
+  ],
+  "iconUrl": "https://i.imgur.com/jRBHkJQ.png",
+  "website": "https://zoho.com",
+  "countryHQ": "IN",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.zoho.com/privacy.html",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://www.zoho.com/privacy/sub-processors.html",
+  "dataCenters": [
+    "US",
+    "EU"
+  ],
+  "hostingPartners": [],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "dpo@zohocorp.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [
+      "ISO27001",
+      "EU-U.S. Privacy Shield",
+      "SOC 2 Type II"
+  ],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "https://bugbounty.zoho.com",
+  "verified": false
+}
