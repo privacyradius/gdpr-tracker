@@ -1,0 +1,48 @@
+{
+  "id": "zoho",
+  "name": "Zoho",
+  "description": "Online productivity tools and SaaS applications.",
+  "categories": [
+    "Collaboration",
+    "Office Suites",
+    "CRM"
+  ],
+  "iconUrl": "https://i.imgur.com/jRBHkJQ.png",
+  "website": "https://zoho.com",
+  "applicationUrl": "https://accounts.zoho.eu/signin",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.zoho.com/privacy.html",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://www.zoho.com/privacy/sub-processors.html",
+  "dataCenters": [
+    "US",
+    "EU"
+  ],
+  "hostingPartners": [],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "dpo@zohocorp.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [
+      "ISO 27001",
+      "EU-U.S. Privacy Shield",
+      "SOC 2 Type II"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://help.zoho.com/portal/community/topic/zoho-crm-is-on-its-way-to-gdpr-compliance-27-4-2018"
+    },
+    {
+      "url": "https://www.zoho.com/security.html"
+    }
+  ],
+  "bugBountyProgramUrl": "https://bugbounty.zoho.com",
+  "verified": false
+}
