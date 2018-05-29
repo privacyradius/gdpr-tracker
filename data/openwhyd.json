@@ -15,7 +15,7 @@
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://openwhyd.org/privacy",
   "dataCenters": [
-    "Amsterdam"
+    "NL"
   ],
   "hostingPartners": [
     "Digital Ocean"
@@ -26,5 +26,6 @@
       "date": "29 May, 2018",
       "url": "https://www.facebook.com/openwhyd/photos/a.1159960527358541.1073741828.1156477841040143/1796149743739613/?type=3"
     }
-  ]
+  ],
+  "verified": true
 }
