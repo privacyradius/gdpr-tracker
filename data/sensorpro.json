@@ -1,0 +1,46 @@
+{
+  "id": "sensorpro",
+  "name": "Sensorpro",
+  "description": "GDPR Signup forms",
+  "categories": [
+    "GDPR", 
+    "CRM"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
+  "website": "https://www.sensorpro.net?r=gdpr",
+  "applicationUrl": "https://sensorpro.net/signup",    
+  "twitter": "sensorpro",
+  "countryHQ": "IE",
+  "gdprReadyStatus": "Ready",
+  "privacyUrl": "https://www.sensorpro.com/privacy",
+  "dsarUrl": "https://sensorpro.net/sla",
+  "dpaUrl": "https://www.sensorpro.com/aup",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "Blacknight" 
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Dave Ewing",
+      "email": "privacy@sensorpro.net",
+      "region": "EU"
+    }
+  ],
+  "certifications": [
+    "ISO 27001"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://sensorpro.net/gdpr"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "https://sensorpro.net/status",
+  "statusTwitter": "sensorpro",
+  "verified": true
+}
