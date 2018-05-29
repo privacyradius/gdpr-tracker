@@ -25,9 +25,9 @@
     ],
     "dataBreaches": [],
     "certifications": [
-    "EU-U.S. Privacy Shield",
-    "Swiss-U.S. Privacy Shield"
-  ],
+        "EU-U.S. Privacy Shield",
+        "Swiss-U.S. Privacy Shield"
+    ],
     "bugBountyProgramUrl": "",
     "contacts": [],
     "articles": [
@@ -36,12 +36,12 @@
       }
     ],
     "contacts": [ 
-    {
-      "type": "Representative for data protection in the EU",
-      "name": "Daniel Hejl",
-      "email": "gdpr@productboard.com",
-      "region": "EU"
-    }
-  ],
+        {
+          "type": "DPO",
+          "name": "Daniel Hejl",
+          "email": "gdpr@productboard.com",
+          "region": "EU"
+        }
+    ],
     "verified": true
 }
