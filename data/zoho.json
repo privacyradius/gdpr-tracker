@@ -9,7 +9,7 @@
   ],
   "iconUrl": "https://i.imgur.com/jRBHkJQ.png",
   "website": "https://zoho.com",
-  "applicationUrl": "https://zoho.com",
+  "applicationUrl": "https://accounts.zoho.eu/signin",
   "countryHQ": "IN",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.zoho.com/privacy.html",
@@ -35,7 +35,14 @@
       "SOC 2 Type II"
   ],
   "dataBreaches": [],
-  "articles": [],
+  "articles": [
+    {
+      "url": "https://help.zoho.com/portal/community/topic/zoho-crm-is-on-its-way-to-gdpr-compliance-27-4-2018"
+    },
+    {
+      "url": "https://www.zoho.com/security.html"
+    }
+  ],
   "bugBountyProgramUrl": "https://bugbounty.zoho.com",
   "verified": false
 }
