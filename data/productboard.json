@@ -37,7 +37,7 @@
     ],
     "contacts": [ 
         {
-          "type": "DPO",
+          "type": "Other",
           "name": "Daniel Hejl",
           "email": "gdpr@productboard.com",
           "region": "EU"
