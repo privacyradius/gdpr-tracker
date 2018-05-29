@@ -1,0 +1,42 @@
+{
+    "id": "chatlio",
+    "name": "Chatlio",
+    "dpaUrl": "https://chatlio.com/legal/data-processing-addendum/",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527601525/chatlio.png",
+    "twitter": "chatlio",
+    "website": "https://chatlio.com/",
+    "articles": [
+      {
+        "url": "https://chatlio.com/legal"
+      }
+    ],
+    "contacts": [{
+        "type": "DPO",
+        "name": "DPO",
+        "email": "privacy@chatlio.com",
+        "region": "Global"
+    }],
+    "verified": true,
+    "countryHQ": "US",
+    "statusUrl": "",
+    "categories": [
+        "Customer Support",
+        "Marketing", 
+        "Live Chat"
+    ],
+    "privacyUrl": "https://chatlio.com/legal/privacy-policy/",
+    "dataCenters": [
+        "US"
+    ],
+    "description": "Live Chat for Slack.",
+    "dataBreaches": [],
+    "applicationUrl": "https://chatlio.com/app/#/login",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
