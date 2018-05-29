@@ -13,8 +13,8 @@
     "iconUrl": "https://www.productboard.com/wp-content/themes/productboard/public/images/logo-pb.svg",
     "subprocessorsUrl": "https://www.productboard.com/subprocessors/",
     "dpaUrl": "https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=35aa3d6d-562f-4cba-9853-6b3a25b83fde",
-    "dsarUrl": null,
-    "statusUrl": null,
+    "dsarUrl": "",
+    "statusUrl": "",
     "privacyUrl": "https://www.productboard.com/privacy-policy/",
     "dataCenters": [
       "US"
@@ -23,9 +23,9 @@
       "AWS",
       "Heroku"
     ],
-    "dataBreaches": null,
-    "certifications": null,
-    "bugBountyProgramUrl": null,
+    "dataBreaches": [],
+    "certifications": [],
+    "bugBountyProgramUrl": "",
     "contacts": [],
     "articles": [
       {
