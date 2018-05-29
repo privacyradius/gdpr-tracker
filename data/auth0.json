@@ -39,5 +39,8 @@
       "url": "https://auth0.com/security"
     }
   ],
-  "bugBountyProgramUrl": "https://auth0.com/whitehat"
+  "bugBountyProgramUrl": "https://auth0.com/whitehat",
+  "statusUrl": "http://uptime.auth0.com/",
+  "statusTwitter": "auth0status",
+  "verified": false
 }
