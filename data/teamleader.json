@@ -1,0 +1,36 @@
+{
+    "id": "teamleader",
+    "name": "Teamleader",
+    "dpaUrl": "https://go.teamleader.eu/hubfs/0.%20HQ/pages/dpa/dpa-en-teamleader.pdf",
+    "dsarUrl": "https://go.teamleader.eu/exercise-of-rights#_ga=2.45570724.1434729410.1527495720-622795135.1527241116",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527605380/teamleader.png",
+    "twitter": "teamleader",
+    "website": "https://www.teamleader.eu/",
+    "applicationUrl": "https://app.teamleader.eu/",
+    "articles": [], 
+    "contacts": [{
+        "type": "DPO",
+        "name": "DPO",
+        "email": "dpo@teamleader.eu",
+        "region": "Belgium"
+    }],
+    "verified": true,
+    "countryHQ": "BE",
+    "statusUrl": "http://status.teamleader.eu/",
+    "categories": [
+        "CRM, invoicing, project planning, ticketing, time tracking"
+    ],
+    "privacyUrl": "https://www.teamleader.eu/privacy?__hstc=137216559.20d17e0035f50bae78e1e155334e7a55.1527241199187.1527241199187.1527495720020.2&__hssc=137216559.1.1527495720020&__hsfp=171332061#_ga=2.14505271.1434729410.1527495720-622795135.1527241116",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "Teamleader enables small and medium sized businesses to organise their business, build better relationships and collaborate with their team in a single tool.",
+    "dataBreaches": [],
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
