@@ -14,7 +14,7 @@
     "contacts": [],
     "verified": true,
     "countryHQ": "GB",
-    "statusUrl": null,
+    "statusUrl": "",
     "categories": [
         "Project Management",
          "Productivity",
@@ -25,13 +25,13 @@
         "EU"
     ],
     "description": "The Enterprise Productivity Platform",
-    "dataBreaches": null,
-    "applicationUrl": null,
-    "certifications": null,
-    "gdprReadyStatus": "Ready",
+    "dataBreaches": [],
+    "applicationUrl": "https://new.polydone.com/login",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
     "hostingPartners": [
         "AWS"
     ],
-    "subprocessorsUrl": null,
-    "bugBountyProgramUrl": null
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
 }
