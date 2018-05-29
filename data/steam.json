@@ -1,0 +1,31 @@
+{
+  "id": "steam",
+  "name": "Steam",
+  "description": "Digital distribution platform by Valve ",
+  "categories": [],
+  "iconUrl": "https://i.imgur.com/IskAj8F.jpg",
+  "website": "https://store.steampowered.com",
+  "applicationUrl": "https://store.steampowered.com/",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://store.steampowered.com/privacy_agreement/",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+      "Swiss-U.S. Privacy Shield",
+      "EU-U.S. Privacy Shield"
+  ],
+  "dataBreaches": [
+       {
+              "date": "12/25/2016",
+              "url": "http://store.steampowered.com/news/19852/"
+       }
+  ],
+  "articles": [],
+  "bugBountyProgramUrl": "https://hackerone.com/valve",
+  "verified": false
+}
