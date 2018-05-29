@@ -11,7 +11,12 @@
         "url": "https://chatlio.com/legal"
       }
     ],
-    "contacts": [],
+    "contacts": [{
+        "type": "DPO",
+        "name": "DPO",
+        "email": "privacy@chatlio.com",
+        "region": "Global"
+    }],
     "verified": true,
     "countryHQ": "US",
     "statusUrl": "",
