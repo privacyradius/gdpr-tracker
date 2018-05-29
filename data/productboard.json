@@ -24,7 +24,10 @@
       "Heroku"
     ],
     "dataBreaches": [],
-    "certifications": [],
+    "certifications": [
+        "EU-U.S. Privacy Shield",
+        "Swiss-U.S. Privacy Shield"
+    ],
     "bugBountyProgramUrl": "",
     "contacts": [],
     "articles": [
@@ -32,5 +35,13 @@
         "url": "https://help.productboard.com/faq/is-productboard-compliant-with-gdpr"
       }
     ],
-    "verified": false
+    "contacts": [ 
+        {
+          "type": "DPO",
+          "name": "Daniel Hejl",
+          "email": "gdpr@productboard.com",
+          "region": "EU"
+        }
+    ],
+    "verified": true
 }
