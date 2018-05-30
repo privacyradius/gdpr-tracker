@@ -1,0 +1,36 @@
+{
+    "id": "minutemailer",
+    "name": "Minutemailer",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527720022/minutemailer.png",
+    "twitter": "minutemailer",
+    "website": "https://minutemailer.com",
+    "articles": [
+        {
+            "url": "https://minutemailer.com/privacy-and-gdpr/"
+        }
+    ],
+    "contacts": [],
+    "verified": true,
+    "countryHQ": "SE",
+    "statusUrl": "",
+    "categories": [
+        "Email Marketing",
+        "Newsletters"
+    ],
+    "privacyUrl": "https://minutemailer.com/terms/",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "Marketing in a minute using newsletters and social media",
+    "dataBreaches": [],
+    "applicationUrl": "https://app.minutemailer.com",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "City Cloud"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
