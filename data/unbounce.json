@@ -1,0 +1,43 @@
+{
+    "id": "unbounce",
+    "name": "Unbounce",
+    "dpaUrl": "https://unbounce1.typeform.com/to/uFEOyl",
+    "dsarUrl": "",
+    "iconUrl": "https://unbounce-wpengine.netdna-ssl.com/photos/Unbounce-icon-light-background.png",
+    "twitter": "unbounce",
+    "website": "https://unbounce.com",
+    "articles": [
+        {
+            "url": "https://unbounce.com/gdpr/"
+        },
+        {
+            "url": "https://unbounce.com/security/"
+        }
+    ],
+    "contacts": [
+        {
+            "type": "DPO",
+            "name": "DPO",
+            "email": "legal@unbounce.com",
+        }
+    ],
+    "verified": true,
+    "countryHQ": "CA",
+    "statusUrl": "https://status.unbounce.com/",
+    "categories": [
+        "Conversion platform"
+    ],
+    "privacyUrl": "https://unbounce.com/privacy",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "Unbounce is the easiest way to build and test custom landing pages, website popups and sticky bars. Improve your post-click conversion rates and launch more campaigns, fast.",
+    "dataBreaches": [],
+    "applicationUrl": "https://app.unbounce.com",
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
