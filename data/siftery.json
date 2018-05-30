@@ -1,0 +1,26 @@
+{
+  "id": "siftery-discover",
+  "name": "Siftery Discover",
+  "description": "Share products your company uses and get personalized recommendations.",
+  "categories": [
+    "Software Reviews",
+    "Technographics"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527665673/siftery.png",
+  "website": "https://www.siftery.com",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://siftery.com/privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [""],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "verified": false
+}
