@@ -1,12 +1,15 @@
 {
-  "id": "siftery",
-  "name": "Siftery",
+  "id": "siftery-discover",
+  "name": "Siftery Discover",
   "description": "Share products your company uses and get personalized recommendations.",
-  "categories": [],
-  "iconUrl": "https://pbs.twimg.com/profile_images/774378268950605824/9q92Ct1P_400x400.jpg",
+  "categories": [
+    "Software Reviews",
+    "Technographics"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527665673/siftery.png",
   "website": "https://www.siftery.com",
   "countryHQ": "US",
-  "gdprReadyStatus": "nonCompliant",
+  "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://siftery.com/privacy-policy",
   "dsarUrl": "",
   "dpaUrl": "",
@@ -18,6 +21,6 @@
   "dataBreaches": [],
   "articles": [],
   "bugBountyProgramUrl": "",
-  "statusPage": "",
+  "statusUrl": "",
   "verified": false
 }
