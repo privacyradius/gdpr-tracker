@@ -8,6 +8,7 @@
   ],
   "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527665673/siftery.png",
   "website": "https://www.siftery.com",
+  "applicationUrl": "https://siftery.com/users/login",
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://siftery.com/privacy-policy",
