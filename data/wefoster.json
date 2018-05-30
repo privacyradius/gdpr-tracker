@@ -1,0 +1,29 @@
+{
+    "id": "wefoster",
+    "name": "WeFoster",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527722545/wefoster.png",
+    "twitter": "wefosterwp",
+    "website": "http://wefoster.co",
+    "articles": [],
+    "contacts": [],
+    "verified": true,
+    "countryHQ": "US",
+    "statusUrl": "",
+    "categories": [
+        "Hosting",
+        "Wordpress",
+        "Development"
+    ],
+    "privacyUrl": "https://wefoster.co/privacy-policy/",
+    "dataCenters": [],
+    "description": "Hosting & Development Company",
+    "dataBreaches": [],
+    "applicationUrl": "https://my.wefoster.co/customer-login/",
+    "certifications": [],
+    "gdprReadyStatus": "inProgress",
+    "hostingPartners": [],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
