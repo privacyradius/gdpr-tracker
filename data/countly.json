@@ -1,0 +1,48 @@
+{
+    "id": "countly",
+    "name": "Countly",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527716498/countly.png",
+    "twitter": "gocountly",
+    "website": "https://count.ly",
+    "articles": [
+        {
+            "url": "https://blog.count.ly/towards-a-gdpr-compliant-analytics-strategy-a6be4bad3a6b"
+        }
+    ],
+    "contacts": [
+        {
+            "type": "DPO",
+            "name": "Onur Alp Soner",
+            "email": "hello@count.ly",
+            "region": "UK"
+        },
+        {
+            "type": "Privacy Officer",
+            "name": "Onur Alp Soner",
+            "email": "hello@count.ly"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "GB",
+    "statusUrl": "",
+    "categories": [
+        "Analytics"
+    ],
+    "privacyUrl": "https://count.ly/legal/privacy-policy",
+    "dataCenters": [
+        "EU",
+        "US"
+    ],
+    "description": "Product analytics platform for mobile and web",
+    "dataBreaches": [],
+    "applicationUrl": "https://count.ly",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "Google Cloud"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
