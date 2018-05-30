@@ -1,0 +1,45 @@
+{
+    "id": "grip",
+    "name": "Grip",
+    "dpaUrl": "https://grip.events/data-processing-terms/",
+    "dsarUrl": "https://grip.events/privacy-policy/",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527721671/grip-events.png",
+    "twitter": "GripNetworking",
+    "website": "https://www.grip.events",
+    "articles": [
+        {
+          "url": "https://grip.agilecrm.com/help/article/5764186135068672/gdpr-and-the-grip-matchmaking-solution"
+        },
+        {
+          "url": "https://grip.events/security-summary/"
+        }
+    ],
+    "contacts": [
+        {
+          "type": "DPO",
+          "name": "Tim Groot",
+          "email": "support@gripcontact.com",
+          "region": "EU"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "GB",
+    "statusUrl": "",
+    "categories": [
+        "Event Technology"
+    ],
+    "privacyUrl": "https://grip.events/privacy-policy/",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "The first AI-powered event matchmaking solution",
+    "dataBreaches": [],
+    "applicationUrl": "https://www.grip.events",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
