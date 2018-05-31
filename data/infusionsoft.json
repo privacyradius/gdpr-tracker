@@ -2,7 +2,7 @@
     "id": "infusionsoft",
     "name": "Infusionsoft",
     "dpaUrl": "https://www.infusionsoft.com/legal/dpa",
-    "dsarUrl": null,
+    "dsarUrl": "",
     "iconUrl": "https://www.infusionsoft.com/favicon-32x32.png",
     "twitter": "infusionsoft",
     "website": "https://www.infusionsoft.com",
@@ -38,7 +38,7 @@
     "applicationUrl": "https://www.infusionsoft.com/login",
     "gdprReadyStatus": "ready",
     "certifications": [
-      "PCI DSS Level I"
+      "PCI DSS Level 1"
     ],
     "hostingPartners": [
       "Google Cloud"
