@@ -1,0 +1,44 @@
+{
+    "id": "raygun",
+    "name": "Raygun",
+    "dpaUrl": "https://raygun.com/upload/RAYGUN%20Data%20Processing%20Addendum.pdf",
+    "dsarUrl": "",
+    "iconUrl": "https://raygun.com/upload/raygun-128.png",
+    "twitter": "raygunio",
+    "website": "https://raygun.com/",
+    "articles": [
+        {
+            "url": "https://raygun.com/gdpr",
+            "date": null
+        }
+    ],
+    "contacts": [
+        {
+            "type": "DPO",
+            "name": "Jeremy Boyd",
+            "email": "dpa@raygun.com",
+            "region": "NZ"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "NZ",
+    "statusUrl": "https://status.raygun.com/",
+    "categories": [
+        "Error Monitoring",
+        "Bug Reporting"
+    ],
+    "privacyUrl": "https://raygun.com/privacy",
+    "dataCenters": [
+        "US"
+    ],
+    "description": "Software error and performance monitoring",
+    "dataBreaches": [],
+    "applicationUrl": "https://app.raygun.com/signin",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
