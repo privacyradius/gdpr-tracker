@@ -1,0 +1,48 @@
+{
+    "id": "infusionsoft",
+    "name": "Infusionsoft",
+    "dpaUrl": "https://www.infusionsoft.com/legal/dpa",
+    "dsarUrl": "",
+    "iconUrl": "https://www.infusionsoft.com/favicon-32x32.png",
+    "twitter": "infusionsoft",
+    "website": "https://www.infusionsoft.com",
+    "articles": [
+      {
+        "url": "https://www.infusionsoft.com/legal/gdpr-readiness-guide"
+      },
+      {
+        "url": "https://www.infusionsoft.com/legal/data-security"
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Matt Joseph, CIPP/US",
+        "type": "DPO",
+        "email": "dpo@infusionsoft.com",
+        "region": "Global"
+      }
+    ],
+    "verified": true,
+    "countryHQ": "US",
+    "statusUrl": "http://status.infusionsoft.com",
+    "categories": [
+      "CRM",
+      "Marketing"
+    ],
+    "privacyUrl": "https://www.infusionsoft.com/legal/data-protection-faq",
+    "dataCenters": [
+      "US"
+    ],
+    "description": "Marketing and CRM",
+    "dataBreaches": [],
+    "applicationUrl": "https://www.infusionsoft.com/login",
+    "gdprReadyStatus": "ready",
+    "certifications": [
+      "PCI DSS Level 1"
+    ],
+    "hostingPartners": [
+      "Google Cloud"
+    ],
+    "subprocessorsUrl": "https://www.infusionsoft.com/legal/subprocessors",
+    "bugBountyProgramUrl": ""
+}
