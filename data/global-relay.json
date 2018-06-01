@@ -1,0 +1,36 @@
+{
+    "id": "global-relay",
+    "name": "Global Relay",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527895534/globalrelay.png",
+    "twitter": "globalrelay",
+    "website": "https://globalrelay.com/",
+    "articles": [],
+    "contacts": [
+        {
+          "type": "DPO",
+          "name": "DPO",
+          "email": "privacy@globalrelay.net"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "CA",
+    "statusUrl": "https://status.globalrelay.com/access/login",
+    "categories": [
+      "Email archiving",
+      "IM archiving"
+    ],
+    "privacyUrl": "https://globalrelay.com/company-info/terms-of-use",
+    "dataCenters": [
+      "US"
+    ],
+    "description": "Archive & Compliance Service",
+    "dataBreaches": [],
+    "applicationUrl": "https://compliance.login.globalrelay.com/cc/getToken",
+    "certifications": [],
+    "gdprReadyStatus": "unknown",
+    "hostingPartners": [],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
