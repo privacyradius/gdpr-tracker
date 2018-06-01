@@ -1,0 +1,41 @@
+{
+    "id": "falcon.io",
+    "name": "Falcon.io",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527887275/falcon.png",
+    "twitter": "falconio",
+    "website": "https://www.falcon.io/",
+    "articles": [
+        {
+            "url": "November 2017 https://www.falcon.io/insights-hub/topics/customer-engagement/gdpr-compliance-marketers/#GEN"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "DPO",
+            "type": "DPO",
+            "email": "privacy@falcon.io"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "DK",
+    "statusUrl": "",
+    "categories": [
+      "Social media"
+    ],
+    "privacyUrl": "https://www.falcon.io/privacy-policy",
+    "dataCenters": [
+      "EU"
+    ],
+    "description": "An integrated SaaS platform for social media listening, engaging, publishing, and measuring.",
+    "dataBreaches": [],
+    "applicationUrl": "https://www.falcon.io/",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
