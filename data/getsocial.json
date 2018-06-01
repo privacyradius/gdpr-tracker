@@ -1,0 +1,37 @@
+{
+    "id": "getsocial",
+    "name": "GetSocial",
+    "dpaUrl": "https://www.getsocial.im/gdpr/#gdpr-request-form",
+    "dsarUrl": "https://www.getsocial.im/gdpr/",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527892993/getsocial.png",
+    "twitter": "GetSocial_now",
+    "website": "https://www.getsocial.im/",
+    "articles": [
+        {
+            "url": "https://www.getsocial.im/gdpr/"
+        }
+    ],
+    "contacts": [],
+    "verified": true,
+    "countryHQ": "NL",
+    "statusUrl": "https://status.getsocial.im",
+    "categories": [
+        "Mobile apps",
+        "Social Media",
+        "Analytics"
+    ],
+    "privacyUrl": "https://www.getsocial.im/legal/",
+    "dataCenters": [
+      "US"
+    ],
+    "description": "GetSocial is a cloud-based mobile acquisition and engagement platform that empowers any mobile app developer with tools to maximize user acquisition, engagement, and retention.",
+    "dataBreaches": [],
+    "applicationUrl": "https://dashboard.getsocial.im/#/login",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "https://www.getsocial.im/legal/#sub-processors",
+    "bugBountyProgramUrl": null
+}
