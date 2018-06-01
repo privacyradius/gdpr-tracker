@@ -25,14 +25,14 @@
         "CA"
     ],
     "description": "Customer insights SaaS",
-    "dataBreaches": "",
+    "dataBreaches": [],
     "applicationUrl": "https://fuelcycle.com/login/",
     "certifications": [
         "SOC 2 Type II",
         "EU-U.S. Privacy Shield", 
         "Swiss-U.S. Privacy Shield"
     ],
-    "gdprReadyStatus": "Ready",
+    "gdprReadyStatus": "ready",
     "hostingPartners": [
         "AWS",
         "Google Cloud"
