@@ -1,0 +1,42 @@
+{
+    "id": "fuel-cycle",
+    "name": "Fuel Cycle",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1527894406/fuelcycle.png",
+    "twitter": "FUELCYCLEinc",
+    "website": "https://fuelcycle.com/",
+    "articles": [
+        {
+            "url": "https://fuelcycle.com/gdpr"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "US",
+    "statusUrl": "",
+    "categories": [
+        "Market Research"
+    ],
+    "privacyUrl": "https://fuelcycle.com/legal",
+    "dataCenters": [
+        "EU",
+        "US", 
+        "APAC", 
+        "CA"
+    ],
+    "description": "Customer insights SaaS",
+    "dataBreaches": "",
+    "applicationUrl": "https://fuelcycle.com/login/",
+    "certifications": [
+        "SOC 2 Type II",
+        "EU-U.S. Privacy Shield", 
+        "Swiss-U.S. Privacy Shield"
+    ],
+    "gdprReadyStatus": "Ready",
+    "hostingPartners": [
+        "AWS",
+        "Google Cloud"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
