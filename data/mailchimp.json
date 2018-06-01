@@ -13,7 +13,7 @@
   "privacyUrl": "https://mailchimp.com/legal/privacy",
   "dsarUrl": "",
   "dpaUrl": "https://mailchimp.com/legal/forms/data-processing-agreement",
-  "subprocessorsUrl": "",
+  "subprocessorsUrl": "https://mailchimp.com/legal/forms/data-processing-agreement/sample-agreement",
   "dataCenters": [
     "US"
   ],
@@ -35,5 +35,6 @@
       "url": "https://kb.mailchimp.com/binaries/content/assets/mailchimpkb/us/en/pdfs/mailchimp_gdpr_sept2017.pdf"
     }
   ],
-  "bugBountyProgramUrl": ""
+  "bugBountyProgramUrl": "",
+  "verified": false
 }
