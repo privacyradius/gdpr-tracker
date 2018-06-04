@@ -1,0 +1,35 @@
+{
+  "id": "unicheck",
+  "name": "Unicheck",
+  "description": "Cloud-based plagiarism detection software that finds similarities, citations and references in a set of text.",
+  "categories": [
+    "Education"
+  ],
+  "iconUrl": "https://i.imgur.com/M1tdsli.png",
+  "website": "https://unicheck.com",
+  "applicationUrl": "https://unicheck.com/login",  
+  "twitter": "UnicheckEdu",
+  "countryHQ": "CY",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://unicheck.com/terms#privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "OVH",
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "13 April, 2018",
+      "url": "https://unicheck.com/blog/personal-data-protection-gdpr"
+    }
+  ],
+  "statusUrl": "https://status.unicheck.com/",
+  "verified": false
+}
