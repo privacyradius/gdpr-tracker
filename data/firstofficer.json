@@ -1,0 +1,44 @@
+{
+    "id": "firstofficerio",
+    "name": "FirstOfficer.io",
+    "dpaUrl": "https://firstofficer.gdprpage.com/dpa",
+    "dsarUrl": "https://firstofficer.gdprpage.com",
+    "iconUrl": "https://www.turbineroom.com/images/firstofficer_logo.svg",
+    "twitter": "FirstOfficer_io",
+    "website": "https://www.firstofficer.io",
+    "articles": [
+        {
+            "url": "https://www.firstofficer.io/legal/gdpr/",
+        }
+    ],
+    "contacts": [
+        {
+            "name": "Jaana Kulmala",
+            "type": "DPO",
+            "email": "dpo@firstofficer.io",
+            "region": "Finland, EU"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "FI",
+    "statusUrl": "",
+    "categories": [
+        "Analytics",
+        "Subscription"
+    ],
+    "privacyUrl": "https://www.firstofficer.io/privacy",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "SaaS Analytics for Stripe",
+    "dataBreaches": [],
+    "applicationUrl": "https://www.firstofficer.io",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "Heroku",
+        "AWS"
+    ],
+    "subprocessorsUrl": "https://firstofficer.gdprpage.com",
+    "bugBountyProgramUrl": ""
+}
