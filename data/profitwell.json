@@ -1,0 +1,41 @@
+{
+    "id": "profitwell",
+    "name": "ProfitWell",
+    "dpaUrl": "https://www.profitwell.com/gdpr",
+    "dsarUrl": "",
+    "iconUrl": "https://www.profitwell.com/hubfs/newpw/images/logo-icon.svg?t=1528130858534",
+    "twitter": "priceintel",
+    "website": "http://www.profitwell.com",
+    "articles": [],
+    "contacts": [
+        {
+            "name": "Privacy Officer",
+            "type": "Privacy Officer",
+            "email": "gdpr@profitwell.com"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "US",
+    "statusUrl": "",
+    "categories": [
+        "Business Intelligence",
+        "Pricing"
+    ],
+    "privacyUrl": "https://www.profitwell.com/privacy-policy",
+    "dataCenters": [
+      "US"
+    ],
+    "description": "Subscription Metrics and Monetization",
+    "dataBreaches": [],
+    "applicationUrl": "https://www2.profitwell.com/app/dashboard",
+    "certifications": [
+      "EU-U.S. Privacy Shield",
+      "Swiss-U.S. Privacy Shield"
+    ],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
