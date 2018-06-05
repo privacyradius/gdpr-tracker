@@ -23,7 +23,8 @@
     "countryHQ": "Denmark",
     "statusUrl": "",
     "categories": [
-        "Error Monitoring"
+        "Error Monitoring",
+        "Bug Reporting"
     ],
     "privacyUrl": "https://elmah.io/legal/privacy-policy/",
     "dataCenters": [
