@@ -1,0 +1,42 @@
+{
+    "id": "elmahio",
+    "name": "elmah.io",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1528241934/elmahio.png",
+    "twitter": "elmah_io",
+    "website": "https://elmah.io",
+    "articles": [
+        {
+            "url": "https://github.com/elmahio/GDPR/wiki"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "Thomas Ardal",
+            "type": "DPO",
+            "email": "thomas@elmah.io",
+            "region": "Denmark"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "Denmark",
+    "statusUrl": "",
+    "categories": [
+        "Error Monitoring"
+    ],
+    "privacyUrl": "https://elmah.io/legal/privacy-policy/",
+    "dataCenters": [
+        "US"
+    ],
+    "description": "elmah.io is a cloud based error monitoring platform for .NET web applications.",
+    "dataBreaches": [],
+    "applicationUrl": "https://elmah.io",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "Azure"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
