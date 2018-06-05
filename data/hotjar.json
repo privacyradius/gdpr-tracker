@@ -12,6 +12,8 @@
   "countryHQ": "MT",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.hotjar.com/legal/policies/privacy",
+  "statusUrl": "https://status.hotjar.com",
+  "statusTwitter": "hotjar",
   "dsarUrl": "",
   "dpaUrl": "https://www.hotjar.com/legal/support/dpa",
   "subprocessorsUrl": "",
@@ -21,16 +23,30 @@
   "hostingPartners": [
     "AWS"
   ],
-  "contacts": [],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Louanne Caruana",
+      "email": "dpo@hotjar.com",
+      "region": "EU"
+    }
+  ],
   "certifications": [],
   "dataBreaches": [],
   "articles": [
     {
+      "url": "https://www.hotjar.com/privacy/gdpr-compliance"
+    },
+    {
       "url": "https://www.hotjar.com/legal/compliance/gdpr-commitment"
+    },
+    {
+      "url": "https://www.hotjar.com/privacy"
     },
     {
       "url": "https://www.hotjar.com/security"
     }
   ],
-  "bugBountyProgramUrl": ""
+  "bugBountyProgramUrl": "",
+  "verified": true
 }
