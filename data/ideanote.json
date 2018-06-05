@@ -1,0 +1,36 @@
+{
+    "id": "ideanote",
+    "name": "Ideanote",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1528160856/ideanote.png",
+    "twitter": "weareideanote",
+    "website": "https://ideanote.io",
+    "contacts": [
+      {
+        "name": "Frederik Wessberg",
+        "type": "DPO",
+        "email": "frederik@ideanote.io"
+      }
+    ],
+    "verified": true,
+    "countryHQ": "DK",
+    "statusUrl": "",
+    "categories": [
+      "Idea Management"
+    ],
+    "privacyUrl": "https://ideanote.io/terms",
+    "dataCenters": [
+      "EU"
+    ],
+    "description": "Modern idea management for teams.",
+    "dataBreaches": [],
+    "applicationUrl": "https://app.ideanote.io",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+      "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
