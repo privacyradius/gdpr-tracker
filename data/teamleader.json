@@ -18,7 +18,9 @@
     "countryHQ": "BE",
     "statusUrl": "http://status.teamleader.eu/",
     "categories": [
-        "CRM, invoicing, project planning, ticketing, time tracking"
+        "CRM",
+        "Invoicing", 
+        "Project Planning"
     ],
     "privacyUrl": "https://www.teamleader.eu/privacy?__hstc=137216559.20d17e0035f50bae78e1e155334e7a55.1527241199187.1527241199187.1527495720020.2&__hssc=137216559.1.1527495720020&__hsfp=171332061#_ga=2.14505271.1434729410.1527495720-622795135.1527241116",
     "dataCenters": [
@@ -32,5 +34,5 @@
         "AWS"
     ],
     "subprocessorsUrl": "",
-    "bugBountyProgramUrl": ""
+    "bugBountyProgramUrl": "http://intigriti.com"
 }
