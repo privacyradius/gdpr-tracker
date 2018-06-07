@@ -1,0 +1,54 @@
+{
+  "id": "rollbar",
+  "name": "Rollbar",
+  "description": "Rollbar provides real-time exception reporting and ",
+  "categories": [
+    "Error Monitoring",
+    "Bug Reporting"
+  ],
+  "iconUrl": "https://rollbar.com/assets/media/rollbar-mark-color.png",
+  "website": "https://rollbar.com",
+  "applicationUrl": "https://rollbar.com/login",    
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://docs.rollbar.com/docs/privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "https://docs.rollbar.com/docs/data-processing-agreement",
+  "subprocessorsUrl": "https://docs.rollbar.com/docs/data-subprocessors",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "Google Cloud"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Rollbar Data Privacy Officer",
+      "email": "privacy@rollbar.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
+    "ISO 27001",
+    "HIPAA"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://docs.rollbar.com/docs/security"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TNcNAAW"
+    },
+    {
+      "url": "https://docs.rollbar.com/docs/privacy-shield-statement"
+    }
+  ],
+  "bugBountyProgramUrl": "https://docs.rollbar.com/docs/responsible-disclosure-policy",
+  "statusUrl": "https://status.rollbar.com/",
+  "statusTwitter": "",
+  "verified": true
+}
