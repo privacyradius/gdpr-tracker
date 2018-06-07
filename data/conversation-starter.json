@@ -1,0 +1,39 @@
+{
+    "id": "conversation-starter",
+    "name": "Conversation Starter",
+    "dpaUrl": "https://www.conversationstarter.net/index.php/data-processing-agreement/",
+    "dsarUrl": "",
+    "iconUrl": "https://www.conversationstarter.net/wp-content/themes/conversation_starter_sales/img/gdpr_tracker_icon.png",
+    "twitter": "converstart",
+    "website": "https://www.conversationstarter.net",
+    "articles": [],
+    "contacts": [
+        {
+            "name": "https://acontrario.law/",
+            "type": "DPO",
+            "email": "magali@acontrario.law",
+            "region": "Belgium"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "BE",
+    "statusUrl": "",
+    "categories": [
+        "Event Technology",
+        "Networking"
+    ],
+    "privacyUrl": "https://www.conversationstarter.net/index.php/privacy-policy/",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "Energize your networking event",
+    "dataBreaches": [],
+    "applicationUrl": "https://app.conversationstarter.net/",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
