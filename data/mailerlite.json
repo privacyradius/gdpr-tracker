@@ -1,0 +1,32 @@
+{
+    "id": "mailerlite",
+    "name": "MailerLite",
+    "dpaUrl": "https://www.mailerlite.com/data-processing-agreement",
+    "dsarUrl": "",
+    "iconUrl": "https://www.mailerlite.com/assets/logo-color.png",
+    "twitter": "MailerLite",
+    "website": "https://www.mailerlite.com",
+    "articles": [
+        {
+            "url": "May 24 2018 https://www.mailerlite.com/data-processing-agreement"
+        }
+    ],
+    "contacts": [],
+    "verified": true,
+    "countryHQ": "LT",
+    "statusUrl": "",
+    "categories": [
+        "Email Serivce Provider",
+        "Email Marketing"
+    ],
+    "privacyUrl": "https://www.mailerlite.com/privacy-policy",
+    "dataCenters": [],
+    "description": "email service provider",
+    "dataBreaches": [],
+    "applicationUrl": "https://app.mailerlite.com/users/login",
+    "certifications": [],
+    "gdprReadyStatus": "inProgress",
+    "hostingPartners": [],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
