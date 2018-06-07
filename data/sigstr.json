@@ -1,0 +1,44 @@
+{
+    "id": "sigstr",
+    "name": "Sigstr",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1528415043/sigstr.png",
+    "twitter": "SigstrApp",
+    "website": "https://www.sigstr.com/",
+    "articles": [
+        {
+            "url": "https://www.sigstr.com/2018/04/10/handling-gdpr/"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "Brent Mackay",
+            "type": "DPO",
+            "email": "security@sigstr.com",
+            "region": "US"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "US",
+    "statusUrl": "",
+    "categories": [
+        "Email Marketing", 
+        "Branding",
+        "Analytics"
+    ],
+    "privacyUrl": "https://app.sigstr.com/privacy",
+    "dataCenters": [
+        "US"
+    ],
+    "description": "Email signature marketing",
+    "dataBreaches": [],
+    "applicationUrl": "https://app.sigstr.com",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
