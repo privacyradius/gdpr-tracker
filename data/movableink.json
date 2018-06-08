@@ -1,0 +1,35 @@
+{
+  "id": "movableink",
+  "name": "Movable Ink",
+  "description": "Intelligent Content for Email",
+  "categories": [
+    "Email Marketing",
+    "Content"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1528417412/movableink.png",
+  "website": "https://movableink.com",
+  "twitter": "movableink",
+  "applicationUrl": "https://app.movableink.com/login",  
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://movableink.com/legal/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://movableink.com/gdpr"
+    }
+  ],
+  "verified": false,
+  "statusUrl": "",
+  "statusTwitter": "mi_status",
+  "bugBountyProgramUrl": ""
+}
