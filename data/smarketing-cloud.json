@@ -1,0 +1,40 @@
+{
+    "id": "smarketing-cloud",
+    "name": "Smarketing Cloud",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://smarketingcloud.com",
+    "twitter": "SmarketingCloud ",
+    "website": "https://smarketingcloud.com",
+    "articles": [],
+    "contacts": [
+        {
+            "name": "Joseph Cosgrave",
+            "type": "DPO",
+            "email": "",
+            "region": "Ireland"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "IE",
+    "statusUrl": "",
+    "categories": [
+        "CRM",
+        "Marketing",
+        "Sales"
+    ],
+    "privacyUrl": "https://smarketingcloud.com/privacy-policy",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "Sales & Marketing Cloud ",
+    "dataBreaches": [],
+    "applicationUrl": "https://dmp.smarketingcloud.com/saas/index.php/s/login",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
