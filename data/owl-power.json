@@ -1,0 +1,38 @@
+{
+    "id": "owl-power",
+    "name": "Owl Power",
+    "dpaUrl": "",
+    "dsarUrl": "https://owlpower.eu/gdpr-data-access-request/",
+    "iconUrl": "https://owlpower.eu/favicon.icon",
+    "twitter": "owlp_eu",
+    "website": "https://owlpower.eu",
+    "articles": [],
+    "contacts": [
+        {
+            "name": "Csaba Miklos",
+            "type": "DPO",
+            "email": "csaba@owlpower.eu",
+            "region": "EU"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "RO",
+    "statusUrl": "",
+    "categories": [
+        "WordPress"
+    ],
+    "privacyUrl": "https://owlpower.eu/privacy-policy/",
+    "dataCenters": [
+        "EU"
+    ],
+    "description": "experience owlsomeness",
+    "dataBreaches": [],
+    "applicationUrl": "https://owlpower.eu/owl-suite/",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "Cloudflare"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
