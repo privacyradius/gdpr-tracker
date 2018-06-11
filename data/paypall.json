@@ -1,0 +1,35 @@
+{
+  "id": "paypall",
+  "name": "Paypall",
+  "description": "New Money gives you more control over your funds so you can spend, send, and receive the way you want.",
+  "categories": [
+    "Payments"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1528759281/paypal.png",
+  "website": "https://www.paypal.com",
+  "applicationUrl": "https://www.paypal.com/signin",    
+  "countryHQ": "US",
+  "gdprReadyStatus": "unknown",
+  "privacyUrl": "https://www.paypal.com/webapps/mpp/ua/privacy-prev",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://www.paypal.com/ie/webapps/mpp/ua/third-parties-list",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "	Rackspace"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.paypal.com/stories/uk/getting-gdpr-ready"
+    }
+  ],
+  "bugBountyProgramUrl": "https://www.paypal.com/bugbounty/",
+  "statusUrl": "https://www.paypal-status.com/product/production",
+  "statusTwitter": "",
+  "verified": false
+}
