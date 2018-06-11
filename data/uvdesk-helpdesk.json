@@ -1,0 +1,35 @@
+{
+    "id": "uvdesk-helpdesk",
+    "name": "UVdesk Helpdesk",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1528676789/uvdesk.png",
+    "twitter": "uvdesk",
+    "website": "https://www.uvdesk.com/en/",
+    "articles": [
+        {
+            "url": "https://www.uvdesk.com/en/gdpr/"
+        }
+    ],
+    "contacts": [],
+    "verified": true,
+    "countryHQ": "IN",
+    "statusUrl": "",
+    "categories": [
+        "Customer Support"
+    ],
+    "privacyUrl": "https://www.uvdesk.com/en/privacy-policy/",
+    "dataCenters": [
+        "Global"
+    ],
+    "description": "SaaS E-commerce Helpdesk Application",
+    "dataBreaches": [],
+    "applicationUrl": "https://uvdesk.com/en/member/login",
+    "certifications": [],
+    "gdprReadyStatus": "inProgress",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
