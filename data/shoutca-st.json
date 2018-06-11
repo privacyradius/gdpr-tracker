@@ -1,0 +1,44 @@
+{
+    "id": "shoutca-st",
+    "name": "SHOUTca.st",
+    "dpaUrl": "",
+    "dsarUrl": "https://shoutca-st.gdprform.io",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1528675470/shoutca.st.png",
+    "twitter": "shoutca_st",
+    "website": "https://shoutca.st",
+    "articles": [],
+    "contacts": [
+        {
+            "name": "Ethan Gates",
+            "type": "DPO",
+            "email": "management@shoutca.st",
+        }
+    ],
+    "verified": true,
+    "countryHQ": "UK",
+    "statusUrl": "",
+    "categories": [
+        "Web Hosting",
+        "Video",
+        "Live Streaming"
+    ],
+    "privacyUrl": "https://shoutca.st/privacy",
+    "dataCenters": [
+        "EU",
+        "US"
+    ],
+    "description": "SHOUTca.st is a leading provider in Internet Radio services.",
+    "dataBreaches": [],
+    "applicationUrl": "https://shoutca.st/",
+    "certifications": [],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "OVH",
+        "Linode", 
+        "Scaleway", 
+        "OneProvider", 
+        "Online.net"
+    ],
+    "subprocessorsUrl": null,
+    "bugBountyProgramUrl": null
+}
