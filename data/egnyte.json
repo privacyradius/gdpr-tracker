@@ -1,0 +1,41 @@
+{
+  "id": "egnyte",
+  "name": "Egnyte",
+  "description": "Enterprise File Sharing and Content Governance from Egnyte",
+  "categories": [
+    "Cloud Storage",
+    "Collaboration",
+    "File Sharing"
+  ],
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1528761859/egnyte.png",
+  "website": "https://egnyte.com",
+  "applicationUrl": "https://www.egnyte.com/login",        
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.egnyte.com/corp/privacy_policy.html",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.egnyte.com/enterprise-tos/data-protection-addendum.html",
+  "subprocessorsUrl": "",
+  "dataCenters": [],
+  "hostingPartners": [],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "ISO 27001",
+    "HIPAA" 
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.egnyte.com/compliance-standards.html"
+    },
+    {
+      "url": "https://www.privacyshield.gov/participant?id=a2zt0000000GnpGAAS"
+    },
+    {
+      "url": "https://www.egnyte.com/press-releases/2017-11-16-egnyte-becomes-first-platform-to-support-gdpr-compliance-across-all-28-eu-countries.html"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "verified": false
+}
