@@ -1,7 +1,7 @@
 {
-  "id": "paypall",
-  "name": "Paypall",
-  "description": "New Money gives you more control over your funds so you can spend, send, and receive the way you want.",
+  "id": "paypal",
+  "name": "PayPal",
+  "description": "Worldwide online payments system that supports online money transfers",
   "categories": [
     "Payments"
   ],
