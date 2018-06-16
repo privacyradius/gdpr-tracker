@@ -1,0 +1,45 @@
+{
+    "id": "lever-co",
+    "name": "Lever",
+    "dpaUrl": "",
+    "dsarUrl": "https://jobs.lever.co/lever-ent-demo/m/17c0e4e3-5469-48e2-8c22-d682b66e9deb?tab=data",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1529175282/lever.png",
+    "twitter": "lever",
+    "website": "https://www.lever.co/",
+    "articles": [
+        {
+            "url": "https://globenewswire.com/news-release/2018/05/15/1502788/0/en/Lever-Unveils-GDPR-Compliance-Toolkit-to-Help-Recruiting-Teams-Achieve-Compliance-With-Active-and-Passive-Candidates.html"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "Eileen Treanor",
+            "type": "DPO",
+            "email": "eileen@lever.co",
+            "region": "US"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "US",
+    "statusUrl": "https://status.lever.co/",
+    "categories": [
+        "ATS"
+    ],
+    "privacyUrl": "https://www.lever.co/privacy-policy",
+    "dataCenters": [
+        "US"
+    ],
+    "description": "Lever is an applicant tracking + CRM that draws the entire team together to source, nurture, interview, and hire top talent.",
+    "dataBreaches": [],
+    "applicationUrl": "https://www.lever.co/",
+    "certifications": [
+        "SOC 2 Type II",
+        "EU-U.S. Privacy Shield"
+    ],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS"
+    ],
+    "subprocessorsUrl": "",
+    "bugBountyProgramUrl": ""
+}
