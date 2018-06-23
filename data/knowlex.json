@@ -1,0 +1,31 @@
+{
+  "id": "knowlex",
+  "name": "Knowlex",
+  "description": "Secure your professional knowhow",
+  "categories": [
+    "Productivity"
+  ],
+  "iconUrl": "https://uploads-ssl.webflow.com/58d7ddd3795edeea602c6a61/58d7e20f3891b58e45ce4e63_knowlex.PNG",
+  "website": "https://www.knowlex.be",
+  "applicationUrl": "https://app.knowlex.be",
+  "countryHQ": "BE",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.knowlex.be/nl/knowlex-beveiliging",
+  "dsarUrl": "https://knowlex.gdprform.io", 
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+   
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+  ],
+  "verified": true
+}
