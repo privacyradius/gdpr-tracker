@@ -1,0 +1,46 @@
+{
+  "id": "chargebee",
+  "name": "Chargebee",
+  "description": "Subscription Billing & Recurring Payments Service",
+  "categories": [
+    "Subscription Billing", 
+    "Recurring Payments"
+  ],
+  "iconUrl": "https://d190vb4jo83j4z.cloudfront.net/Chargebee-logo-mark.png",
+  "website": "https://www.chargebee.com/",
+  "applicationUrl": "https://app.chargebee.com/",  
+  "twitter": "chargebee",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.chargebee.com/privacy",
+  "dsarFormUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://www.chargebee.com/privacy/sub-processors/",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield",
+    "PCI DSS Level 1",
+    "ISO 27001",
+    "SOC 1",
+    "SOC 2 Type II"
+  ],
+  "dataBreaches": [],
+  "articles": [
+   {
+    "url": "https://www.chargebee.com/security/gdpr/"
+   },
+   {
+    "url": "https://www.chargebee.com/security/"
+   }
+],
+  "statusUrl": "https://status.chargebee.com",
+  "statusTwitter": "",
+  "verified": true
+}
