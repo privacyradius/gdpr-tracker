@@ -15,7 +15,10 @@
   "dsarUrl": "",
   "dpaUrl": "https://app.hellosign.com/s/2dc49398",
   "subprocessorsUrl": "",
-  "dataCenters": [],
+  "dataCenters": [
+    "US",
+    "EU"
+  ],
   "hostingPartners": [
     "AWS",
     "Rackspace",
