@@ -1,0 +1,37 @@
+{
+  "id": "status-hero",
+  "name": "Status Hero",
+  "description": "Status Hero tracks daily goals, activity logs from your tools, and status updates from your team, all in one place",
+  "categories": [
+    "Project Management",
+    "Productivity",
+    "Reporting"
+  ],
+  "iconUrl": "https://statushero.com/status-hero-icon-512x512.png",
+  "website": "https://statushero.com",
+  "applicationUrl": "https://statushero.com/sign_in",  
+  "twitter": "statushero",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://statushero.com/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "https://statushero.com/gdpr",
+  "subprocessorsUrl": "https://statushero.com/gdpr",
+  "dataCenters": [],
+  "hostingPartners": [
+    "Cloudflare",
+    "Heroku",
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+  ],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "statushero",
+  "verified": false
+}
