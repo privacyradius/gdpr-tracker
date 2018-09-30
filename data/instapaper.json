@@ -9,7 +9,7 @@
   "website": "https://www.instapaper.com",
   "applicationUrl": "https://www.instapaper.com/user/login",    
   "countryHQ": "US",
-  "gdprReadyStatus": "nonCompliant",
+  "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.instapaper.com/privacy",
   "dsarUrl": "",
   "dpaUrl": "",
