@@ -1,0 +1,47 @@
+{
+    "id": "browserstack",
+    "name": "BrowserStack",
+    "dpaUrl": "",
+    "dsarUrl": "",
+    "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1539381532/browserstack.png",
+    "twitter": "browserstack",
+    "website": "https://www.browserstack.com",
+    "articles": [
+        {
+            "url": "https://www.browserstack.com/newsletter-gdpr-announcement"
+        }
+    ],
+    "contacts": [
+        {
+            "name": "Nakul Aggarwal",
+            "type": "Privacy Officer",
+            "email": "nakul@browserstack.com",
+            "region": "Global"
+        }
+    ],
+    "verified": true,
+    "countryHQ": "IN",
+    "statusUrl": "",
+    "categories": [
+        "Cloud Based Testing Platform"
+    ],
+    "privacyUrl": "https://www.browserstack.com/privacy",
+    "dataCenters": [
+        "EU",
+        "US"
+    ],
+    "description": "Web and mobile testing platform that enables developers to test their websites and mobile applications across on-demand browsers, operating systems and real mobile devices",
+    "dataBreaches": [],
+    "applicationUrl": "https://live.browserstack.com",
+    "certifications": [
+        "SOC 2 Type II"
+    ],
+    "gdprReadyStatus": "ready",
+    "hostingPartners": [
+        "AWS", 
+        "Green Mini", 
+        "Mac Stadium"
+    ],
+    "subprocessorsUrl": "https://www.browserstack.com/sub-processors",
+    "bugBountyProgramUrl": ""
+}
