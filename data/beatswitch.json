@@ -13,6 +13,7 @@
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.beatswitch.com/privacy",
   "dsarUrl": "https://bs.gdprform.io",
+  "subprocessorsUrl": "https://www.subprocessors.io/beatswitch",
   "dpaUrl": "",
   "dataCenters": ["EU"],
   "hostingPartners": ["AWS"],
