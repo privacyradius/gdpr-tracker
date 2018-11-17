@@ -24,7 +24,7 @@
   ],
   "contacts": [
     {
-      "type": "General",
+      "type": "Other",
       "name": "hello@buffer.com",
       "email": "hello@buffer.com",
       "region": "US"
