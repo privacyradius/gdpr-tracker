@@ -1,0 +1,50 @@
+{
+  "id": "airtable",
+  "name": "Airtable",
+  "description": "All-in-one collaboration platform",
+  "categories": [
+    "Spreadsheet", 
+    "Database",
+    "CRM"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
+  "website": "https://www.airtable.com",
+  "applicationUrl": "https://airtable.com/login",    
+  "twitter": "airtable",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://airtable.com/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "privacy@airtable.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+    "SOC 1",
+    "SOC 2",
+    "ISO 27001"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "21/5/2018",
+      "url": "https://blog.airtable.com/airtable-gdpr-updates/"
+    }
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/airtable",
+  "statusUrl": "",
+  "statusTwitter": "https://twitter.com/airtablestatus",
+  "verified": false
+}
