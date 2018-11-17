@@ -1,0 +1,50 @@
+{
+  "id": "Buffer",
+  "name": "Buffer",
+  "description": "Social Media management platform",
+  "categories": [
+    "Social",
+    "Publishing"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
+  "website": "https://www.buffer.com",
+  "applicationUrl": "https://buffer.com/app",
+  "twitter": "buffer",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://buffer.com/privacy",
+  "dsarUrl": "https://buffer.com/app/account/leave",
+  "dpaUrl": "https://dochub.com/buffer/QN1Dno/buffer-data-processing-addendum?dt=NbTfHaRbsZmP6Fz4bqEy",
+  "subprocessorsUrl": "https://buffer.com/legal#gdpr",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "General",
+      "name": "hello@buffer.com",
+      "email": "hello@buffer.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [
+    {
+      "date": "23/8/2017",
+      "url": "https://open.buffer.com/buffer-has-been-hacked-here-is-whats-going-on/"
+    }
+  ],
+  "articles": [
+    {
+      "date": "18/5/2018",
+      "url": "https://buffer.com/legal#gdpr"
+    }
+  ],
+  "bugBountyProgramUrl": "https://buffer.com/security",
+  "statusUrl": "http://status.buffer.com",
+  "statusTwitter": "",
+  "verified": true
+}
