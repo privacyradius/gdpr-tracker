@@ -1,0 +1,54 @@
+{
+  "id": "whatsapp",
+  "name": "WhatsApp",
+  "description": "Instang Messaging Platform",
+  "categories": [
+    "Messaging"
+  ],
+  "iconUrl": "https://pbs.twimg.com/profile_images/922908923207839744/5EZID3tH_400x400.jpg",
+  "website": "https://www.whatsapp.com",
+  "applicationUrl": "https://web.whatsapp.com",    
+  "twitter": "https://twitter.com/whatsapp",
+  "countryHQ": "US",
+  "gdprReadyStatus": "unknown",
+  "privacyUrl": "https://www.whatsapp.com/legal/#privacy-policy",
+  "dsarUrl": "https://faq.whatsapp.com/en/26000110/?category=5245246",
+  "dpaUrl": "https://www.whatsapp.com/legal/business-data-processing-terms/?l=af",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [
+    ""
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Objections",
+      "email": "Objection.eu@support.whatsapp.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [ 
+    "EU-U.S. Privacy Shield",
+    "Swiss-U.S. Privacy Shield"
+    
+  ],
+  "dataBreaches": [
+    {
+      "date": "",
+      "url": ""
+    }
+  ],
+  "articles": [
+    {
+      "date": "24/4/2018",
+      "url": "https://blog.whatsapp.com/10000639/Updating-Our-Terms-of-Service-and-Privacy-Policy-for-Users-in-the-European-Union"
+    }
+  ],
+  "bugBountyProgramUrl": "https://www.facebook.com/whitehat",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "verified": false
+}
