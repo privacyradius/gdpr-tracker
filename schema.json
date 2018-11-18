@@ -96,7 +96,7 @@
     },
     "subprocessorsUrl": {
       "type": "string",
-      "description": "Subprocessors Overview URL"
+      "description": "Subprocessors overview URL"
     },
     "dataCenters": {
       "type": "array",
@@ -210,6 +210,10 @@
       "type": "string",
       "description": "Twitter handle that communicates about service status & uptime",
       "examples": ["acmestatus"]
+    },
+    "integrationsUrl": {
+      "type": "string",
+      "description": "Integrations overview URL"
     },
     "verified": {
       "type": "boolean",
