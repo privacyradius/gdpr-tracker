@@ -51,5 +51,6 @@
   }],
   "statusUrl": "https://www.acmesaas.com/status",
   "statusTwitter": "statusacmesaas",
+  "integrationsUrl": "https://www.acmesaas.com/integrations",
   "verified": true
 }
