@@ -1,0 +1,52 @@
+{
+  "id": "activecampaign",
+  "name": "ActiveCampaign",
+  "description": "E-mail & Marketing automation",
+  "categories": [
+    "E-mail marketing", 
+    "Marketing Automation"
+  ],
+  "website": "https://www.activecampaign.com",
+  "applicationUrl": "https://www.activecampaign.com/login/",    
+  "twitter": "ActiveCampaign",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.activecampaign.com/privacy-policy/",
+  "dsarUrl": "https://ac.activehosted.com/f/2175",
+  "dpaUrl": "https://ac.activehosted.com/f/2176",
+  "subprocessorsUrl": "https://www.activecampaign.com/subprocessors/",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS",
+    "Cloudflare"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "info@activecampaign.com",
+      "email": "info@activecampaign.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [ 
+  "ISO 27001",
+  "ISO 27017",
+  "ISO 27018",
+  "HIPAA",
+  "EU-U.S. Privacy Shield"
+  
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "18/5/2018",
+      "url": "https://www.activecampaign.com/gdpr-updates/"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "http://status.activecampaign.com",
+  "statusTwitter": "",
+  "verified": false
+}
