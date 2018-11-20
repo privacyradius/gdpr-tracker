@@ -1,0 +1,55 @@
+{
+  "id": "twilio",
+  "name": "Twilio",
+  "description": "Communication API",
+  "categories": [
+    "API", 
+    "Communications"
+  ],
+  "website": "https://www.twilio.com",
+  "applicationUrl": "https://www.twilio.com/login",    
+  "twitter": "twilio",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.twilio.com/legal/privacy",
+  "dsarUrl": "https://www.twilio.com/legal/bcr/controller#appendix-7",
+  "dpaUrl": "https://s3.amazonaws.com/ahoy-assets.twilio.com/docs/Twilio_GDPR_DPA_for_ToS.pdf",
+  "subprocessorsUrl": "https://www.twilio.com/legal/sub-processors",
+  "dataCenters": [
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "Privacy Officer",
+      "name": "DPO",
+      "email": "privacy@twilio.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [ 
+  "ISO 27001",
+  "SOC 2 Type I",
+  "Swiss-U.S. Privacy Shield",
+  "EU-U.S. Privacy Shield"
+  ],
+  "dataBreaches": [
+    {
+     "date": "10/11/2017",
+      "url": "https://www.nst.com.my/lifestyle/bots/2017/11/301534/twilio-inc-mobile-app-errors-expose-data-180m-phones"
+    }
+  ],
+  "articles": [
+    {
+      "date": "25/5/2018",
+      "url": "https://www.twilio.com/gdpr"
+    }
+  ],
+  "bugBountyProgramUrl": "https://bugcrowd.com/twilio",
+  "statusUrl": "https://status.twilio.com",
+  "statusTwitter": "",
+  "verified": false
+}
