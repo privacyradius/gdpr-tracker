@@ -48,5 +48,6 @@
   "bugBountyProgramUrl": "",
   "statusUrl": "http://status.activecampaign.com",
   "statusTwitter": "",
+  "securityUrl": "https://www.activecampaign.com/security/",
   "verified": false
 }
