@@ -39,11 +39,9 @@
       "url": "https://cloud.google.com/security/gdpr"
     },
     {
-      "url": "https://cloud.google.com/security"
-    },
-    {
       "url": "https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI"
     }
   ],
-  "bugBountyProgramUrl": "https://www.google.com/about/appsecurity/reward-program"
+  "bugBountyProgramUrl": "https://www.google.com/about/appsecurity/reward-program",
+  "securityUrl": "https://cloud.google.com/security"
 }

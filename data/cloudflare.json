@@ -37,5 +37,6 @@
     }
   ],
   "bugBountyProgramUrl": "https://hackerone.com/cloudflare",
+  "securityUrl": "https://www.cloudflare.com/security-policy",
   "verified": false
 }

@@ -41,5 +41,6 @@
   "bugBountyProgramUrl": "",
   "statusUrl": "https://status.bugsnag.com/",
   "statusTwitter": "bugsnagstatus",
+  "securityUrl": "https://www.bugsnag.com/security",
   "verified": false
 }

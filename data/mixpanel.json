@@ -35,11 +35,9 @@
       "url": "https://mixpanel.com/blog/2017/12/21/gdpr-mixpanel-readiness"
     },
     {
-      "url": "https://mixpanel.com/legal/security-overview"
-    },
-    {
       "url": "https://www.privacyshield.gov/participant?id=a2zt0000000TOacAAG"
     }
   ],
+  "securityUrl": "https://mixpanel.com/legal/security-overview",  
   "bugBountyProgramUrl": ""
 }

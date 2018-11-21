@@ -27,14 +27,12 @@
   "articles": [
     {
       "url": "https://kb.mailchimp.com/accounts/management/about-the-general-data-protection-regulation"
-    }, 
-    {
-      "url": "https://mailchimp.com/about/security"
     },
     {
       "url": "https://kb.mailchimp.com/binaries/content/assets/mailchimpkb/us/en/pdfs/mailchimp_gdpr_sept2017.pdf"
     }
   ],
   "bugBountyProgramUrl": "",
+  "securityUrl": "https://mailchimp.com/about/security",  
   "verified": false
 }

@@ -32,10 +32,8 @@
   "articles": [
     {
       "url": "https://help.heroku.com/RXPQ7FOV/eu-general-data-protection-regulations-gdpr"
-    },
-    {
-      "url": "https://www.heroku.com/policy/security"
     }
   ],
-  "bugBountyProgramUrl": "https://bugcrowd.com/heroku"
+  "bugBountyProgramUrl": "https://bugcrowd.com/heroku",
+  "securityUrl": "https://www.heroku.com/policy/security"  
 }

@@ -50,5 +50,6 @@
   "bugBountyProgramUrl": "https://docs.rollbar.com/docs/responsible-disclosure-policy",
   "statusUrl": "https://status.rollbar.com/",
   "statusTwitter": "",
+  "securityUrl": "https://docs.rollbar.com/docs/security",
   "verified": true
 }

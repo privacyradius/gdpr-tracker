@@ -43,5 +43,6 @@
       "url": "https://trello.com/legal/security"
     }
   ],
-  "bugBountyProgramUrl": "https://hackerone.com/trello"
+  "bugBountyProgramUrl": "https://hackerone.com/trello",
+  "securityUrl": "https://trello.com/legal/security"
 }

@@ -45,5 +45,6 @@
   "bugBountyProgramUrl": "https://buffer.com/security",
   "statusUrl": "http://status.buffer.com",
   "statusTwitter": "",
+  "securityUrl": "https://buffer.com/security",
   "verified": false
 }

@@ -37,5 +37,6 @@
   "bugBountyProgramUrl": "https://stripe.com/docs/security",
   "statusUrl": "https://status.stripe.com/",
   "statusTwitter": "stripestatus",
+  "securityUrl": "https://stripe.com/docs/security",
   "verified": false
 }

@@ -35,11 +35,9 @@
   "articles": [
     {
       "url": "https://www.mailgun.com/gdpr"
-    },
-    {
-      "url": "https://www.mailgun.com/security-privacy"
     }
   ],
   "bugBountyProgramUrl": "",
+  "securityUrl": "https://www.mailgun.com/security-privacy", 
   "verified": false
 }
