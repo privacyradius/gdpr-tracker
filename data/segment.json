@@ -35,5 +35,6 @@
       "url": "https://segment.com/product/gdpr"
     }
   ],
-  "bugBountyProgramUrl": "https://segment.com/docs/legal/security"
+  "bugBountyProgramUrl": "https://segment.com/docs/legal/security",
+  "securityUrl": "https://segment.com/docs/legal/security"
 }

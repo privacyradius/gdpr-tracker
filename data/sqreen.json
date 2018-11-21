@@ -27,5 +27,6 @@
   "dataBreaches": [],
   "articles": [],
   "bugBountyProgramUrl": "https://www.sqreen.io/security#responsible_disclosure",
+  "securityUrl": "https://www.sqreen.io/security",
   "verified": true
 }

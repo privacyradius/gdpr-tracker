@@ -53,5 +53,6 @@
   "bugBountyProgramUrl": "https://hackerone.com/sendgrid",
   "statusUrl": "http://status.sendgrid.com/",
   "statusTwitter": "sendgrid_ops",
+  "securityUrl": "https://sendgrid.com/policies/security",
   "verified": true
 }

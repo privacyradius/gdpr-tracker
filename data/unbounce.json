@@ -39,5 +39,6 @@
         "AWS"
     ],
     "subprocessorsUrl": "",
-    "bugBountyProgramUrl": ""
+    "bugBountyProgramUrl": "",
+    "securityUrl": "https://unbounce.com/security/"
 }

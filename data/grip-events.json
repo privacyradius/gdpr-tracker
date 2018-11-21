@@ -41,5 +41,6 @@
         "AWS"
     ],
     "subprocessorsUrl": "",
-    "bugBountyProgramUrl": ""
+    "bugBountyProgramUrl": "",
+    "securityUrl": "https://grip.events/security-summary/"  
 }

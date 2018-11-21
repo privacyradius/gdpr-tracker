@@ -48,5 +48,6 @@
       "url": "https://www.dropbox.com/security"
     }
   ],
-  "bugBountyProgramUrl": "https://hackerone.com/dropbox"
+  "bugBountyProgramUrl": "https://hackerone.com/dropbox",
+  "securityUrl": "https://www.dropbox.com/security"
 }

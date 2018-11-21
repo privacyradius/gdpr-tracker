@@ -42,5 +42,6 @@
 ],
   "statusUrl": "https://status.chargebee.com",
   "statusTwitter": "",
+  "securityUrl": "https://www.chargebee.com/security/",
   "verified": true
 }

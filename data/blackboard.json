@@ -22,5 +22,6 @@
   ],
   "dataBreaches": [],
   "articles": [],
-  "bugBountyProgramUrl": "http://www.blackboard.com/legal/security-policy.html"
+  "bugBountyProgramUrl": "http://www.blackboard.com/legal/security-policy.html",
+  "securityUrl": "http://www.blackboard.com/legal/security-policy.html"
 }

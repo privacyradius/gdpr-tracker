@@ -42,5 +42,6 @@
   "bugBountyProgramUrl": "https://auth0.com/whitehat",
   "statusUrl": "http://uptime.auth0.com/",
   "statusTwitter": "auth0status",
+  "securityUrl": "https://auth0.com/security",
   "verified": false
 }
