@@ -1,0 +1,48 @@
+{
+  "id": "supporthero",
+  "name": "SupportHero",
+  "description": "Self-service knowledge base",
+  "categories": [
+    "SaaS", 
+    "Knowledge Base"
+  ],
+  "website": "https://www.supporthero.io",
+  "applicationUrl": "https://signin.supporthero.io",    
+  "twitter": "supportheroapp",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.supporthero.io/privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://www.supporthero.io/data-sub-processors/",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Legal",
+      "email": "legal@supporthero.io",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+  ],
+  "dataBreaches": [
+    { 
+    }
+  ],
+  "articles": [
+    {
+      "date": "25/5/2018",
+      "url": "https://www.supporthero.io/gdpr/"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "verified": false
+}
