@@ -1,0 +1,51 @@
+{
+  "id": "airbnb",
+  "name": "Airbnb",
+  "description": "Vacation Homes & Condo Rentals",
+  "categories": [
+    "SaaS", 
+    "Traveling"
+  ],
+  "website": "https://www.airbnb.com",
+  "applicationUrl": "https://www.airbnb.com",    
+  "twitter": "Airbnb",
+  "countryHQ": "US",
+  "gdprReadyStatus": "unknown",
+  "privacyUrl": "https://www.airbnb.co.uk/terms/privacy_policy",
+  "dsarUrl": "https://www.airbnb.com/help/article/2273/i-am-an-airbnb-user--how-do-i-exercise-my-data-subject-rights-under-the-general-data-protection-regulation--gdpr",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "dpo@airbnb.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [ 
+  "Swiss-U.S. Privacy Shield",
+  "EU-U.S. Privacy Shield"
+  ],
+  "dataBreaches": [
+    {
+     "date": "02/10/2018",
+      "url": "https://www.news.com.au/technology/online/social/your-stolen-facebook-account-can-be-bought-for-just-390-on-the-dark-web/news-story/0ec028c40c5c348edcdd99a5480971af"
+    }
+  ],
+  "articles": [
+    {
+    }
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/airbnb",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "verified": false
+}
