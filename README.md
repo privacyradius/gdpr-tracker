@@ -101,6 +101,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
   "bugBountyProgramUrl": "https://www.beatswtich.com/bounty-program",
   "statusUrl": "https://www.beatswtich.com/status",
   "statusTwitter": "beatswitchstatus",
+  "securityUrl": "https://www.beatswtich.com/security",
   "verified": true
 }
 ```
