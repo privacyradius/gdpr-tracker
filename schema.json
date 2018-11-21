@@ -199,7 +199,7 @@
     "bugBountyProgramUrl": {
       "type": "string",
       "description": "Link to bug bounty program",
-      "examples": ["https://hackerone.com/security"]
+      "examples": ["https://hackerone.com/bounty-program"]
     },
     "statusUrl": {
       "type": "string",
@@ -214,6 +214,11 @@
     "integrationsUrl": {
       "type": "string",
       "description": "Integrations overview URL"
+    },
+    "securityUrl": {
+      "type": "string",
+      "description": "Link to the security page",
+      "examples": ["https://hackerone.com/security"]
     },
     "verified": {
       "type": "boolean",
