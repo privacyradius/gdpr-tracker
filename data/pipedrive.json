@@ -1,0 +1,52 @@
+{
+  "id": "pipedrive",
+  "name": "Pipedrive",
+  "description": "Sales CRM & Pipeline Management Software",
+  "categories": [
+    "SaaS", 
+    "Sales CRM"
+  ],
+  "website": "https://www.pipedrive.com",
+  "applicationUrl": "https://app.pipedrive.com",    
+  "twitter": "pipedrive",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.pipedrive.com/en/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "https://danjcm2668ozn.cloudfront.net/Pipedrive-DPA-2018-08-27.pdf",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS",
+    "Rackspace"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "dpo@pipedrive.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+  "EU-U.S. Privacy Shield",
+  "SOC 2 Type I"
+  ],
+  "dataBreaches": [
+    { 
+    }
+  ],
+  "articles": [
+    {
+      "date": "25/5/2018",
+      "url": "https://support.pipedrive.com/hc/en-us/articles/360000335129-Pipedrive-and-GDPR"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "https://status.pipedrive.com",
+  "statusTwitter": "",
+  "verified": false
+}
