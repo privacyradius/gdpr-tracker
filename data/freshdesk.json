@@ -1,0 +1,55 @@
+{
+  "id": "freshdesk",
+  "name": "Freshdesk",
+  "description": "Customer support software",
+  "categories": [
+    "SaaS", 
+    "Customer support"
+  ],
+  "website": "https://freshdesk.com",
+  "applicationUrl": "https://apps.freshdesk.com",    
+  "twitter": "freshdesk",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.freshworks.com/privacy/",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.freshworks.com/data-processing-addendum/",
+  "subprocessorsUrl": "https://www.freshworks.com/privacy/sub-processor/",
+  "dataCenters": [
+    "US",
+    "EU",
+    "AU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "dpo@freshworks.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+  "ISO 27001",
+  "SOC 2 Type II",
+  "EU-U.S. Privacy Shield",
+  "Swiss-U.S. Privacy Shield",
+  "HIPAA"
+  ],
+  "dataBreaches": [
+    {
+    }
+  ],
+  "articles": [
+    {
+      "date": "25/5/2018",
+      "url": "https://www.freshworks.com/gdpr/company/"
+    }
+  ],
+  "bugBountyProgramUrl": "https://hackerone.com/freshworks",
+  "statusUrl": "http://status.freshdesk.com",
+  "statusTwitter": "",
+  "verified": false
+}
