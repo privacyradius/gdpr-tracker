@@ -21,13 +21,7 @@
   "hostingPartners": [
     "AWS"
   ],
-  "contacts": [
-    {
-      "type": "Other",
-      "name": "Contact Us",
-      "region": "Global"
-    }
-  ],
+  "contacts": [],
   "certifications": [ 
   "Swiss-U.S. Privacy Shield",
   "EU-U.S. Privacy Shield"
