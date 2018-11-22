@@ -1,0 +1,52 @@
+{
+  "id": "grammarly",
+  "name": "Grammarly",
+  "description": "Online grammar & spell checking",
+  "categories": [
+    "SaaS", 
+    "Proofreading"
+  ],
+  "website": "https://www.grammarly.com",
+  "applicationUrl": "https://app.grammarly.com",    
+  "twitter": "Grammarly",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://www.grammarly.com/privacy-policy",
+  "dsarUrl": "https://support.grammarly.com/hc/en-us/requests/new?personaldatareport",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Contact Us",
+      "email": "https://support.grammarly.com/hc/en-us/requests/new",
+      "region": "Global"
+    }
+  ],
+  "certifications": [ 
+  "Swiss-U.S. Privacy Shield",
+  "EU-U.S. Privacy Shield"
+  ],
+  "dataBreaches": [
+    {
+     "date": "08/02/2018",
+      "url": "https://techbeacon.com/grammarly-leaks-everything-youve-ever-typed-your-browser-everything"
+    }
+  ],
+  "articles": [
+    {
+      "date": "25/5/2018",
+      "url": "https://support.grammarly.com/hc/en-us/articles/360003816112-Does-the-GDPR-apply-to-Grammarly-"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "verified": false
+}
