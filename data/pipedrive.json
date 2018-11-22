@@ -35,10 +35,7 @@
   "EU-U.S. Privacy Shield",
   "SOC 2 Type I"
   ],
-  "dataBreaches": [
-    { 
-    }
-  ],
+  "dataBreaches": [],
   "articles": [
     {
       "date": "25/5/2018",
