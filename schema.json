@@ -220,6 +220,11 @@
       "description": "Link to the security page",
       "examples": ["https://hackerone.com/security"]
     },
+    "gdprUrl": {
+      "type": "string",
+      "description": "Link to the security page",
+      "examples": ["https://hackerone.com/gdpr"]
+    },
     "verified": {
       "type": "boolean",
       "description": "Verified by company representative",
