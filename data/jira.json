@@ -1,0 +1,52 @@
+{
+  "id": "jira",
+  "name": "Jira",
+  "description": "Software development tool for agile teams",
+  "categories": [
+    "SaaS",
+    "Project management"
+  ],
+  "website": "https://www.atlassian.com",
+  "applicationUrl": "https://id.atlassian.com",
+  "twitter": "jira",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.atlassian.com/legal/privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.atlassian.com/legal/data-processing-addendum",
+  "subprocessorsUrl": "https://www.atlassian.com/legal/sub-processors",
+  "dataCenters": [
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "privacy@atlassian.com",
+      "region": "Global"
+    }
+  ],
+  "certifications": [
+    "EU-U.S. Privacy Shield",
+    "SOC 2 Type I",
+    "ISO 27001",
+    "ISO 27018",
+    "PCI DSS Level 3.2"
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "25/5/2018",
+      "url": "https://support.pipedrive.com/hc/en-us/articles/360000335129-Pipedrive-and-GDPR"
+    }
+  ],
+  "bugBountyProgramUrl": "https://www.atlassian.com/company/events/summit-us/watch-sessions/2017/code-deploy/the-atlassian-bug-bounty-program",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "securityUrl": "https://www.atlassian.com/trust/security",
+  "verified": false
+}
