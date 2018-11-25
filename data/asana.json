@@ -1,0 +1,48 @@
+{
+  "id": "asana",
+  "name": "Asana",
+  "description": "Work management platform",
+  "categories": [
+    "Task Management",
+    "Project Management"
+  ],
+  "website": "https://asana.com",
+  "applicationUrl": "https://asana.com/?noredirect#login",    
+  "twitter": "https://twitter.com/asana",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://asana.com/terms#privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "https://asana.com/terms#data-processing",
+  "subprocessorsUrl": "https://asana.com/terms#subprocessors",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "privacy@asana.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+    "SOC 1",
+    "SOC 2 Type I"
+    
+  ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "12/4/2018",
+      "url": "https://blog.asana.com/2018/04/asana-gdpr/"
+    }
+  ],
+  "bugBountyProgramUrl": "https://asana.com/bounty",
+  "statusUrl": "https://trust.asana.com/",
+  "statusTwitter": "",
+  "verified": false
+}
