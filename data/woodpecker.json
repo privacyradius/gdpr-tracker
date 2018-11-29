@@ -1,0 +1,49 @@
+{
+  "id": "woodpecker",
+  "name": "Woodpecker.co",
+  "description": "Woodpecker is an intelligent follow-up automation for B2B companies.",
+  "categories": [
+    "SaaS", 
+    "Sales Automation"
+  ],
+  "website": "https://woodpecker.co",
+  "applicationUrl": "https://app.woodpecker.co",    
+  "twitter": "Woodpeckerapp",
+  "countryHQ": "PL",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://woodpecker.co/privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU",
+    "CA"
+  ],
+  "hostingPartners": [
+    "OVH"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "margaret@woodpecker.co",
+      "region": "EU"
+    }
+  ],
+  "certifications": [
+      "ISO 27001" 
+    ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "27/3/2018",
+      "url": "https://blog.woodpecker.co/cold-email/general-data-protection-regulation/"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "http://status.woodpecker.co",
+  "statusTwitter": "",
+  "securityUrl": "https://woodpecker.co/safety-security/",
+  "gdprUrl": "https://woodpecker.co/gdpr-compliance/",
+  "verified": true
+}
