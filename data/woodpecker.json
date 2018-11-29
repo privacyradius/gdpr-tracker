@@ -2,6 +2,7 @@
   "id": "woodpecker",
   "name": "Woodpecker.co",
   "description": "Woodpecker is an intelligent follow-up automation for B2B companies.",
+  "iconUrl": "https://res.cloudinary.com/gdprtracker-io/image/upload/v1543510151/woodpecker.co.jpg",
   "categories": [
     "SaaS", 
     "Sales Automation"
