@@ -1,0 +1,45 @@
+{
+  "id": "acquire",
+  "name": "Acquire",
+  "description": "multi-channel messaging platform",
+  "categories": [
+    "SaaS", 
+    "Customer Communication Platform"
+  ],
+  "website": "https://acquire.io",
+  "applicationUrl": "https://app.acquire.io/login",    
+  "twitter": "acquire_io",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://acquire.io/privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU",
+    "US"
+  ],
+  "hostingPartners": [
+    "Azure"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Ashka Shastri",
+      "email": "ashka@acquire.io",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+  "SOC 2 Type I",
+  "ISO 27001"
+   ],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "GDPRurl": "https://acquire.io/gdpr",
+  "securityUrl": "https://acquire.io/security",
+  "verified": true
+}
