@@ -1,0 +1,42 @@
+{
+  "id": "myschoolapp",
+  "name": "mySchoolAPP",
+  "description": "Smartphone app to aid school to home communication",
+  "categories": [
+    "Mobile App", 
+    "Communication"
+  ],
+  "website": "https://myschoolapp.co.uk",
+  "applicationUrl": "https://appmanager.myschoolapp.co.uk/admin/login",    
+  "twitter": "myschoolapp_uk",
+  "countryHQ": "UK",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://myschoolapp.co.uk/privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "IOMart"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Simon Mead",
+      "email": "dpo@myschoolapp.co.uk",
+      "region": "UK"
+    }
+  ],
+  "certifications": [ 
+    ],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "GDPRurl": "",
+  "securityUrl": "",
+  "verified": true
+}
