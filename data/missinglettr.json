@@ -46,7 +46,7 @@
   "bugBountyProgramUrl": "",
   "statusUrl": "",
   "statusTwitter": "",
-  "GDPRurl": "https://missinglettr.com/legal/gdpr/",
+  "gdprUrl": "https://missinglettr.com/legal/gdpr/",
   "securityUrl": "https://missinglettr.com/legal/security/",
   "verified": false
 }
