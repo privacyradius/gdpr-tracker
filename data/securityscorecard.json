@@ -1,0 +1,50 @@
+{
+  "id": "securityscorecard",
+  "name": "SecurityScoreCard",
+  "description": "SecurityScorecard enables users to view and monitor security ratings.",
+  "categories": [
+    "SaaS", 
+    "Security Monitoring"
+  ],
+  "website": "https://securityscorecard.com",
+  "applicationUrl": "https://platform.securityscorecard.io",    
+  "twitter": "security_score",
+  "countryHQ": "US",
+  "gdprReadyStatus": "unknown",
+  "privacyUrl": "https://s3.amazonaws.com/ssc-corporate-website-production/documents/SecurityScorecard-Online-Privacy.pdf",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+  ],
+  "contacts": [
+    {
+      "type": "Privacy Officer",
+      "name": "Privacy Officer",
+      "email": "privacy@SecurityScorecard.com.",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+    ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "1/12/2017",
+      "url": "https://securityscorecard.com/blog/the-countdown-to-eu-gdpr-are-organizations-ready"
+    },
+    {
+      "date": "25/5/2018",
+      "url": "hhttps://securityscorecard.com/blog/gdpr-is-in-effect"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "GDPRurl": "",
+  "securityUrl": "",
+  "verified": false
+}
