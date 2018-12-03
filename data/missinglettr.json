@@ -1,0 +1,52 @@
+{
+  "id": "missinglettr",
+  "name": "Missinglettr",
+  "description": "Clever social campaigns and engagement tools for companies that blog.",
+  "categories": [
+    "SaaS", 
+    "Social Content Management"
+  ],
+  "website": "https://missinglettr.com/",
+  "applicationUrl": "https://missinglettr.com/accounts/login/",    
+  "twitter": "Missinglettr",
+  "countryHQ": "UK",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.iubenda.com/privacy-policy/43941799",
+  "dsarUrl": "https://missinglettr.gdprform.io/en",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "privacy@missinglettr.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [ 
+  "PCI DSS Level 1"
+    ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "1/7/2018",
+      "url": "http://help.missinglettr.com/faq/is-missinglettr-gdpr-compliant"
+    },
+    {
+      "date": "25/5/2018",
+      "url": "http://help.missinglettr.com/faq/i-want-to-exercise-my-rights-under-gdpr"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "gdprUrl": "https://missinglettr.com/legal/gdpr/",
+  "securityUrl": "https://missinglettr.com/legal/security/",
+  "verified": false
+}
