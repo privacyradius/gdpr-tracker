@@ -30,7 +30,7 @@
     "applicationUrl": "https://owlpower.eu/owl-suite/",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "Cloudflare"
     ],
     "subprocessorsUrl": "",

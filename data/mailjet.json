@@ -20,7 +20,7 @@
   "dataCenters": [
     "EU"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "Google Cloud"
   ],
   "contacts": [

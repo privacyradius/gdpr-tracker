@@ -17,7 +17,7 @@
   "dpaUrl": "https://www.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=a02b04f7-fb75-48eb-8fb3-ebcf240daa42",
   "subprocessorsUrl": "https://sendgrid.com/policies/privacy/sub-processors",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS",
     "SoftLayer"
   ],

@@ -16,7 +16,7 @@
   "dpaUrl": "https://docs.bugsnag.com/legal/dpa",
   "subprocessorsUrl": "https://docs.bugsnag.com/legal/subprocessors",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS",
     "Google Cloud"
   ],

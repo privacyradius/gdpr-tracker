@@ -29,7 +29,7 @@
     "applicationUrl": "https://new.polydone.com/login",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

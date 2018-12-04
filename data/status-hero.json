@@ -18,7 +18,7 @@
   "dpaUrl": "https://statushero.com/gdpr",
   "subprocessorsUrl": "https://statushero.com/gdpr",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "Cloudflare",
     "Heroku",
     "AWS"

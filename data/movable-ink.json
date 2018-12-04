@@ -17,7 +17,7 @@
   "dpaUrl": "",
   "subprocessorsUrl": "",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS"
   ],
   "contacts": [],

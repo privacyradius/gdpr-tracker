@@ -30,7 +30,7 @@
     "applicationUrl": "https://compliance.login.globalrelay.com/cc/getToken",
     "certifications": [],
     "gdprReadyStatus": "unknown",
-    "hostingPartners": [],
+    "hostingProviders": [],
     "subprocessorsUrl": "",
     "bugBountyProgramUrl": ""
 }

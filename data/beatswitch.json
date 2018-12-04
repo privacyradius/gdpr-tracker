@@ -16,7 +16,7 @@
   "subprocessorsUrl": "https://www.subprocessors.io/beatswitch",
   "dpaUrl": "",
   "dataCenters": ["EU"],
-  "hostingPartners": ["AWS"],
+  "hostingProviders": ["AWS"],
   "contacts": [
     {
       "type": "DPO",

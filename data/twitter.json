@@ -16,7 +16,7 @@
   "dpaUrl": "https://gdpr.twitter.com/en/dpa.html",
   "subprocessorsUrl": "https://gdpr.twitter.com/en/subprocessors.html",
   "dataCenters": [],
-  "hostingPartners": [],
+  "hostingProviders": [],
   "contacts": [],
   "certifications": [
     "EU-U.S. Privacy Shield",

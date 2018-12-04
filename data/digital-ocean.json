@@ -17,7 +17,7 @@
   "dpaUrl": "https://www.digitalocean.com/security/gdpr/data-processing-agreement",
   "subprocessorsUrl": "",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "Digital Ocean"
   ],
   "contacts": [],

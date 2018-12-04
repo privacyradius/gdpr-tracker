@@ -29,7 +29,7 @@
     "applicationUrl": "https://dashboard.getsocial.im/#/login",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "https://www.getsocial.im/legal/#sub-processors",

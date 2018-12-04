@@ -40,7 +40,7 @@
     "certifications": [
       "PCI DSS Level 1"
     ],
-    "hostingPartners": [
+    "hostingProviders": [
       "Google Cloud"
     ],
     "subprocessorsUrl": "https://www.infusionsoft.com/legal/subprocessors",

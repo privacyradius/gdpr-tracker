@@ -16,7 +16,7 @@
   "dpaUrl": "https://segment.com/docs/guides/best-practices/preparing-for-the-gdpr/#how-to-opt-into-the-data-processing-agreement-and-eu-model-contract-clauses",
   "subprocessorsUrl": "https://segment.com/docs/legal/subprocessors",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS",
     "Google Cloud"
   ],

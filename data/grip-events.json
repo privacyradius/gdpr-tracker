@@ -37,7 +37,7 @@
     "applicationUrl": "https://www.grip.events",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

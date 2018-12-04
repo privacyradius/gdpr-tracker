@@ -17,7 +17,7 @@
   "dataCenters": [
     "US"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS",
     "Google Cloud"
   ],

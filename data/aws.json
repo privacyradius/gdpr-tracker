@@ -18,7 +18,7 @@
   "dataCenters": [
     "Global"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS"
   ],
   "contacts": [],

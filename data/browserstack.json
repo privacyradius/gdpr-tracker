@@ -37,7 +37,7 @@
         "SOC 2 Type II"
     ],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS", 
         "Green Mini", 
         "Mac Stadium"

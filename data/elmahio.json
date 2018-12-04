@@ -35,7 +35,7 @@
     "applicationUrl": "https://elmah.io",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "Azure"
     ],
     "subprocessorsUrl": "",

@@ -20,7 +20,7 @@
     "US",
     "EU"
   ],
-  "hostingPartners": [],
+  "hostingProviders": [],
   "contacts": [
     {
       "type": "DPO",

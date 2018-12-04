@@ -27,7 +27,7 @@
     "applicationUrl": "https://uvdesk.com/en/member/login",
     "certifications": [],
     "gdprReadyStatus": "inProgress",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

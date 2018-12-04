@@ -31,7 +31,7 @@
     "applicationUrl": "https://app.conversationstarter.net/",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

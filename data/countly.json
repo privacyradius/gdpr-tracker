@@ -35,7 +35,7 @@
     "applicationUrl": "https://count.ly",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "Google Cloud"
     ],
     "subprocessorsUrl": "",

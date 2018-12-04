@@ -28,7 +28,7 @@
     "applicationUrl": "https://app.minutemailer.com",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "City Cloud"
     ],
     "subprocessorsUrl": "",

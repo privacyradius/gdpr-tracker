@@ -32,7 +32,7 @@
     "applicationUrl": "https://dmp.smarketingcloud.com/saas/index.php/s/login",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

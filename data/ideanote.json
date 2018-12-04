@@ -28,7 +28,7 @@
     "applicationUrl": "https://app.ideanote.io",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
       "AWS"
     ],
     "subprocessorsUrl": "",

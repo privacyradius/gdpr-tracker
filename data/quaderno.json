@@ -19,7 +19,7 @@
   "dataCenters": [
     "EU"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "Digital Ocean"
   ],
   "contacts": [],

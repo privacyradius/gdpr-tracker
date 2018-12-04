@@ -17,7 +17,7 @@
   "dataCenters": [
     "NL"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "Digital Ocean"
   ],
   "dataBreaches": [],

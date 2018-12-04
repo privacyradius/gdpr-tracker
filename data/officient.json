@@ -16,7 +16,7 @@
   "dataCenters": [
     "EU"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS"
   ],
   "contacts": [

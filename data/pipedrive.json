@@ -19,7 +19,7 @@
     "EU",
     "US"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS",
     "Rackspace"
   ],

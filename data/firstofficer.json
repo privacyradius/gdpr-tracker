@@ -35,7 +35,7 @@
     "applicationUrl": "https://www.firstofficer.io",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "Heroku",
         "AWS"
     ],

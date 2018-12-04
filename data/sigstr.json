@@ -36,7 +36,7 @@
     "applicationUrl": "https://app.sigstr.com",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

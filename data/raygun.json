@@ -35,7 +35,7 @@
     "applicationUrl": "https://app.raygun.com/signin",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

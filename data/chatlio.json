@@ -34,7 +34,7 @@
     "applicationUrl": "https://chatlio.com/app/#/login",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

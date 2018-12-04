@@ -16,7 +16,7 @@
   "dpaUrl": "https://assets.dropbox.com/documents/en/legal/data-processing-agreement-dfb-013118.pdf",
   "subprocessorsUrl": "https://assets.dropbox.com/documents/en/legal/subprocessors-dfb-013118.pdf",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS"
   ],
   "contacts": [],

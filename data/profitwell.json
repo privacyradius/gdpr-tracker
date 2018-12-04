@@ -33,7 +33,7 @@
       "Swiss-U.S. Privacy Shield"
     ],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

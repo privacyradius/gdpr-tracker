@@ -33,7 +33,7 @@
     "applicationUrl": "https://www.falcon.io/",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "AWS"
     ],
     "subprocessorsUrl": "",

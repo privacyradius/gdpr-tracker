@@ -17,7 +17,7 @@
   "dpaUrl": "https://legal.linkedin.com/dpa",
   "subprocessorsUrl": "https://legal.linkedin.com/customer-subprocessors",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS"
   ],
   "contacts": [],

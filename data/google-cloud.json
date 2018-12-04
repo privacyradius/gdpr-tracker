@@ -19,7 +19,7 @@
   "dataCenters": [
     "Global"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "Google Cloud"
   ],
   "contacts": [],

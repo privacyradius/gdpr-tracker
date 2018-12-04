@@ -64,7 +64,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
   "dataCenters": [
     "EU"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS", 
     "Digital Ocean"
   ],

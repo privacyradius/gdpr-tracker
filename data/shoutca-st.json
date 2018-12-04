@@ -32,7 +32,7 @@
     "applicationUrl": "https://shoutca.st/",
     "certifications": [],
     "gdprReadyStatus": "ready",
-    "hostingPartners": [
+    "hostingProviders": [
         "OVH",
         "Linode", 
         "Scaleway", 

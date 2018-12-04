@@ -17,7 +17,7 @@
   "dpaUrl": "",
   "subprocessorsUrl": "https://stripe.com/sub-processors/legal",
   "dataCenters": [],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS"
   ],
   "contacts": [],
