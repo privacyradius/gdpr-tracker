@@ -39,7 +39,7 @@
   "bugBountyProgramUrl": "",
   "statusUrl": "",
   "statusTwitter": "",
-  "GDPRurl": "https://acquire.io/gdpr",
+  "gdprUrl": "https://acquire.io/gdpr",
   "securityUrl": "https://acquire.io/security",
   "verified": true
 }
