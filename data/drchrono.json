@@ -1,0 +1,48 @@
+{
+  "id": "drchrono",
+  "name": "drchrono",
+  "description": "DrChrono EHR is a medical records,billing and practice management platform",
+  "categories": [
+    "SaaS", 
+    "Medical Management"
+  ],
+  "website": "https://www.drchrono.com",
+  "applicationUrl": "https://app.drchrono.com/accounts/login/",    
+  "twitter": "drchrono",
+  "countryHQ": "US",
+  "gdprReadyStatus": "unknown",
+  "privacyUrl": "https://www.drchrono.com/ehr-emr/privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "privacy@drchrono.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+  "HIPAA"
+    ],
+  "dataBreaches": [
+    {
+    "date": "3/3/2017",
+     "https://blog.drchrono.com/cloudflare-announcement-ehr-emr-security/"
+    }
+  ],
+  "articles": [
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "gdprUrl": "",
+  "securityUrl": "https://www.drchrono.com/ehr-emr/security-policy/",
+  "verified": false
+}
