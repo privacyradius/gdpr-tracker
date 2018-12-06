@@ -1,0 +1,45 @@
+{
+  "id": "baremetrics",
+  "name": "Baremetrics",
+  "description": "Baremetrics is Subscription Analytics and Insights",
+  "categories": [
+    "SaaS", 
+    "Subscription Analytics"
+  ],
+  "website": "https://baremetrics.com",
+  "applicationUrl": "https://app.baremetrics.com/users/sign_in",    
+  "twitter": "baremetrics",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://baremetrics.com/privacy",
+  "dsarUrl": "https://baremetrics.gdprform.io/",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "PrivacyShield@Baremetrics.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+  "EU-U.S. Privacy Shield",
+  "Swiss-US Privacy Shield"
+    ],
+  "dataBreaches": [],
+  "articles": [
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "https://status.baremetrics.com",
+  "statusTwitter": "",
+  "gdprUrl": "https://baremetrics.com/gdpr",
+  "securityUrl": "https://baremetrics.com/security",
+  "verified": false
+}
