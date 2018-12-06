@@ -1,0 +1,34 @@
+{
+  "id": "lyft",
+  "name": "Lyft",
+  "description": "Lyft is an on-demand transportation company",
+  "categories": [
+    "SaaS", 
+    "Transportaion"
+  ],
+  "website": "https://www.lyft.com",
+  "applicationUrl": "https://account.lyft.com/auth?next=https%3A%2F%2Fwww.lyft.com%2Flogin%2Fjump",    
+  "twitter": "lyft",
+  "countryHQ": "US",
+  "gdprReadyStatus": "nonCompliant",
+  "privacyUrl": "https://www.lyft.com/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingPartners": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "http://status.lyft.co",
+  "statusTwitter": "",
+  "gdprUrl": "",
+  "securityUrl": "",
+  "verified": false
+}
