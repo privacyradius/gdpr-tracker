@@ -7,7 +7,7 @@
     "Transportaion"
   ],
   "website": "https://www.lyft.com",
-  "applicationUrl": "https://account.lyft.com/auth?next=https%3A%2F%2Fwww.lyft.com%2Flogin%2Fjump",    
+  "applicationUrl": "https://account.lyft.com/auth",    
   "twitter": "lyft",
   "countryHQ": "US",
   "gdprReadyStatus": "nonCompliant",
@@ -18,7 +18,7 @@
   "dataCenters": [
     "US"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS"
   ],
   "contacts": [],
