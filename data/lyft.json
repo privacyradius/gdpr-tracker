@@ -10,7 +10,7 @@
   "applicationUrl": "https://account.lyft.com/auth",    
   "twitter": "lyft",
   "countryHQ": "US",
-  "gdprReadyStatus": "nonCompliant",
+  "gdprReadyStatus": "unknown",
   "privacyUrl": "https://www.lyft.com/privacy",
   "dsarUrl": "",
   "dpaUrl": "",
