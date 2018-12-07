@@ -18,7 +18,7 @@
   "dataCenters": [
     "US"
   ],
-  "hostingPartners": [
+  "hostingProviders": [
     "AWS"
   ],
   "contacts": [
@@ -34,8 +34,7 @@
   "Swiss-US Privacy Shield"
     ],
   "dataBreaches": [],
-  "articles": [
-  ],
+  "articles": [],
   "bugBountyProgramUrl": "",
   "statusUrl": "https://status.baremetrics.com",
   "statusTwitter": "",
