@@ -24,7 +24,12 @@
   "contacts": [],
   "certifications": [],
   "dataBreaches": [],
-  "articles": [],
+  "articles": [
+    {
+      "url": "https://www.theverge.com/2018/1/25/16934064/lyft-customer-data-abuse-allegations",
+      "date": "25/01/2018"
+    }
+  ],
   "bugBountyProgramUrl": "",
   "statusUrl": "http://status.lyft.co",
   "statusTwitter": "",
