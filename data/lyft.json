@@ -1,0 +1,39 @@
+{
+  "id": "lyft",
+  "name": "Lyft",
+  "description": "Lyft is an on-demand transportation company",
+  "categories": [
+    "SaaS", 
+    "Transportaion"
+  ],
+  "website": "https://www.lyft.com",
+  "applicationUrl": "https://account.lyft.com/auth",    
+  "twitter": "lyft",
+  "countryHQ": "US",
+  "gdprReadyStatus": "unknown",
+  "privacyUrl": "https://www.lyft.com/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingProviders": [
+    "AWS"
+  ],
+  "contacts": [],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "url": "https://www.theverge.com/2018/1/25/16934064/lyft-customer-data-abuse-allegations",
+      "date": "25/01/2018"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "http://status.lyft.co",
+  "statusTwitter": "",
+  "gdprUrl": "",
+  "securityUrl": "",
+  "verified": false
+}
