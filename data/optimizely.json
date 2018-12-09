@@ -14,7 +14,7 @@
   "privacyUrl": "https://www.optimizely.com/privacy/",
   "dsarUrl": "https://help.optimizely.com/Account_Settings/Request_records_for_EU_General_Data_Protection_Regulation_(GDPR)",
   "dpaUrl": "",
-  "subprocessorsUrl": "",
+  "subprocessorsUrl": "https://www.optimizely.com/legal/subprocessors/",
   "dataCenters": [
     "US"
   ],
