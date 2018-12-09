@@ -1,0 +1,59 @@
+{
+  "id": "optimizely",
+  "name": "Optimizely",
+  "description": "experimentation platform empowering product teams to run A/B testing",
+  "categories": [
+    "SaaS", 
+    "Experimentation Platform"
+  ],
+  "website": "https://www.optimizely.com",
+  "applicationUrl": "https://app.optimizely.com/",    
+  "twitter": "optimizely",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.optimizely.com/privacy/",
+  "dsarUrl": "https://help.optimizely.com/Account_Settings/Request_records_for_EU_General_Data_Protection_Regulation_(GDPR)",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingProviders": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "dpo@optimizely.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [
+  "ISO 27001",
+  "PCI DSS Level 3.2",
+  "SOC 2 Type I",
+  "CSA", 
+  "EU-U.S. Privacy Shield",
+  "Swiss-U.S. Privacy Shield",
+  "TRUSTe Enterprise Privacy Certification"
+    ],
+  "dataBreaches": [
+    {
+      "date": "4/12/2016",
+      "url": "http://nerdydatablog.com/2016/12/04/how-we-found-all-of-optimizleys-clients/"
+    },
+  ],
+  "articles": [
+    {
+      "date": "12/6/2018",
+      "url": "https://blog.optimizely.com/2018/06/12/the-age-of-gdpr/"
+    },
+  ],
+  "bugBountyProgramUrl": "https://bugcrowd.com/optimizely",
+  "statusUrl": "https://status.optimizely.com",
+  "statusTwitter": "",
+  "gdprUrl": "https://www.optimizely.com/compliance/gdpr/",
+  "securityUrl": "https://www.optimizely.com/security/",
+  "verified": false
+}
