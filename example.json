@@ -13,7 +13,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "inProgress",
   "privacyUrl": "https://www.acmesaas.com/privacy",
-  "dsarFormUrl": "https://acme.gdprform.io",
+  "dsarUrl": "https://acme.gdprform.io",
   "dpaUrl": "https://www.acmesaas.com/dpa",
   "subprocessorsUrl": "https://www.acmesaas.com/subprocessors",
   "dataCenters": [

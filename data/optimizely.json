@@ -42,13 +42,13 @@
     {
       "date": "4/12/2016",
       "url": "http://nerdydatablog.com/2016/12/04/how-we-found-all-of-optimizleys-clients/"
-    },
+    }
   ],
   "articles": [
     {
       "date": "12/6/2018",
       "url": "https://blog.optimizely.com/2018/06/12/the-age-of-gdpr/"
-    },
+    }
   ],
   "bugBountyProgramUrl": "https://bugcrowd.com/optimizely",
   "statusUrl": "https://status.optimizely.com",

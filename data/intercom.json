@@ -12,7 +12,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://www.intercom.com/terms-and-policies#privacy",
-  "dsarFormUrl": "https://docs.intercom.com/faqs-and-troubleshooting/your-users-and-leads-data-in-intercom/how-do-i-delete-users-and-leads-in-intercom",
+  "dsarUrl": "https://docs.intercom.com/faqs-and-troubleshooting/your-users-and-leads-data-in-intercom/how-do-i-delete-users-and-leads-in-intercom",
   "dpaUrl": "",
   "subprocessorsUrl": "https://www.intercom.com/terms-and-policies#security-third-parties",
   "dataCenters": [

@@ -12,7 +12,7 @@
   "countryHQ": "US",
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://slack.com/privacy-policy",
-  "dsarFormUrl": "",
+  "dsarUrl": "",
   "dpaUrl": "https://a.slack-edge.com/bed7/marketing/img/legal/pdf/slack_data_processing_addendum.pdf",
   "subprocessorsUrl": "https://slack.com/slack-subprocessors",
   "dataCenters": [
