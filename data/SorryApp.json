@@ -19,7 +19,7 @@
     "EU"
   ],
   "hostingProviders": [
-    "unknown"
+    "AWS"
   ],
   "contacts": [
     {
@@ -31,8 +31,7 @@
   ],
   "certifications": [],
   "dataBreaches": [],
-  "articles": [
-  ],
+  "articles": [],
   "bugBountyProgramUrl": "",
   "statusUrl": "https://status.sorryapp.com",
   "statusTwitter": "",
