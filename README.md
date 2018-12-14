@@ -31,7 +31,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
 | subprocessorsUrl | string | url |  |  | Subprocessors overview URL |
 | dataCenters | array |  |  |  | Locations where data is hosted |
 | hostingProviders | array |  |  |  | Hosting providers |
-| contacts | array |  |  |  | Appointed DPOs or privacy officers per region |
+| contacts | array |  |  |  | Appointed DPOs or privacy officers per region, we only support 3 types DPO, Privacy Officer, Other|
 | certifications | enum |  |  | - ISO 27001<br> - ISO 27002<br> - ISO 27017<br> - ISO 27018<br> - C5<br> - PCI DSS Level 1<br> - PCI DSS Level 3.1<br> - PCI DSS Level 3.2<br> - PCI DSS Level 4.0<br> - SOC 1<br> - SOC 2 Type I<br> - SOC 2 Type II<br> - SOC 3<br> - HIPAA<br> - HITECH<br> - RESO<br> - ISAE 3000<br> - EU-U.S. Privacy Shield<br> - Swiss-U.S. Privacy Shield<br> - CSA<br> - OpenID<br> - TRUSTe Enterprise Privacy Certification<br> - SOX | Certifications |
 | dataBreaches | array |  |  |  | Reported data breaches |
 | articles | array |  |  |  | GDPR & privacy related articles |
