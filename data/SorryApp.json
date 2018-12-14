@@ -1,0 +1,41 @@
+{
+  "id": "Sorryapp",
+  "name": "Sorryapp",
+  "description": "Hosted, status page service for downtime",
+  "categories": [
+    "SaaS", 
+    "Status Service"
+  ],
+  "website": "https://www.sorryapp.com/",
+  "applicationUrl": "https://app.sorryapp.com/people/sign_in",    
+  "twitter": "sorryapp",
+  "countryHQ": "UK",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://help.sorryapp.com/legal-policys/privacy-and-cookies-policy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "https://help.sorryapp.com/legal-policys/privacy-and-cookies-policy",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingProviders": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Other",
+      "email": "hello@sorryapp.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "https://status.sorryapp.com",
+  "statusTwitter": "",
+  "gdprUrl": "https://help.sorryapp.com/legal-policys/gdpr-at-sorry",
+  "securityUrl": "",
+  "verified": false
+}
