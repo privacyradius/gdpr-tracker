@@ -1,0 +1,46 @@
+{
+  "id": "Booking.com",
+  "name": "Booking.com",
+  "description": "Online hotel and accomodation platform",
+  "categories": [
+    "SaaS", 
+    "Travel"
+  ],
+  "website": "https://www.booking.com/",
+  "applicationUrl": "https://www.booking.com/",    
+  "twitter": "bookingcom",
+  "countryHQ": "NL",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.booking.com/content/privacy.en.html",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingProviders": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "DPO",
+      "email": "dataprotectionoffice@booking.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [
+  {
+      "date": "4/06/2018",
+      "url": "https://www.independent.co.uk/travel/news-and-advice/travel-website-hackers-cyber-crime-phishing-holidays-a8382771.html"
+    },
+    ],
+  "articles": [],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "gdprUrl": "",
+  "securityUrl": "",
+  "verified": false
+}
