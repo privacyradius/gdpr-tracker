@@ -1,0 +1,47 @@
+
+  "id": "Netflix",
+  "name": "Netflix",
+  "description": "Video on demand platform",
+  "categories": [
+    "SaaS", 
+    "Entertainment"
+  ],
+  "website": "https://www.netflix.com/",
+  "applicationUrl": "https://www.netflix.com/login",    
+  "twitter": "netflix",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://help.netflix.com/legal/privacy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingProviders": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "Privacy Officer",
+      "name": "Privacy Officer",
+      "email": "privacy@netflix.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+    ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "13/8/2018",
+      "url": "https://www.aol.com/article/finance/2018/08/13/hundreds-of-stolen-passwords-for-netflix-hbo-hulu-and-more-discovered-for-sale-on-dark-web/23501424/?guccounter=1"
+    }
+  ],
+  "bugBountyProgramUrl": "https://bugcrowd.com/netflix",
+  "statusUrl": "https://help.netflix.com/en/is-netflix-down",
+  "statusTwitter": "https://twitter.com/netflixhelps",
+  "gdprUrl": "https://help.netflix.com/en/node/100629",
+  "securityUrl": "",
+  "verified": false
+}
