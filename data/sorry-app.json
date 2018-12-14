@@ -1,6 +1,6 @@
 {
-  "id": "Sorryapp",
-  "name": "Sorryapp",
+  "id": "sorry-app",
+  "name": "Sorry",
   "description": "Hosted, status page service for downtime",
   "categories": [
     "SaaS", 
