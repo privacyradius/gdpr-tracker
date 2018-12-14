@@ -1,0 +1,49 @@
+{
+  "id": "Monday.com",
+  "name": "Monday.com",
+  "description": "Team management tool for project management teams ",
+  "categories": [
+    "SaaS", 
+    "Productivity"
+  ],
+  "website": "https://monday.com/",
+  "applicationUrl": "https://auth.monday.com/login",    
+  "twitter": "Mondaydotcom",
+  "countryHQ": "IL",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://monday.com/terms/all",
+  "dsarUrl": "",
+  "dpaUrl": "https://monday.com/terms/dpa",
+  "subprocessorsUrl": "https://monday.com/terms/subprocessors",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingProviders": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "DPO",
+      "name": "Aner Rabinovitz",
+      "email": "dpo@monday.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [ 
+  "ISO 27001",
+  "ISO 27018",
+    ],
+  "dataBreaches": [],
+  "articles": [
+    {
+      "date": "31/12/2017",
+      "url": "https://monday.com/img/monday_GDPR_31Dec17.pdf"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "gdprUrl": "https://monday.com/terms/gdpr",
+  "securityUrl": "https://monday.com/security/",
+  "verified": false
+}
