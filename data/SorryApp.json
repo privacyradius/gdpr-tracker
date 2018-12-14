@@ -23,8 +23,8 @@
   ],
   "contacts": [
     {
-      "type": "GDPR",
-      "name": "GDPR",
+      "type": "Other",
+      "name": "Other",
       "email": "hello@sorryapp.com",
       "region": "EU"
     }
@@ -36,7 +36,7 @@
     }
   ],
   "bugBountyProgramUrl": "",
-  "statusUrl": "",
+  "statusUrl": "https://status.sorryapp.com",
   "statusTwitter": "",
   "gdprUrl": "https://help.sorryapp.com/legal-policys/gdpr-at-sorry",
   "securityUrl": "",
