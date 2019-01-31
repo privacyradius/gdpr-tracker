@@ -1,0 +1,57 @@
+{
+	"id": "socketlabs",
+	"name": "SocketLabs",
+	"description": "SocketLabs is a trusted email delivery platform; sending your marketing & transactional email is fast and easy.",
+	"categories": [
+		"Email Marketing",
+		"Transactional Emails"
+	],
+	"iconUrl": "https://www.socketlabs.com/wp-content/themes/socketlabs/images/android-chrome-384x384.png",
+	"website": "https://www.socketlabs.com",
+	"applicationUrl": "https://cp.socketlabs.com",
+	"twitter": "socketlabs",
+	"countryHQ": "US",
+	"gdprReadyStatus": "ready",
+	"privacyUrl": "https://www.socketlabs.com/legal/privacy",
+	"dsarUrl": "",
+	"dpaUrl": "https://www.socketlabs.com/legal/dpa",
+	"subprocessorsUrl": "https://www.socketlabs.com/legal/gdpr/",
+	"dataCenters": [
+		"US"
+	],
+	"hostingProviders": [
+		"AWS",
+		"Rackspace",
+		"Hosting.com",
+		"Sungard"
+	],
+	"contacts": [
+		{
+			"type": "DPO",
+			"name": "Matthew Joseph",
+			"email": "info@verasafe.com",
+			"region": "US"
+		}
+	],
+	"certifications": [
+		"EU-U.S. Privacy Shield",
+		"Swiss-U.S. Privacy Shield"
+	],
+	"dataBreaches": [],
+	"articles": [
+		{
+			"url": "https://www.socketlabs.com/legal/gdpr/"
+		},
+		{
+			"url": "https://www.privacyshield.gov/participant?id=a2zt00000008R4pAAE"
+		},
+		{
+			"url": "https://www.socketlabs.com/legal/service-privacy/"
+		}
+	],
+	"bugBountyProgramUrl": "",
+	"statusUrl": "https://status.socketlabs.com",
+	"statusTwitter": "",
+	"gdprUrl": "https://www.socketlabs.com/legal/gdpr/",
+	"verified": true
+}
