@@ -1,0 +1,43 @@
+{
+  "id": "usersnap",
+  "name": "Usersnap",
+  "description": "Smart Feedback to Build Great Digital Products",
+  "categories": [
+    "Customer Feedback", 
+    "Bugtracking",
+    "QA"
+  ],
+  "website": "https://www.usersnap.com",
+  "applicationUrl": "https://usersnap.com/a/",    
+  "twitter": "usersnap",
+  "countryHQ": "AT",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://usersnap.com/privacy-policy",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingProviders": [
+    "AWS"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Other",
+      "email": "help@usersnap.com",
+      "region": "EU"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "http://status.usersnap.com/",
+  "statusTwitter": "",
+  "gdprUrl": "",
+  "securityUrl": "",
+  "verified": true
+}
