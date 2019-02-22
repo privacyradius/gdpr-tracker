@@ -1,0 +1,42 @@
+{
+  "id": "onebill",
+  "name": "OneBill",
+  "description": "Subscription Billing & Revenue management Services",
+  "categories": [
+    "Subscriptions", 
+     "Billing"
+  ],
+  "website": "https://onebillsoftware.com",
+  "applicationUrl": "https://app.onebillsoftware.com/",    
+  "twitter": "onebillsoftware",
+  "countryHQ": "US",
+  "gdprReadyStatus": "inProgress",
+  "privacyUrl": "https://onebillsoftware.com/privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
+  "dataCenters": [
+    "US"
+  ],
+  "hostingProviders": [
+    "GoDaddy"
+  ],
+  "contacts": [
+    {
+      "type": "Other",
+      "name": "Other",
+      "email": "marketing@onebillsoftware.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [],
+  "dataBreaches": [],
+  "articles": [
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "",
+  "statusTwitter": "",
+  "gdprUrl": "",
+  "securityUrl": "",
+  "verified": true
+}
