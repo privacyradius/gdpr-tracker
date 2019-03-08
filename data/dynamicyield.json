@@ -1,0 +1,50 @@
+{
+  "id": "dynamicyield",
+  "name": "dynamicyield",
+  "description": "AI-Powered Omnichannel personalisation platform",
+  "categories": [
+    "AI", 
+    "Personalisation",
+    "SaaS"
+  ],
+  "website": "https://www.dynamicyield.com",
+  "applicationUrl": "https://adm.dynamicyield.com/",    
+  "twitter": "dynamicyield",
+  "countryHQ": "US",
+  "gdprReadyStatus": "ready",
+  "privacyUrl": "https://www.dynamicyield.com/platform-privacy-policy/",
+  "dsarUrl": "",
+  "dpaUrl": "https://www.dynamicyield.com/dpa/",
+  "subprocessorsUrl": "https://www.everledger.io/privacy-policy#subprocessors",
+  "dataCenters": [
+    "EU"
+  ],
+  "hostingProviders": [
+    "unknown"
+  ],
+  "contacts": [
+    {
+      "type": "Privacy Officer",
+      "name": "Jacob Silber",
+      "email": "privacy@dynamicyield.com",
+      "region": "US"
+    }
+  ],
+  "certifications": [
+ "EU-U.S. Privacy Shield",
+ "Swiss-U.S. Privacy Shield"
+   ],
+  "dataBreaches": [],
+  "articles": [
+  {
+      "date": "24/4/2018",
+      "url": "https://www.dynamicyield.com/blog/gdpr-compliance/"
+    }
+  ],
+  "bugBountyProgramUrl": "",
+  "statusUrl": "https://dynamicyield.statuspage.io",
+  "statusTwitter": "",
+  "gdprUrl": "https://www.dynamicyield.com/gdpr/",
+  "securityUrl": "",
+  "verified": true
+}
