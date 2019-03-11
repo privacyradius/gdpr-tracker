@@ -15,12 +15,11 @@
   "privacyUrl": "https://www.dynamicyield.com/platform-privacy-policy/",
   "dsarUrl": "",
   "dpaUrl": "https://www.dynamicyield.com/dpa/",
-  "subprocessorsUrl": "https://www.everledger.io/privacy-policy#subprocessors",
+  "subprocessorsUrl": "",
   "dataCenters": [
     "EU"
   ],
   "hostingProviders": [
-    "unknown"
   ],
   "contacts": [
     {
@@ -46,5 +45,5 @@
   "statusTwitter": "",
   "gdprUrl": "https://www.dynamicyield.com/gdpr/",
   "securityUrl": "",
-  "verified": true
+  "verified": false
 }
