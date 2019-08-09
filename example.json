@@ -53,5 +53,6 @@
   "statusTwitter": "statusacmesaas",
   "integrationsUrl": "https://www.acmesaas.com/integrations",
   "gdprUrl": "https://www.acmesaas.com/gdpr",
-  "verified": true
+  "verified": true,
+  "businessModel": ["B2C"]
 }

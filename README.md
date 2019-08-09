@@ -38,6 +38,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
 | bugBountyProgramUrl | string | url |  |  | Link to bug bounty program |
 | statusUrl | string | url |  |  | Link to status page |
 | statusTwitter | string |  |  |  | Twitter account that communicates about service status & uptime |
+| businessModel | array |  |  | - B2B<br>- B2C<br>- B2B2C | Business model |
 | verified | boolean |  |  |  | Verified by company representative |
 
 ### [Example](https://github.com/privacyradius/gdpr-tracker/blob/master/schema.json)
@@ -102,6 +103,7 @@ We use JSON Schema to validate the data and to maintain a high level of data qua
   "statusUrl": "https://www.beatswtich.com/status",
   "statusTwitter": "beatswitchstatus",
   "securityUrl": "https://www.beatswtich.com/security",
+  "businessModel": ["B2C"]
   "verified": true
 }
 ```
