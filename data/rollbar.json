@@ -6,7 +6,7 @@
     "Error Monitoring",
     "Bug Reporting"
   ],
-  "iconUrl": "https://rollbar.com/assets/media/rollbar-mark-color.png",
+  "iconUrl": "https://res.cloudinary.com/apideck/image/upload/v1565390186/catalog/rollbar/icon128x128.jpg",
   "website": "https://rollbar.com",
   "applicationUrl": "https://rollbar.com/login",    
   "countryHQ": "US",
