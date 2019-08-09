@@ -6,6 +6,7 @@
     "API", 
     "Communications"
   ],
+  "iconUrl": "https://res.cloudinary.com/apideck/image/upload/v1554722226/catalog/twilio/icon128x128.jpg",
   "website": "https://www.twilio.com",
   "applicationUrl": "https://www.twilio.com/login",    
   "twitter": "twilio",
