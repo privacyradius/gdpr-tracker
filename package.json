@@ -6,7 +6,8 @@
   "scripts": {
     "deploy": "serverless deploy",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "validate-data": "node scripts/validate.js"
+    "validate-data": "node scripts/validate.js",
+    "upload-data": "node scripts/upload"
   },
   "repository": {
     "type": "git",

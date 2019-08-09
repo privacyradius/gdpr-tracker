@@ -32,5 +32,5 @@
   "statusTwitter": "",
   "securityUrl": "https://support.robinhood.com/hc/en-us/articles/360001226546-How-You-re-Protected",
   "verified": false,
-  "businessModel": "B2C"
+  "businessModel": ["B2C"]
 }

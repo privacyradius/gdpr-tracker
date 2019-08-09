@@ -53,15 +53,11 @@
     },
     "website": {
       "type": "string",
-      "format": "uri",
-      "pattern": "^(https?|http?)://",
       "description": "Website of the cloud service",
       "examples": ["https://www.acme.com/"]
     },
     "applicationUrl": {
       "type": "string",
-      "format": "uri",
-      "pattern": "^(https?|http?)://",
       "description": "Aplication url of the cloud service",
       "examples": ["https://app.acme.com/"]
     },
@@ -82,8 +78,6 @@
     },
     "privacyUrl": {
       "type": "string",
-      "format": "uri",
-      "pattern": "^(https?|http?)://",
       "description": "Link to privacy policy",
       "examples": ["https://www.acme.com/privacy"]
     },
@@ -231,6 +225,17 @@
       "type": "boolean",
       "description": "Verified by company representative",
       "examples": [true]
+    },
+    "businessModel": {
+      "type": "array",
+      "description:": "Business model",
+      "items": {
+        "enum": [
+          "B2B",
+          "B2C",
+          "B2B2C"
+        ]
+      }
     }
   }
 }
