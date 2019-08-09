@@ -13,10 +13,10 @@
   "gdprReadyStatus": "unknown",
   "twitter": "https://www.twitter.com/robinhoodapp",
   "countryHQ": "US",
-  "privacyUrl": null,
-  "dsarUrl": null,
-  "dpaUrl": null,
-  "subprocessorsUrl": null,
+  "privacyUrl": "",
+  "dsarUrl": "",
+  "dpaUrl": "",
+  "subprocessorsUrl": "",
   "dataCenters": [
     "US"
   ],
@@ -28,8 +28,8 @@
   "dataBreaches": [],
   "articles": [],
   "bugBountyProgramUrl": "https://hackerone.com/robinhood",
-  "statusUrl": null,
-  "statusTwitter": null,
+  "statusUrl": "",
+  "statusTwitter": "",
   "securityUrl": "https://support.robinhood.com/hc/en-us/articles/360001226546-How-You-re-Protected",
   "verified": false,
   "businessModel": "B2C"
