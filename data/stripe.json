@@ -14,7 +14,7 @@
   "gdprReadyStatus": "ready",
   "privacyUrl": "https://stripe.com/us/privacy",
   "dsarUrl": "",
-  "dpaUrl": "",
+  "dpaUrl": "https://stripe.com/dpa/legal",
   "subprocessorsUrl": "https://stripe.com/sub-processors/legal",
   "dataCenters": [],
   "hostingProviders": [
