@@ -21,7 +21,7 @@
   "homepage": "https://github.com/privacyradius/gdpr-tracker-data#readme",
   "dependencies": {
     "ajv": "^6.2.1",
-    "algoliasearch": "^3.27.0",
+    "algoliasearch": "^4.8.4",
     "bluebird": "^3.5.1",
     "github-api": "^3.0.0"
   }
