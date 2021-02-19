@@ -1,8 +1,8 @@
-# [GDPR Tracker](https://www.gdprtracker.io/) 
+# [ComplianceRank (formerly GDPR Tracker)](https://compliancerank.com/) 
 
 <img src="https://github.com/privacyradius/gdpr-tracker/blob/master/images/screenshot.png">
 
-[GDPR Tracker](https://www.gdprtracker.io/) is a crowdsourced directory that makes it easier for companies and consumers to keep track of the data handling practices of their subcontractors and cloud services in real-time.
+[ComplianceRank](https://compliancerank.com/) is a crowdsourced directory that makes it easier for companies and consumers to keep track of the data handling practices of their subcontractors and cloud services in real-time.
 
 This repository holds all the services displayed in the directory. We strongly believe that data handling practices should be easily available to business & customers. 
 
@@ -128,7 +128,7 @@ We do our best to ensure that the data we provide is complete, accurate and usef
 
 ## Links
 
-* [GDPR Tracker](https://www.gdprtracker.io)
+* [ComplianceRank](https://compliancerank.com/)
 * [GDPR Checklist](https://www.gdprchecklist.io)
 * [GDPR Form](https://www.gdprform.io)
 * [Twitter](https://twitter.com/privacyradius)
